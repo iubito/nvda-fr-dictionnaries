@@ -1,0 +1,647 @@
+﻿symbols:
+==	icoualss	none	never	# ==
+!=	noticoualss	none	never	# !=
+?	-	most
+/	slash
+\\	backslash
+//	double slash	none	never	# //
+±	-	none
+♭	bémol	none	never	# ♭
+<	-	none
+>	-	none
+=	-	none
+>=	Supérieur ou égal	none	never	# >=
+<=	Inférieur ou égal	none	never	# <=
+()	 	none	never	# ()
+""	chaîne vide	none	never	# ""
+||	or	none	never	# ||
+&&	anndd	none	never	# &&
+===	stricticoualss	none	never	# ===
+!==	notstricticoualss	none	never	# !==
+/**	javadoc:	none	never	# /**
+♯	dièse	none	never	# ♯
+♮	bécarre	none	never	# ♮
+"""	chaîne multiligne	none	never	# """
+ɐ	a culbuté	none	never	# ɐ
+ɑ	alpha latin	none	never	# ɑ
+ɒ	alpha latin culbuté	none	never	# ɒ
+ɔ	o ouvert	none	never	# ɔ
+ɘ	e réfléchi	none	never	# ɘ
+ə	schwa	all	never	# ə
+ɛ	èpsilonn latin	none	never	# ɛ
+ɜ	èpsilonn latin réfléchi	none	never	# ɜ
+ɞ	èpsilonn latin fermé	none	never	# ɞ
+ɤ	petit gamma	none	never	# ɤ
+ɨ	i barré	none	never	# ɨ
+ɪ	petite capitale I	none	never	# ɪ
+ɯ	m culbuté	none	never	# ɯ
+ɵ	o barré horizontalement	none	never	# ɵ
+ɶ	petite capitale o e	none	never	# ɶ
+ʉ	u barré	none	never	# ʉ
+ʊ	upsilonnn latin	none	never	# ʊ
+ʌ	v culbuté	none	never	# ʌ
+ʏ	petite capitale igrek	none	never	# ʏ
+ẽ	e tilde	none	never	# ẽ
+ʰ	h en exposant	none	never	# ʰ
+ʲ	j en exposant	none	never	# ʲ
+ʷ	w en exposant	none	never	# ʷ
+ˌ	accent tonique secondaire	none	never	# ˌ
+˞	crochet de rhotacisme	none	never	# ˞
+ˠ	gamma en exposant	none	never	# ˠ
+ˡ	l en exposant	none	never	# ˡ
+ˤ	coup de glotte réfléchi	none	never	# ˤ
+̘	taquet gauche	none	never	# ̘
+̙	taquet droit	none	never	# ̙
+̚	angle gauche en chef	none	never	# ̚
+̜	demi-rond gauche souscrit	none	never	# ̜
+̝	taquet haut	none	never	# ̝
+̞	taquet bas	none	never	# ̞
+̟	pluss souscrit	none	never	# ̟
+̠	moins souscrit	none	never	# ̠
+̤	tréma souscrit	none	never	# ̤
+̥	rond souscrit	none	never	# ̥
+̩	ligne verticale souscrite	none	never	# ̩
+̪	pontet souscrit	none	never	# ̪
+̬	caron	none	never	# ̬
+̯	brève inversée souscrite	none	never	# ̯
+̰	tilde souscrit	none	never	# ̰
+̴	tilde couvrant	none	never	# ̴
+̹	demi-rond droit souscrit	none	never	# ̹
+̺	pontet renversé souscrit	none	never	# ̺
+̼	mouette souscrite	none	never	# ̼
+̽	x en chef	none	never	# ̽
+ħ	h barré	none	never	# ħ
+ŋ	enngg	none	never	# ŋ
+ǁ	double barre verticale	none	never	# ǁ
+ǂ	barre verticale doublement barrée	none	never	# ǂ
+ǃ	point d'exclamation	none	never	# ǃ
+ɓ	b crosse	none	never	# ɓ
+ɕ	cé bouclé	none	never	# ɕ
+ɖ	d hameçon rétroflexe	none	never	# ɖ
+ɗ	d crosse	none	never	# ɗ
+ɟ	f culbuté	none	never	# ɟ
+ʝ	j bouclé	none	never	# ʝ
+ɠ	g crosse	none	never	# ɠ
+ɢ	petite capitale Gé	none	never	# ɢ
+ɣ	gamma latin	none	never	# ɣ
+ɥ	h culbuté	none	never	# ɥ
+ɦ	h crosse	none	never	# ɦ
+ɧ	henngg crosse	none	never	# ɧ
+ɫ	l tilde inscrit	none	never	# ɫ
+ɬ	l sanglé	none	never	# ɬ
+ɭ	l crochet rétroflexe	none	never	# ɭ
+ɮ	lejj	none	never	# ɮ
+ɰ	m culbuté à long fût	none	never	# ɰ
+ɱ	m hameçon	none	never	# ɱ
+̊	rond en chef	none	never	# ̊
+ɲ	n hameçon à gauche	none	never	# ɲ
+ɳ	n crochet rétroflexe	none	never	# ɳ
+ɴ	petite capitale N	none	never	# ɴ
+ɸ	phi latin	none	never	# ɸ
+ɹ	r culbuté	none	never	# ɹ
+ɺ	r prolongé culbuté	none	never	# ɺ
+ɻ	r culbuté rétroflexe	none	never	# ɻ
+ɽ	r hameçon	none	never	# ɽ
+ɾ	r sans obit	none	never	# ɾ
+ʀ	petite capitale R	none	never	# ʀ
+ʁ	petite capitale R renversée	none	never	# ʁ
+ʂ	s crochet rétroflexe	none	never	# ʂ
+ʃ	èche	none	never	# ʃ
+ʄ	f crosse culbuté	none	never	# ʄ
+ʈ	t hameçon	none	never	# ʈ
+ʈ͡	t hameçon rétroflexe	none	never	# ʈ͡
+ʋ	v crosse	none	never	# ʋ
+ʍ	w culbuté	none	never	# ʍ
+ʎ	igrec culbuté	none	never	# ʎ
+ʐ	z crochet rétroflexe	none	never	# ʐ
+ʑ	z bouclé	none	never	# ʑ
+ʒ	èje	none	never	# ʒ
+ʔ	coup de glotte	none	never	# ʔ
+ʕ	coup de glotte réfléchi	none	never	# ʕ
+ʘ	clic bilabial	none	never	# ʘ
+ʙ	petite capitale B	none	never	# ʙ
+ʛ	petite capitale G crosse	none	never	# ʛ
+ʜ	petite capitale H	none	never	# ʜ
+ʟ	petite capitale L	none	never	# ʟ
+ʡ	coup de glotte barré	none	never	# ʡ
+ʢ	coup de glotte barré réfléchi	none	never	# ʢ
+ⱱ	v crosse	none	never	# ⱱ
+ː	chrone	none	never	# ː
+ˑ	demi-chrone	none	never	# ˑ
+ᵿ	upsilonn latin barré	none	never	# ᵿ
+~=	noticoualss	none	never	# ~=
+А	A majuscule cyrilik	none	never	# А
+🇦🇽	drapeau  Îles Ålandd
+🇧🇭	drapeau  Bahraïnn
+🇨🇰	drapeau  Îles Couk
+🇨🇵	drapeau  Île Clippertonn
+🇨🇽	drapeau  Île Cristmass
+🇬🇱	drapeau  Groënland
+🇬🇹	drapeau  Guatémala
+🇬🇼	drapeau  Guinée-Bissao
+🇭🇳	drapeau  Hondurass
+🇮🇲	drapeau  Île de Mann
+🇯🇪	drapeau  Jerzey
+🇰🇪	drapeau  Kénya
+🇰🇼	drapeau  Koweit
+🇱🇦	drapeau  Laoss
+🇱🇷	drapeau  Libéria
+🇳🇮	drapeau  Nicaragwa
+🇳🇷	drapeau  Naourou
+🇴🇲	drapeau  Omann
+🇸🇹	drapeau  Sao Tomé-et-Prinntchipé
+🇻🇪	drapeau  Vénézuéla
+🇻🇳	drapeau  Viêtnam
+🇼🇫	drapeau  Walliss-et-Futuna
+🇾🇪	drapeau  Yémènn
+🇿🇼	drapeau  Zimmbabwé
+а	a cyrilik	none	never	# а
+Б	Bé majuscule cyrilik	none	never	# Б
+б	bé cyrilik	none	never	# б
+В	Vé majuscule cyrilik	none	never	# В
+в	vé cyrilik	none	never	# в
+Г	Gué majuscule  cyrilik	none	never	# Г
+г	gué cyrilik	none	never	# г
+Ґ	Gué hampé majuscule cyrilik	none	never	# Ґ
+ґ	gué hampé cyrilik	none	never	# ґ
+Д	Dé majuscule cyrilik	none	never	# Д
+д	dé cyrilik	none	never	# д
+Є	Ié majuscule ukrainien	none	never	# Є
+є	ié ukrainien	none	never	# є
+Е	Yé majuscule cyrilik	none	never	# Е
+е	yé cyrilik	none	never	# е
+Ж	Jé majuscule cyrilik	none	never	# Ж
+ж	jé cyrilik	none	never	# ж
+Ѕ	Dzé majuscule cyrilik	none	never	# Ѕ
+ѕ	dzé cyrilik	none	never	# ѕ
+Ꚃ	dzwé majuscule cyrilik	none	never	# Ꚃ
+ꚃ	dzwé cyrilik	none	never	# ꚃ
+Ꙃ	dzélo majuscule  cyrilik	none	never	# Ꙃ
+ꙃ	dzélo cyrilik	none	never	# ꙃ
+З	Zé majuscule cyrilik	none	never	# З
+з	zé cyrilik	none	never	# з
+Ꙁ	zèmlia majuscule cyrilik	none	never	# Ꙁ
+ꙁ	zèmmlia cyrilik	none	never	# ꙁ
+И	I majuscule cyrilik	none	never	# И
+и	i cyrilik	none	never	# и
+І	I majuscule ukrainien	none	never	# І
+і	i ukrainien	none	never	# і
+К	Ka majuscule cyrilik	none	never	# К
+к	ka cyrilik	none	never	# к
+Л	El majuscule cyrilik	none	never	# Л
+л	el cyrilik	none	never	# л
+М	èm majuscule cyrilik	none	never	# М
+м	èm cyrilik	none	never	# м
+Н	èn majuscule cyrilik	none	never	# Н
+н	èn cyrilik	none	never	# н
+О	O majuscule cyrilik	none	never	# О
+о	o cyrilik	none	never	# о
+П	Pé majuscule cyrilik	none	never	# П
+п	pé cyrilik	none	never	# п
+Р	erre majuscule cyrilik	none	never	# Р
+р	erre cyrilik	none	never	# р
+С	esse majuscule cyrilik	none	never	# С
+с	esse cyrilik	none	never	# с
+Т	Té majuscule cyrilik	none	never	# Т
+т	té cyrilik	none	never	# т
+Ѹ	ouk majuscule cyrillik	none	never	# Ѹ
+ѹ	ouk cyrilik	none	never	# ѹ
+У	ou majuscule cyrilik	none	never	# У
+у	ou cyrilik	none	never	# у
+Ф	effe majuscule cyrilik	none	never	# Ф
+ф	effe cyrilik	none	never	# ф
+Ѳ	Fita majuscule cyrilik	none	never	# Ѳ
+ѳ	fita cyrilik	none	never	# ѳ
+Х	KH majuscule cyrilik	none	never	# Х
+х	kh cyrilik	none	never	# х
+Ѡ	Oméga majuscule cyrilik	none	never	# Ѡ
+ѡ	oméga cyrilik	none	never	# ѡ
+Ц	Tsé majuscule cyrilik	none	never	# Ц
+ц	tsé cyrilik	none	never	# ц
+Ч	Tché majuscule cyrilik	none	never	# Ч
+ч	tché cyrilik	none	never	# ч
+Ш	Cha majuscule cyrilik	none	never	# Ш
+ш	cha cyrilik	none	never	# ш
+Щ	che tcha  majuscule cyrilik	none	never	# Щ
+щ	che tcha cyrilik	none	never	# щ
+Ъ	yèr majuscule cyrilik	none	never	# Ъ
+ъ	yèr cyrilik	none	never	# ъ
+Ы	yèrou majuscule cyrilik	none	never	# Ы
+ы	yèrou cyrilik	none	never	# ы
+Ь 	Ziak majuscule cyrilik (signe mou)	none	never	# Ь 
+ь	ziak cyrilik (signe mou)	none	never	# ь
+Ѣ	yatt majuscule cyrilik	none	never	# Ѣ
+ѣ	yatt cyrilik	none	never	# ѣ
+ᲇ	yatt haut cyrilik	none	never	# ᲇ
+Ю	You majuscule cyrilik	none	never	# Ю
+ю	you cyrilik	none	never	# ю
+Ꙗ	A yodisé majuscule cyrilik	none	never	# Ꙗ
+ꙗ	a yodisé cyrilik	none	never	# ꙗ
+Ѥ	é yodisé majuscule cyrilik	none	never	# Ѥ
+ѥ	é yodisé cyrilik	none	never	# ѥ
+Ѧ	petit yousse majuscule cyrilik	none	never	# Ѧ
+ѧ	petit yousse cyrilik	none	never	# ѧ
+Ѫ	Grand yousse majuscule cyrilik	none	never	# Ѫ
+ѫ	grand yousse cyrilik	none	never	# ѫ
+Я	Ya majuscule cyrilik	none	never	# Я
+я	ya cyrilik	none	never	# я
+Ѩ	Petit yousse yodisé majuscule cyrilik	none	never	# Ѩ
+ѩ	petit yousse yodisé cyrilik	none	never	# ѩ
+Ѭ	grand yousse yodisé majuscule cyrilik	none	never	# Ѭ
+ѭ	grand yousse yodisé cyrilik	none	never	# ѭ
+Ѯ	Ksi majuscule cyrilik	none	never	# Ѯ
+ѯ	ksi cyrilik	none	never	# ѯ
+Ѱ	Psi majuscule cyrilik	none	never	# Ѱ
+ѱ	psi cyrilik	none	never	# ѱ
+Ѵ	Iyitsa majuscule cyrilik	none	never	# Ѵ
+ѵ	iyitsa cyrilik	none	never	# ѵ
+Ё	Yo majuscule cyrilik	none	never	# Ё
+ё	yo cyrilik	none	never	# ё
+Й	I brève majuscule cyrilik	none	never	# Й
+й	i brève cyrilik	none	never	# й
+Э	é majuscule cyrilik	none	never	# Э
+э	é cyrilik	none	never	# э
+Ђ	Dié majuscule cyrilik	none	never	# Ђ
+ђ	dié cyrilik	none	never	# ђ
+Ј	Yé majuscule cyrilik	none	never	# Ј
+ј	yé cyrilik	none	never	# ј
+Љ	Lié majuscule cyrilik	none	never	# Љ
+љ	lié cyrilik	none	never	# љ
+Њ	Nié majuscule cyrilik	none	never	# Њ
+њ	nié cyrilik	none	never	# њ
+Ћ	Tié majuscule cyrilik	none	never	# Ћ
+ћ	tié cyrilik	none	never	# ћ
+Џ	Djé majuscule cyrilik	none	never	# Џ
+џ	djé cyrilik	none	never	# џ
+Ѓ	Guié majuscule cyrilik	none	never	# Ѓ
+ѓ	guié cyrilik	none	never	# ѓ
+Ќ	Kié majuscule cyrilik	none	never	# Ќ
+ќ	kié cyrilik	none	never	# ќ
+Ѐ	Yé grave majuscule cyrilik	none	never	# Ѐ
+ѐ	yé grave cyrilik	none	never	# ѐ
+Ѝ	I grave majuscule cyrilik	none	never	# Ѝ
+ѝ	i grave cyrilik	none	never	# ѝ
+Ә	Schwa majuscule cyrillique	none	never
+ә	schwa cyrillique	none	never
+Ғ	Gué barré majuscule cyrillique	none	never
+ғ	gué barré cyrillique	none	never
+Қ	Qâf majuscule cyrillique	none	never
+қ	Qâf cyrillique	none	never
+Ң	ènngg majuscule cyrillique	none	never
+ң	ènngg cyrillique	none	never
+Ө	O barré majuscule cyrillique	none	never
+ө	o barré cyrillique	none	never
+Ұ	Ou droit barré majuscule cyrillique	none	never
+ұ	ou droit barré cyrillique	none	never
+Ү	ou droit cyrillique	none	never
+ү	ou droit cyrillique	none	never
+Һ	Shha majuscule cyrillique	none	never	# Chha
+һ	Shha cyrillique	none	never
+あ	a	none	never	# あ
+か	ka	none	never	# か
+さ	sa	none	never	# さ
+た	ta	none	never	# た
+な	na	none	never	# な
+は	ha	none	never	# は
+ま	ma	none	never	# ま
+や	ya	none	never	# や
+ら	ra	none	never	# ら
+わ	wa	none	never	# わ
+い	i	none	never	# い
+き	ki	none	never	# き
+し	si	none	never	# し
+ち	chi	none	never	# ち
+に	ni	none	never	# に
+ひ	hi	none	never	# ひ
+み	mi	none	never	# み
+り	ri	none	never	# り
+ゐ	wi	none	never	# ゐ
+う	ou	none	never	# う
+く	kou	none	never	# く
+す	sou	none	never	# す
+つ	tsou	none	never	# つ
+ぬ	nou	none	never	# ぬ
+ふ	fou	none	never	# ふ
+む	mou	none	never	# む
+ゆ	you	none	never	# ゆ
+る	rou	none	never	# る
+え	hé	none	never	# え
+け	ké	none	never	# け
+せ	sé	none	never	# せ
+て	té	none	never	# て
+ね	né	none	never	# ね
+へ	hé	none	never	# へ
+め	mé	none	never	# め
+れ	ré	none	never	# れ
+ゑ	wé	none	never	# ゑ
+お	o	none	never	# お
+こ	ko	none	never	# こ
+そ	so	none	never	# そ
+と	tau	none	never	# と
+の	no	none	never	# の
+ほ	ho	none	never	# ほ
+も	mo	none	never	# も
+よ	yo	none	never	# よ
+ろ	ro	none	never	# ろ
+を	wo	none	never	# を
+ん	n	none	never	# ん
+が	ga	none	never	# が
+ざ	za	none	never	# ざ
+だ	da	none	never	# だ
+ば	ba	none	never	# ば
+ぱ	pa	none	never	# ぱ
+きゃ	kya	none	never	# きゃ
+ぎゃ	guia	none	never	# ぎゃ
+しゃ	cha	none	never	# しゃ
+じゃ	ja	none	never	# じゃ
+ちゃ	kcha	none	never	# ちゃ
+にゃ	nya	none	never	# にゃ
+ひゃ	hya	none	never	# ひゃ
+びゃ	bya	none	never	# びゃ
+ぴゃ	pya	none	never	# ぴゃ
+みゃ	mya	none	never	# みゃ
+りゃ	rya	none	never	# りゃ
+ぎ	gui	none	never	# ぎ
+じ	zi	none	never	# じ
+ぢ	dzi	none	never	# ぢ
+び	bi	none	never	# び
+ぴ	pi	none	never	# ぴ
+ぐ	gou	none	never	# ぐ
+ず	zou	none	never	# ず
+づ	dzou	none	never	# づ
+ぶ	bou	none	never	# ぶ
+ぷ	pou	none	never	# ぷ
+きゅ	kyou	none	never	# きゅ
+ぎゅ	guiou	none	never	# ぎゅ
+しゅ	chou	none	never	# しゅ
+じゅ	jou	none	never	# じゅ
+ちゅ	kchou	none	never	# ちゅ
+にゅ	nyou	none	never	# にゅ
+ひゅ	hyou	none	never	# ひゅ
+びゅ	byou	none	never	# びゅ
+ぴゅ	pyou	none	never	# ぴゅ
+みゅ	myou	none	never	# みゅ
+りゅ	ryou	none	never	# りゅ
+げ	gué	none	never	# げ
+ぜ	zé	none	never	# ぜ
+で	dé	none	never	# で
+べ	bé	none	never	# べ
+ぺ	pé	none	never	# ぺ
+ご	go	none	never	# ご
+ぞ	zo	none	never	# ぞ
+ど	do	none	never	# ど
+ぼ	bo	none	never	# ぼ
+ぽ	po	none	never	# ぽ
+きょ	kyo	none	never	# きょ
+ぎょ	guio	none	never	# ぎょ
+しょ	sho	none	never	# しょ
+じょ	jo	none	never	# じょ
+ちょ	ksho	none	never	# ちょ
+にょ	nyo	none	never	# にょ
+ひょ	hyo	none	never	# ひょ
+びょ	byo	none	never	# びょ
+ぴょ	pyo	none	never	# ぴょ
+みょ	myo	none	never	# みょ
+りょ	ryo	none	never	# りょ
+ア	a	none	never	# ア
+イ	i	none	never	# イ
+ウ	ou	none	never	# ウ
+エ	hé	none	never	# エ
+オ	o	none	never	# オ
+カ	ka	none	never	# カ
+キ	ki	none	never	# キ
+ク	kou	none	never	# ク
+ケ	ké	none	never	# ケ
+コ	ko	none	never	# コ
+キャ	kya	none	never	# キャ
+キュ	kyou	none	never	# キュ
+キョ	kyo	none	never	# キョ
+サ	sa	none	never	# サ
+シ	chi	none	never	# シ
+ス	sou	none	never	# ス
+セ	sé	none	never	# セ
+ソ	so	none	never	# ソ
+シャ	cha	none	never	# シャ
+シュ	chou	none	never	# シュ
+ショ	chau	none	never	# ショ
+タ	ta	none	never	# タ
+チ	tchi	none	never	# チ
+ツ	tsou	none	never	# ツ
+テ	té	none	never	# テ
+ト	tau	none	never	# ト
+チャ	tcha	none	never	# チャ
+チュ	tchou	none	never	# チュ
+チョ	tcho	none	never	# チョ
+ナ	na	none	never	# ナ
+ニ	nyi	none	never	# ニ
+ヌ	nou	none	never	# ヌ
+ネ	né	none	never	# ネ
+ノ	no	none	never	# ノ
+ニャ	gna	none	never	# ニャ
+ニュ	niou	none	never	# ニュ
+ニョ	gno	none	never	# ニョ
+ハ	ha	none	never	# ハ
+ヒ	chi	none	never	# ヒ
+フ	fou	none	never	# フ
+ヘ	hé	none	never	# ヘ
+ホ	ho	none	never	# ホ
+ヒャ	hia	none	never	# ヒャ
+ヒュ	hiou	none	never	# ヒュ
+ヒョ	hyo	none	never	# ヒョ
+マ	ma	none	never	# マ
+ミ	mi	none	never	# ミ
+ム	mou	none	never	# ム
+メ	mé	none	never	# メ
+モ	mo	none	never	# モ
+ミャ	mya	none	never	# ミャ
+ミュ	myou	none	never	# ミュ
+ミョ	myo	none	never	# ミョ
+ヤ	ya	none	never	# ヤ
+ユ	you	none	never	# ユ
+ヨ	yo	none	never	# ヨ
+ラ	ra	none	never	# ラ
+リ	ri	none	never	# リ
+ル	rou	none	never	# ル
+レ	ré	none	never	# レ
+ロ	ro	none	never	# ロ
+リャ	rya	none	never	# リャ
+リュ	ryou	none	never	# リュ
+リョ	ryo	none	never	# リョ
+ワ	wa	none	never	# ワ
+ヰ	wi	none	never	# ヰ
+ヱ	wé	none	never	# ヱ
+ヲ	wo	none	never	# ヲ
+ガ	ga	none	never	# ガ
+ギ	gui	none	never	# ギ
+グ	gou	none	never	# グ
+ゲ	gué	none	never	# ゲ
+ゴ	go	none	never	# ゴ
+ギャ	guia	none	never	# ギャ
+ギュ	guiou	none	never	# ギュ
+ギョ	guio	none	never	# ギョ
+ザ	za	none	never	# ザ
+ジ	dji	none	never	# ジ
+ズ	zou	none	never	# ズ
+ゼ	zé	none	never	# ゼ
+ゾ	zo	none	never	# ゾ
+ジャ	dja	none	never	# ジャ
+ジュ	djou	none	never	# ジュ
+ジョ	djo	none	never	# ジョ
+ダ	da	none	never	# ダ
+ヂ	dji	none	never	# ヂ
+ヅ	zou	none	never	# ヅ
+デ	dé	none	never	# デ
+ド	dau	none	never	# ド
+ヂャ	dja	none	never	# ヂャ
+ヂュ	djou	none	never	# ヂュ
+ヂョ	djo	none	never	# ヂョ
+バ	ba	none	never	# バ
+ビ	bi	none	never	# ビ
+ブ	bou	none	never	# ブ
+ベ	bé	none	never	# ベ
+ボ	bo	none	never	# ボ
+ビャ	bya	none	never	# ビャ
+ビュ	byou	none	never	# ビュ
+ビョ	byo	none	never	# ビョ
+パ	pa	none	never	# パ
+ピ	pi	none	never	# ピ
+プ	pou	none	never	# プ
+ペ	pé	none	never	# ペ
+ポ	po	none	never	# ポ
+ピャ	pya	none	never	# ピャ
+ピュ	pyou	none	never	# ピュ
+ピョ	pyo	none	never	# ピョ
+ウァ	wa	none	never	# ウァ
+ウィ	wi	none	never	# ウィ
+ウゥ	wou	none	never	# ウゥ
+ウェ	wé	none	never	# ウェ
+ウォ	wo	none	never	# ウォ
+ウュ	wyou	none	never	# ウュ
+ヴァ	va	none	never	# ヴァ
+ヴィ	vi	none	never	# ヴィ
+ヴ	vou	none	never	# ヴ
+ヴェ	vé	none	never	# ヴェ
+ヴォ	vo	none	never	# ヴォ
+ヴャ	vya	none	never	# ヴャ
+ヴュ	vyou	none	never	# ヴュ
+ヴィェ	vyé	none	never	# ヴィェ
+ヴョ	vyo	none	never	# ヴョ
+キェ	kié	none	never	# キェ
+ギェ	guié	none	never	# ギェ
+クァ	kwa	none	never	# クァ
+クィ	kwi	none	never	# クィ
+クェ	kwé	none	never	# クェ
+クォ	kwo	none	never	# クォ
+クヮ	kwa	none	never	# クヮ
+グァ	gwa	none	never	# グァ
+グィ	gwi	none	never	# グィ
+グェ	gwé	none	never	# グェ
+グォ	gwo	none	never	# グォ
+グヮ	gwa	none	never	# グヮ
+シェ	ché	none	never	# シェ
+ジェ	jé	none	never	# ジェ
+スィ	si	none	never	# スィ
+ズィ	zi	none	never	# ズィ
+チェ	tché	none	never	# チェ
+ツァ	tsa	none	never	# ツァ
+ツィ	tsi	none	never	# ツィ
+ツェ	tsé	none	never	# ツェ
+ツォ	tso	none	never	# ツォ
+ツュ	tsyou	none	never	# ツュ
+ティ	ti	none	never	# ティ
+トゥ	tou	none	never	# トゥ
+テュ	tyou	none	never	# テュ
+ディ	di	none	never	# ディ
+ドゥ	dou	none	never	# ドゥ
+デュ	dyou	none	never	# デュ
+ニェ	nyé	none	never	# ニェ
+ヒェ	hyé	none	never	# ヒェ
+ビェ	byé	none	never	# ビェ
+ピェ	pyé	none	never	# ピェ
+フェ	fé	none	never	# フェ
+ファ	fa	none	never	# ファ
+フィ	fi	none	never	# フィ
+フォ	fo	none	never	# フォ
+フャ	fya	none	never	# フャ
+フュ	fyou	none	never	# フュ
+ィェ	fyé	none	never	# ィェ
+フョ	fyo	none	never	# フョ
+ホゥ	hou	none	never	# ホゥ
+ミェ	myé	none	never	# ミェ
+\tリェ	ryé	none	never
+ラ゜	la	none	never	# ラ゜
+リ゜	li	none	never	# リ゜
+ル゜	lou	none	never	# ル゜
+レ゜	lé	none	never	# レ゜
+ロ゜	lo	none	never	# ロ゜
+リ゜ャ	lya	none	never	# リ゜ャ
+リ゜ュ	lyou	none	never	# リ゜ュ
+リ゜ェ	lyé	none	never	# リ゜ェ
+リ゜ョ	lyo	none	never	# リ゜ョ
+ヷ	va	none	never	# ヷ
+ヸ	vi	none	never	# ヸ
+ヹ	vé	none	never	# ヹ
+ヺ	vo	none	never	# ヺ
+／	barre oblique	some	never	# ／
+ー	allongement du son Katakana-Hiragana 	char	never	# ー
+‧	-	all
+𝄫	double bémol	none	never	# 𝄫
+𝄪	double dièse	none	never	# 𝄪
+″	-	none
+‴	-	none
+⁗	quadruple prime	none	never	# ⁗
+--	moinmoins	some	never	# --
+<>	différent de	none	never	# <>
++-	pluzoumoins	none	never	# +-
+-+	moin ou pluss	none	never	# -+
+⩽	inférieur ou égal à
+⩾	supérieur ou égal à	none	never	# ⩾
+≃	similaire ou égal à
+≼	précède ou égal	none	never	# ≼
+≽	suit ou égal	none	never	# ≽
+≾	précède ou équivaut à	none	never	# ≾
+≿	succède ou équivaut à	none	never	# ≿
+≝	définit	none	never	# ≝
+⊷	image de	none	never	# ⊷
+∈	appartient à
+∉	n'appartient pas à
+∋	contient
+⊆	est inclus ou égale à
+⊃	contient
+⊂	est inclus dans
+⊄	n'est pas inclus dans
+⊈	ni inclus ni égal à
+⊅	ne contient pas
+⊉	ne contient pas et n'est pas égal à
+√	racine carrée de
+∑	somme
+∏	produit
+∐	coproduit
+⃗	vecteur
+⋮	trois points verticaux
+⋰	trois points en diagonal vers le haut
+⋱	trois points en diagonale vers le bas
+ε	epsilonn
+ϵ	epsilonn lunaire
+Ε	epsilonn
+Ο	omicronn
+ο	omicronn
+υ	upsilonn
+Υ	upsilonn
+ϒ	upsilonn crochet
+ὖ	upsilonn esprit doux circonflexe
+ˇ	hatchek	none
+˘	brève	none
+˛	ogonek	none
+˙	point suscrit	none
+ˏ	accent aigu souscrit	none
+ꞈ	accent circonflexe souscrit	none
+˟	x en chef	none
+ˎ	accent grave souscrit	none
+ˬ	caron souscrit	none
+˝	double accent aigu	none
+¨	tréma	none
+̦	virgule souscrite	none
+̄	macron	none
+ˊ	accent aigu	none
+´	accent aigu	none
