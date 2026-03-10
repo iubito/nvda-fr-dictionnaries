@@ -1,0 +1,6 @@
+# extensions de noms de fichiers : docx, dotm, ods, odt, webm...
+\bdoc([mx])\b	doc \1	1	1
+\bdot([mx])\b	dott \1	1	1
+\bod([bcghlmpst])\b	odé \1	0	1
+\bot([gpst])\b	oté \1	0	1
+\bweb([amp])\b	ouebb \1	0	2
