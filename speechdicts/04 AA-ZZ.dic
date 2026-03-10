@@ -1,0 +1,248 @@
+# Combinaisons de 2 lettres, cas différents majuscule/minuscule
+# - mots de 2 lettres
+# - maths : noms de vecteur/droite... AB, AC
+# - chimie : éléments du tableau périodique de Mendeleïev
+\bA([B-HJ-RVWXZ])\b	A \1	1	1
+#A-flat (la bémol)
+Ab	A b	1	2
+#Actinium
+Ac	A c	1	2
+#Ad libitum
+Ad	add	1	2
+ad	add	1	2
+#Argent
+Ag	A g	1	2
+#AI conflit: J'ai utilisé le chat de Mistral AI, sur chat.mistral.ai
+#. Ai-je un bon dictionnaire ? Oui, je l'ai !
+Ai	hai	1	2
+(<?[\'])(AI|ai)\b	ait	1	1
+(<?[ \s\.])(AI|ai)\b	a i	0	1
+#A minor (la mineur)
+Am	A m	1	2
+#Argon
+Ar	A r	1	2
+# AS = conflit: AS-TU ..? As-tu ... ? As=Arsenic, as du volant, carré d'as.
+AS	As	1	2
+# @ (at)
+AT	Att	0	2
+#At=Astate
+AU	au	1	2
+#Au = Or
+AY	A igrec	1	2
+BA	B a	1	2
+#Baryum
+Ba	B a	1	2
+#Let it be!
+BE	Bi	0	2
+#Bi=Bismuth
+#Bande originale
+BO	B o	1	2
+BY	Bail	0	2
+#Chiffre d'affaire, calcium, circa
+CA	C a	0	2
+#Ce=Cérium
+#Co: Cobalt, Co-...
+CU	C u	1	2
+#Cuivre
+Cu	C u	1	2
+CY	C igrec	1	2
+DA	D a	1	2
+DE	de	1	2
+DI	D i	1	2
+#di, particule noms de famille italiens
+DJ	Didjay	1	2
+DO	D o	1	2
+#Do et do = note de musique
+DY	D igrec	1	2
+#Dysprosium
+Dy	D igrec	1	2
+#EM, EN, EQ, ES, ET, EU
+\bE([A-LO-RVWZ])\b	E \1	1	1
+#E-flat (mi bémol)
+Eb	E b	1	2
+#CSS 1em, 1.5 em, let 'em go
+(<?\d+\s*)(em)\b	\1 e m	1	1
+#E minor (mi mineur)
+Em	E m	1	2
+EN-GB	e n - g b	0	2
+EN-US	e n - u s	0	2
+EN	en	1	2
+#Erbium
+Er	E r	1	2
+ES	es	1	2
+#Es=Einsteinium
+ET	et	1	2
+EU	eu	1	2
+#Eu=Europium
+EX	ex	1	2
+EY	e igrec	1	2
+FA	f a	1	2
+FE	f e	1	2
+#Fer
+Fe	F e	1	2
+#FI: WI-FI
+FO	f o	1	2
+FU	f u	1	2
+#fiscal year
+FY	f igrec	1	2
+GA	g a	1	2
+#Gallium
+Ga	G a	1	2
+GE	g e	1	2
+#Germanium
+Ge	G e	1	2
+GI	g i	0	2
+#GO: bouton "GO"
+GU	g u	1	2
+GY	g igrec	1	2
+HA	h a	1	2
+# HE (Huile Essentielle)
+HE	h e	1	2
+#He is..., he is...
+He	i	1	2
+he	i	1	2
+HI	h i	1	2
+#Hi! Hello!
+Hi	haï	1	2
+#hi hi hi!
+hi	ih	1	2
+HO	h o	1	2
+#Ho=Holmium
+HU	h u	1	2
+HY	h igrec	1	2
+#IF, IL, IN, IV (4), IX (9)
+#IA, IF, II, IL, IN, IO, IP, IR, IS, IT, IV, IX
+\bI([A-CEGHJKMOQRUWZ])\b	I \1	1	1
+ID	aïdi	0	2
+II	deux	1	2
+III	trois	1	2
+#IN, In=Indium
+IP	i p	0	2
+#SCI à l'IR, l'IS
+l'IR	l'i r	1	2
+#Iridium
+Ir	I r	1	2
+l'IS	l'i s	1	2
+IS	izz	0	2
+IT	itt	0	2
+IV	quatre	1	2
+IX	neuf	1	2
+IY	i igrec	1	2
+JA	j a	1	2
+JI	j i	1	2
+#Journal Officiel, Jeux Olympiques
+JO	j o	1	2
+JU	j u	1	2
+JY	j igrec	1	2
+KA	k a	1	2
+KE	k e	1	2
+KI	k i	1	2
+KO	k o	1	2
+KU	k u	1	2
+KY	k igrec	1	2
+#La=Lanthane
+#Lithium, <li>
+LI	l i	0	2
+LO	l o	1	2
+#Lu=Lutétium
+#LY: Lilypond
+MI	m i	1	2
+MO	m o	1	2
+#Mo = Méga-octet, Molybdène
+#MU: lettre grec µ majuscule
+MY	mhail	0	2
+NA	n a	1	2
+#Sodium
+Na	N a	1	2
+#NO, No=Nobélium
+NY	n igrec	1	2
+#OF, OK, ON, OR, OU, mais OS
+\bO([A-EG-JLMO-QSTV-XZ])\b	O \1	1	1
+#Og=Oganesson
+#HTML <ol>, Olympique Lyonnais
+ol	o èl	1	2
+#Osmium
+Os	O s	1	2
+#once
+oz	auzz	1	2
+PA	p a	1	2
+#Protactinium, Pascal
+Pa	P a	1	2
+PE	p e	1	2
+#PI: lettre grecque, maths
+#Polonium
+Po	P o	1	2
+#PU: polyuréthane
+PU	p u	1	2
+#Plutonium
+Pu	P u	1	2
+#PY: Python .py
+QA	q a	1	2
+QE	q e	1	2
+QI	q i	1	2
+QO	q o	1	2
+#QU: QU'ON
+QY	q y	1	2
+RA	r a	1	2
+#Radium
+Ra	R a	1	2
+#RE: RE: Objet d'un mail
+#Re=Rhénium
+RI	r i	1	2
+RO	r o	1	2
+RU	r u	1	2
+RY	r igrec	1	2
+#SA, SE, SI, SO
+#Se=Sélénium
+#SI conflit: note, SI TU VAS..., Système International, Système d'Information
+#Saint(e) dans les noms de viles
+St	Saint	1	2
+Ste	Sainte	1	2
+SU	s u	1	2
+SY	s igrec	1	2
+#TA, TE, TO, TU, Ta=Tantale, Te=Tellure
+TI	t i	1	2
+#Titane
+Ti	T i	1	2
+TY	t igrec	1	2
+#UI, UN, UP, US (USA)
+\bU([A-MOQ-XZ])\b	U \1	1	1
+UC	ucé	0	2
+#Oud / Ud (instrument)
+Ud	oudd	1	2
+ud	oudd	1	2
+#User Interface
+ui	u i	1	2
+#.co.uk
+uk	u k	0	2
+#HTML <ul>
+ul	u èl	1	2
+UY	u igrec	1	2
+VA	v a	1	2
+#Véhicule électrique
+VE	v e	1	2
+Ve	cinquième	1	2
+VI	six	1	2
+VO	v o	1	2
+VY	v igrec	1	2
+WA	w a	1	2
+#WE: week-end, we are
+WE	w e	1	2
+we	oui	0	2
+WU	w u	1	2
+WY	w igrec	1	2
+XE	x e	1	2
+#Xe conflit: 10e et Xenon
+Xe	dizième	1	2
+XI	onze	1	2
+XV	quinze	1	2
+XX	vingt	1	2
+YA	igrec a	1	2
+#Ytterbium
+Yb	igrec b	1	2
+YE	igrec e	1	2
+YI	igrec i	1	2
+#Yo!
+YO	igrec o	1	2
+YU	igrec u	1	2
+YY	igrec igrec	0	2
