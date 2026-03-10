@@ -4,6 +4,10 @@
 # ils seraient épelés même en milieu de mot.
 # je l'ai fait pour le japonais (approximatif) car un caractère = une syllabe
 # Amélioration prononciation: une ligne pour le caractère isolé, et une ligne pour caractère au milieu d'un mot
+
+# Mais avant, correction de mots complets comportant un des diacrituqes.
+cümbüş	djummbuch	0	2
+
 #ñ (n tilde) español, mais ça peut casser le ñ breton
 \bñ\b	n ~	0	1
 ñ	gn	0	0
