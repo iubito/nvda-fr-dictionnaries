@@ -1,0 +1,85 @@
+# Correction prononciation de caractères spéciaux dans d'autres langues
+# Cela donne une approximation.
+# Si j'avais mis les symboles (caractères avec diacritiques) dans symboles-fr.dic,
+# ils seraient épelés même en milieu de mot.
+# je l'ai fait pour le japonais (approximatif) car un caractère = une syllabe
+# Amélioration prononciation: une ligne pour le caractère isolé, et une ligne pour caractère au milieu d'un mot
+#ñ (n tilde) español, mais ça peut casser le ñ breton
+\bñ\b	n ~	0	1
+ñ	gn	0	0
+#ã (a tilde) portuguais, comme dans le prénom João
+\bã\b	a ~	0	1
+ã	an 	0	0
+#langues slaves
+#Č et č, comme dans Čoček, le symbole ˇ (hatchek) doit être dans le dictionnaire des symboles
+\bč\b	c ˇ	0	1
+č	tch	0	0
+#Š et š (s hatchek), comme le nom de la ville Kruševo [Krouchévo]
+\bš\b	s ˇ	0	1
+š	ch	0	0
+#Ž et ž (z hatchek), comme dans Žikino	[Jikino]
+\bž\b	z ˇ	0	1
+ž	j	0	0
+#Ć et ć (c accent aigu) serbe, souvent en fin de nom de famille, mais pas que... Bregović [Brégovitsh]
+\bć\b	c ˊ	0	1
+ć	tsh	0	0
+#tchèque
+\bě\b	e ˇ	0	1
+ě	yé	0	0
+\bň\b	n ˇ	0	1
+ň	gn	0	0
+#Dvořák	[Dvorjak	0	2]
+\bř\b	r ˇ	0	1
+ř	rj	0	0
+#Roumain: variantes avec virgule et cédille
+\b[Șș]\b	s ̦	0	1
+ș	ch	0	0
+\b[Ț]\b	t ̦	0	1
+ț	ts	0	0
+\bş\b	s ¸	0	1
+ş	ch	0	0
+\bţ\b	t ¸	0	1
+ţ	ts	0	0
+#Danois, Norvégien, Suédois
+#îles Åland, Bokmål
+\bå\b	a ̊	0	1
+å	o	0	0
+#islandais, vieil anglais: ed et thorn
+\b[Ðð]\b	edd	0	1
+ð	th	0	0
+\b[Þþ]\b	thorn	0	1
+þ	th	0	0
+#Autres diacritiques, sans transformation, juste la prononciation de la diacritique quand la lettre est seule, dans un article wikipedia, un alphabet, ou épellation
+\bă\b	a ˘	0	1
+\bą\b	a ˛	0	1
+\bđ\b	d barré	0	1
+\bď\b	d ˇ	0	1
+\bď\b	d ˇ	0	1
+\bē\b	e ̄	0	1
+\bę\b	e ˛	0	1
+\bė\b	e ˙	0	1
+\bğ\b	g ˘	0	1
+\bģ\b	g ¸	0	1
+\bī\b	i ̄	0	1
+\bį\b	i ˛	0	1
+\bi̇\b	i ˙	0	1
+\bİ\b	i ˙	1	1
+\bı\b	i sans point	1	1
+\bĶ\b	k ¸	0	1
+\bł\b	l barré	0	1
+\bĻ\b	l ¸	0	1
+\bľ\b	l ˇ	0	1
+\bŅ\b	n ¸	0	1
+\bń\b	n ´	0	1
+\bő\b	o ˝	0	1
+\bŕ\b	r ´	0	1
+\bŖ\b	r ¸	0	1
+\bś\b	s ´	0	1
+\bť\b	t ˇ	0	1
+\bŤ\b	t ˇ	0	1
+\bű\b	u ˝	0	1
+\bū\b	u ̄	0	1
+\bų\b	u ˛	0	1
+\bÿ\b	y ¨	0	1
+\bź\b	z ´	0	1
+\bż\b	z ˙	0	1
