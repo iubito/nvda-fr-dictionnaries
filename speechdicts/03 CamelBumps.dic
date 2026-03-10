@@ -1,0 +1,52 @@
+#Programmation : généralement verbe+mot, ou mot+verbe en écriture CamelBumps
+#méthodes getAbc(), SendMessage(), messageReceive(), LoadLoop(), BiduleSave(), FileWriteLines(), 
+# ça marche aussi pour des noms de logiciel comme LiveLoop, LocalSend, MakeMusic
+# inconvénient, ça peut casser des définitions faites plus loin comme WhatsApp.
+# Dans ce cas, il faut donner la prononciation de chaque mot "Whats" et "App", ou les définir ici avant les CamelBumps
+CapTVTy	captivity	0	2
+IIe	deuxième	1	2
+IIIe	troisième	1	2
+IVe	quatrième	1	2
+IXe	neuvième	1	2
+LaTeX	Latex	1	2
+lilypond	lilypondd	0	2
+McAfee	macafi	0	2
+NOD32	nodd32	0	2
+SQLite	eskuel laïte	0	2
+SynthFont	SynthFontt	1	2
+TeX	Tex	1	2
+videolan	vidéolann	0	2
+VIe	sizième	1	2
+VIIe	sètième	1	2
+VIIIe	huitième	1	2
+vmware	VM wère	0	2
+wetransfer	witransfère	0	2
+WhatsApp	ouateçapp	0	2
+XIe	onzième	1	2
+XIIe	douzième	1	2
+XIIIe	treizième	1	2
+XIVe	quatorzième	1	2
+XIXe	dizneuvième	1	2
+XVIe	seizième	1	2
+XVIIe	dissètième	1	2
+XVIIIe	dizuitième	1	2
+
+#Now, the CamelBumps
+#getAbc, getABC, getHTML, getHTMLCode  
+\b([a-z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2	1	1
+\b([a-z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2 \3	1	1
+\b([a-z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2 \3 \4	1	1
+\b([a-z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2 \3 \4 \5	1	1
+\b([a-z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2 \3 \4 \5 \6	1	1
+#GetAbc, MuseScore, GetHTMLCode, BeMyEyes
+\b([A-Z][a-z0-9]+)([A-Z][a-z0-9]*)\b	\1 \2	1	1
+\b([A-Z][a-z0-9]+)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2 \3	1	1
+\b([A-Z][a-z0-9]+)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2 \3 \4	1	1
+\b([A-Z][a-z0-9]+)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2 \3 \4 \5	1	1
+\b([A-Z][a-z0-9]+)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)\b	\1 \2 \3 \4 \5 \6	1	1
+#XOpen, GUIAddButton, SVNUpdate
+\b([A-Z][a-z0-9]*)([A-Z][a-z0-9]+)\b	\1 \2	1	1
+\b([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]+)\b	\1 \2 \3	1	1
+\b([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]+)\b	\1 \2 \3 \4	1	1
+\b([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]+)\b	\1 \2 \3 \4 \5	1	1
+\b([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]*)([A-Z][a-z0-9]+)\b	\1 \2 \3 \4 \5 \6	1	1
