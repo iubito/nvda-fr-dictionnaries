@@ -1,0 +1,8 @@
+# cellules tableur colonnes A à ZZ, suivi du numéro de la ligne
+# cas spéciaux pour F (éviter le monétaire "franc") et Y (igrec)
+\b([A-XZa-xz])([A-XZa-xz])(\d+)\b	\1 \2 \3	1	1
+\b([A-XZa-xz])[Yy](\d+)\b	\1 igrec \2	1	1
+\bF(\d+)\b	 ef \1	1	1
+\bY(\d+)\b	 igrec \1	1	1
+\bYY(\d+)\b	igrec igrec \1	0	1
+\b[Yy]([A-XZa-xz])(\d+)\b	igrec \1 \2	1	1
