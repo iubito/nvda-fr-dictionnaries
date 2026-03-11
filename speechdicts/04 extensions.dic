@@ -1,6 +1,13 @@
-# extensions de noms de fichiers : docx, dotm, ods, odt, webm...
+# extensions de fichiers
+abc	a b c	0	2
+bat	batt	0	2
 \bdoc([mx])\b	doc \1	1	1
 \bdot([mx])\b	dott \1	1	1
+dsbundle	ds boenndoeul	1	2
+dspreset	ds pressett	1	2
+exe	égzé	0	2
+jpeg	j peg	0	2
+json	jissonn	0	2
 \bod([bcghlmpst])\b	odé \1	0	1
 \bot([gpst])\b	oté \1	0	1
 \bweb([amp])\b	ouebb \1	0	2
