@@ -20,11 +20,11 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
   * Noms de compositeurs : Wolfgang Amadeus, Beethoven, Schubert, Ligeti, Brassens...
 * Cellules de tableur jusqu'à la colonne ZZ ;
 * Symboles mathématiques, et un traitement spécial pour le point d'exclamation après un chiffre qui est la factorielle.
-* * Langues étrangères :
+* Langues étrangères :
   * Anglais : verbes et mots  fréquents ou techniques, verbes irréguliers ;
   * Caractères diacrités et spéciaux de l'alphabet latin: prononciation lorsque isolé, et quelques caractères transformés dans un mots pour langues ibériques, slaves, roumain et nordiques, exemple : España [Espagna], João [Jo-an-o], Dvořák	[Dvorjak], Bregović (Brégovitsh], Kruševo [Krouchévo], Čoček (Tchotchek], Bokmål...
   * Caractères japonais : je ne connais pas la langue, mais d'après Wikipédia, j'ai fait une approximation de la prononciation dans le fichier des symboles ;
-  *  Alphabets grec et cyrillique : ici, aucune tentative de prononciation, maisj'ai tenu à mettre ces caractères pour épeler un mot en se déplaçant caractère par caractère, ou pour entendre une anomalie si un pirate remplace un caractère latin par un caractère cyrillique ressemblant. Cela permet de détecter un spam lorsque cette technique est utilisée. NVDA dira "a cyrillique", "d cyrilliquemajuscule ", etc.
+  *  Alphabets grec et cyrillique : ici, aucune tentative de prononciation, mais j'ai tenu à mettre ces caractères pour épeler un mot en se déplaçant caractère par caractère, ou pour entendre une anomalie si un pirate remplace un caractère latin par un caractère cyrillique ressemblant. Cela permet de détecter un spam lorsque cette technique est utilisée. NVDA dira "a cyrillique", "d cyrilliquemajuscule ", etc.
 * Noms propres :
   * pays et capitales : Bahrein, London ;
   * états américains : Iowa, Maryland ;
@@ -34,7 +34,10 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
 * Termes en rapport avec la finance (types de comptes bancaires, brokers, paires Forex, crypto-monnais) ;
 * Quelques acronymes administratifs français.
 
-Avant tout, j'ai tenu à ce qu'un texte français soit correctement prononcé. Il y a donc des termes anglais ou techniques qui ne sont pas traités. Par exemple : file (fichier en anglais, et file d'attente), border (bordure en CSS, frontière en anglais, et le verbe border en français). Autre exemple, le verbe try (essayer en anglais) est traité, ainsi que sa forme passée tried, mais pas le nom au pluriel tries, car c'est le verbe trier à la deuxième personne du singulier en français.
+Avant tout, j'ai tenu à ce qu'un texte français soit correctement prononcé. Il y a donc des termes anglais ou techniques qui ne sont pas traités. Par exemple :
+* `file` = fichier en anglais, mais aussi une file d'attente, ou « il file à l'anglaise » ;
+* `border` = bordure en CSS, frontière en anglais, et le verbe border en français ;
+* le verbe `try` (essayer en anglais) est traité, ainsi que sa forme passée `tried`, mais pas le nom au pluriel `tries` (des essais), car c'est le verbe trier à la deuxième personne du singulier en français.
 
 Ce dictionnaire m'est utile au quotidien, et le sera pour mon fils qui va être équipé d'un ordinateur au collège, qui va donc apprendre du français, des mathématiques, de la chimie, de la musique... et utiliser Libre Office pour écrire des formules.
 
