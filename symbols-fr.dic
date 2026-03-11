@@ -3,7 +3,7 @@
 !=	noticoualss	none	never	# !=
 ?	-	most
 /	slash
-\\	backslash
+\\	backslash	some
 //	double slash	none	never	# //
 ±	-	none
 ♭	bémol	none	never	# ♭
@@ -645,3 +645,4 @@
 ̄	macron	none
 ˊ	accent aigu	none
 ´	accent aigu	none
+
