@@ -1,10 +1,6 @@
-can't	cantt	0	2
-won't	wontt	0	2
-
-## Début du tri alpha, can't et wron't avant le tri sinon conflit avec can et won
+## Début du tri alpha
 AAH	A A H	0	2
 aave	a avé	0	2
-abc	a b c	0	2
 Aberdeen	Aberdinn	1	2
 able	èiboeul	0	2
 Ableton	Aboeultonn	0	2
@@ -25,6 +21,7 @@ adjacent	adjassant	0	2
 admin	adminn	0	2
 adr	a d r	1	2
 AEEH	A E E H	0	2
+aeternam	éternam	0	2
 AFP	a f p	0	2
 afraid	oefrèïdd	0	2
 after	aftoer	0	2
@@ -123,10 +120,10 @@ Bahrein	Baraïnn	1	2
 baion	baïônn	0	2
 balalaika	balalaïka	0	2
 band	bandd	0	2
+bands	bandzz	0	2
 barbecue	barbekiou	0	2
 baseline	bèzlaïne	0	2
 basis	basiss	0	2
-bat	batt	0	2
 batucada	batoucada	0	2
 bağlama	baalama	0	2
 bdi	b d i	1	2
@@ -218,6 +215,7 @@ Brahms	Brahmss	0	2
 Brandenburg	Branndènnbourgg	1	2
 brassens	brasseinss	0	2
 bread	brèdd	0	2
+breadcrumbs	brèdcroemmbzz	0	2
 breakdance	brèkdènnse	0	2
 breaking	brèking	0	2
 breed	breedd	0	2
@@ -256,6 +254,8 @@ burning	boerning	0	2
 burns	boernzz	0	2
 burnt	boerntt	0	2
 burst	boerstt	0	2
+button	boettonn	0	2
+buttons	boettonnzz	0	2
 buy	bail	0	2
 buying	baïinngg	0	2
 buys	baïzz	0	2
@@ -377,6 +377,8 @@ creative	créative	0	2
 crosshair	cross hair	0	2
 crowd	craoudd	0	2
 crowdfunding	craoudfounding	0	2
+crumble	croemmboeul	0	2
+crumbs	croemmbzz	0	2
 cue	kiou	0	2
 cuica	couïca	0	2
 cumbia	coumbia	0	2
@@ -486,8 +488,6 @@ drumset	droemsett	0	2
 drunk	droenkk	0	2
 dry	drail	0	2
 Dryrender	drail rènndoer	0	1
-dsbundle	ds boenndoeul	1	2
-dspreset	ds pressett	1	2
 dub	doeb	0	2
 duduk	doudouk	0	2
 dug	doegg	0	2
@@ -585,7 +585,6 @@ ever	évoer	0	2
 everyone	évriouane	0	2
 everywhere	évriouère	0	2
 Ewan	Evann	1	2
-exe	égzé	0	2
 execute	égzékioute	0	2
 exit	egzitt	0	2
 exotics	exotikss	0	2
@@ -755,6 +754,7 @@ Giulia	Djoulia	1	2
 give	guive	0	2
 given	guivoen	0	2
 gives	guivzz	0	2
+Glen	Glenn	1	2
 GLI	g l i	1	2
 glockenspiel	glockoenshpile	0	2
 gluten	glutenn	0	2
@@ -767,6 +767,7 @@ gold	goldd	0	2
 goldman	goldmann	0	2
 good	goodd	0	2
 google	gougueule	0	2
+Goran	Gorann	0	2
 got	gott	0	2
 goto	gau tou	0	2
 gotoxy	gau tou x igrec	1	2
@@ -937,9 +938,7 @@ into	inntou	0	2
 invalid	invalidd	0	2
 iomicron	i omicronn	0	2
 iowa	aïowa	0	2
-ipad	ail padd	0	2
 ipconfig	ipéconfigg	1	2
-iphone	ail phone	0	2
 irish	aïrish	0	2
 iscntrl	izz cntrl	1	2
 isdigit	izz digitt	1	2
@@ -961,11 +960,9 @@ jingles	djinnggoeulzz	0	2
 Johannes	Yoanèss	0	2
 join	djoÏnn	0	2
 Jordan	Jordann	0	2
-jpeg	j peg	0	2
 JPMorgan	J p Morgann	0	2
 jquery	jicouèri	0	2
 jre	j r e	0	2
-json	jissonn	0	2
 jump	djoempp	0	2
 jumps	djoempss	0	2
 just	djoestt	1	2
@@ -1134,8 +1131,8 @@ market	markett	0	2
 markets	markettss	0	2
 marks	markss	0	2
 Marshall	Marchal	0	2
-maryland	marylande	0	2
-massachusetts	massachussetss	0	2
+Maryland	marylande	0	2
+Massachusetts	massachussetss	0	2
 master	mastoer	0	2
 masters	mastoerzz	0	2
 matches	matchizz	0	2
@@ -1289,6 +1286,8 @@ nvidia	n vidia	0	2
 NYSE	naïse	1	2
 OACI	o a c i	1	2
 OAT	o a t	1	2
+object	objectt	0	2
+objects	objectss	0	2
 Offenbach	Offoenbak	1	2
 OGG	ogg	1	2
 ohio	oaillo	0	2
@@ -1697,8 +1696,8 @@ shrunk	shroenkk	0	2
 shuffle	shoeffoeul	0	2
 shut	choett	0	2
 shutdown	shoetdaouwn	0	2
-Sib	si bémol	1	2
 sib	si bémol	1	2
+Sib	si bémol	1	2
 Sibelius	Sibélius	0	2
 Sibm	si bémol m	1	2
 side	saïdd	0	2
@@ -1866,6 +1865,8 @@ stung	stoengg	0	2
 stunk	stoenkk	0	2
 Stuttgart	Chtouttgartt	1	2
 stylesheet	stylchite	0	2
+subject	subjectt	0	2
+subjects	subjectss	0	2
 submit	soebmitt	0	2
 subset	subsett	0	2
 subseteq	subsetteq	1	2
@@ -2016,6 +2017,7 @@ trodden	troddoen	0	2
 truck	troeck	0	2
 trucks	troeckss	0	2
 true	troo	0	2
+Trump	troemmpp	0	2
 trumpet	troempett	0	2
 trusted	troestidd	0	2
 try	traille	0	2
@@ -2394,6 +2396,7 @@ zumba	zoumba	0	2
 \bworkspaces?\b	workspèice	0	1
 \bzi[ck]os\b	zikauss	0	1
 \b[cs]hengs?\b	shèngg	0	1
+\bépel(er|ons|ez|ée?s?|ant)\b	époeul\1	0	1
 çura	djoura	0	2
 écosystème	éco système	0	2
 ŋ	ènngue	0	2
