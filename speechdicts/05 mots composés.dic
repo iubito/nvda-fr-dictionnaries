@@ -1,7 +1,10 @@
-#mots composés : add-on, plug-ins, hi-hat, pre-amp
+#mots composés : add-on, can't, plug-ins, hi-hat, pre-amp, won't
+#Sans un traitement ici, ils seront découpés et mal prononcés : add on, can t, plug ins...
 \badd\-?on\b	addonn	0	1
 \badd\-?ons\b	addonnss	0	1
+can't	cantt	0	2
 hi-hat	hail-hatt	0	2
 hi-hats	hail-hatts	0	2
 \bplug\-?ins?\b	ploeuguine	0	1
 \bpre\-?amps?\b	pré-ampp	0	1
+won't	wontt	0	2
