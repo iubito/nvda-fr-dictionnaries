@@ -43,7 +43,7 @@ Ce dictionnaire m'est utile au quotidien, et le sera pour mon fils qui va être 
 
 
 ## Optimisé pour le synthétiseur IBMTTS
-Le synthétiseur IBMTTS, qui n'est pas tout à fait un addon officiel, est elon le moi le plus efficace en terme de temps de réponse, et qui n'apporte pas de reconstitution des acronymes en noms à rallonge comme le font les voix de synthèse de Microsoft.
+Le synthétiseur IBMTTS, qui n'est pas tout à fait un addon officiel, est selon moi le plus efficace en terme de temps de réponse, et qui n'apporte pas de reconstitution des acronymes en noms à rallonge comme le font les voix de synthèse de Microsoft.
 
 Instructions pour télécharger, installer et utiliser IBMTTS :
 1. Allez sur [BlindHelp](https://blindhelp.net/software/ibmtts)
@@ -82,7 +82,7 @@ J'ai découpé mon fichier `default.dic` en plusieurs sections, ainsi vous pouve
 
 |Fichier|Contenu|
 |-|-|
-|[01 !_dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/01%20!_.dic)|<ul><li>Le point d'exclamation peut se prononcer "not" devant une variable ou une fonction en programmation.</li><li>Le point d'exclamation après un chiffre se prononce "factorielle". `4! = 4×3×2×1`.</li><li>Le _ (souligné) seul est prononcé, au milieu d'un mot il le découpe. Ainsi, chaque mot est traité par la suite du dictionnaire.</li></ul>|
+|[01 !_dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/01%20!_.dic)|<ul><li>Le point d'exclamation peut se prononcer "not" devant une variable ou une fonction en programmation.</li><li>Le point d'exclamation après un chiffre se prononce "factorielle". ` 4! = 4×3×2×1`.</li><li>Le _ (souligné) seul est prononcé, au milieu d'un mot il le découpe. Ainsi, chaque mot est traité par la suite du dictionnaire.</li></ul>|
 |[02 Cellules de tableur.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/02%20cellules%20de%20tableur.dic)|1 ou 2 caractères alpha majuscule, suivi d'un nombre, c'est le nom d'une cellule dans Excel / LibreOffice Calc / Google Sheets.<br>Les caractères alpha sont décomposés.<br>Exemple : `AU1` prononcé "= a u 1" et non "au 1".|
 |[03 CamelBumps.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/03%20CamelBumps.dic)|Des expressions régulières pour séparés les mots collés commençant par une majuscule. Usage principal en programmation, mais aussi des noms de logiciels ou d'entreprises.<br>Les mots ainsi séparés sont traités par la suite du dictionnaire.<br>Exemple : MakeMusic, iPhone, `theTextarea.selectAll()`, `GUIAddButton`.|
 |[04 extensions.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/04%20extensions.dic)|Brève liste d'extensions de fichiers.|
