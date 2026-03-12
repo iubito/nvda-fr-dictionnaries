@@ -13,10 +13,11 @@ ad	add	1	2
 #Argent
 Ag	A g	1	2
 #AI conflit: J'ai utilisé le chat de Mistral AI, sur chat.mistral.ai
-#. Ai-je un bon dictionnaire ? Oui, je l'ai !
+#. Ai-je un bon dictionnaire ? J'y ai beaucoup travaillé, je l'ai !
 Ai	hai	1	2
-(<?[\'])(AI|ai)\b	ait	1	1
-(<?[ \s\.])(AI|ai)\b	a i	0	1
+(<?[ \s\'])ai\b	hai	1	1
+\.ai\b	point hai ail	1	1
+AI	hai ail	1	2
 #A minor (la mineur)
 Am	A m	1	2
 #Argon
