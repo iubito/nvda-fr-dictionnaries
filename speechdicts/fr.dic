@@ -26,6 +26,7 @@ adjacent	adjassant	0	2
 admin	adminn	0	2
 adr	a d r	1	2
 AEEH	A E E H	0	2
+AESH	a e s h	1	2
 aeternam	éternam	0	2
 AFP	a f p	0	2
 afraid	oefrèïdd	0	2
@@ -71,8 +72,10 @@ AnyDesk	ènidesk	0	2
 anything	èny thing	0	2
 anytime	èny taïme	0	2
 anywhere	èny ouaire	0	2
+anywhereas	èny ouairazz	0	2
 AOC	A O C	1	2
 AOP	A O P	1	2
+APE	a p e	1	2
 APF	a p f	0	2
 api	a p i	0	2
 append	appoendd	0	2
@@ -115,6 +118,8 @@ ATAN2	atan 2	0	2
 atanh	atan h	0	2
 atanl	atan l	1	2
 atexit	att egzitt	0	2
+attempt	oetèmmpte	0	2
+attempts	oetèmmptse	0	2
 AUDCAD	a u d c a d	1	2
 AUDJPY	a u d j p igrec	1	2
 Austin	Austinn	1	2
@@ -136,6 +141,7 @@ Aya	A ya	1	2
 azoy	azoï	0	2
 backepsilon	backépsilonn	1	2
 backward	backwardd	0	2
+bacon	béconn	0	2
 bad	badd	0	2
 Bahrein	Baraïnn	1	2
 baht	bahtt	0	2
@@ -148,6 +154,7 @@ barbecue	barbekiou	0	2
 barline	barlaïne	0	2
 baseline	bèzlaïne	0	2
 basis	basiss	0	2
+basketball	basketbaul	0	2
 batucada	batoucada	0	2
 bağlama	baalama	0	2
 BDECARTYPEP	BD écartype p	1	2
@@ -310,6 +317,8 @@ cabsl	cab s l	1	2
 CADJPY	c a d j p igrec	1	2
 cakewalk	kèikwolkk	0	2
 call	caull	0	2
+called	cauldd	0	2
+calls	caulzz	0	2
 Cambridge	Cammbridge	1	2
 can	cann	0	2
 cancelled	cancelde	0	2
@@ -319,6 +328,8 @@ caps	capss	0	2
 Caracas	Caracass	1	2
 Carrez	Carrèze	1	2
 castanets	castanettss	0	2
+CAT	C A T	1	2
+cat	catt	1	2
 cavaquinho	cavaquinio	0	2
 cci	cécéi	0	2
 ceil	cèile	0	2
@@ -372,12 +383,16 @@ clothed	clothde	0	2
 cloud	claoudd	0	2
 clreol	c l r e o l	1	2
 clung	cloengg	0	2
+cluster	cloestoer	0	2
+clusters	cloestoerzz	0	2
 cmake	cémèike	0	2
 CNUM	c num	1	2
 cocek	tchotchèk	0	2
 COD	c o d	1	2
 COI	c o i	1	2
 cold	cauldd	0	2
+collect	collectt	0	2
+collects	collectss	0	2
 coloratura	coloratoura	0	2
 colspan	colspann	0	2
 Columbia	Coloumbia	1	2
@@ -405,6 +420,8 @@ concatenate	concattenèite	0	2
 CONCATENER	concaténer	1	2
 conjugate	conjuguète	0	2
 connecticut	connecticoeute	0	2
+contain	contèinn	0	2
+contains	contèinnzz	0	2
 context	contextt	0	2
 convert	convertt	0	2
 converter	converttoer	0	2
@@ -427,6 +444,7 @@ covid	covidd	0	2
 create	créèïtt	0	2
 created	créèïtidd	0	2
 creates	créèïtss	0	2
+creating	créèïting	0	2
 creative	créative	0	2
 CRITBINOM	critt binomm	1	2
 crossfade	crossfèide	0	2
@@ -489,6 +507,7 @@ decrease	dicrease	0	2
 default	difaulltt	0	2
 defaults	difaulltss	0	2
 defender	difenndoer	0	2
+defined	difahinndd	0	2
 degree	digree	0	2
 degrees	digreezz	0	2
 DEGRES	degrés	1	2
@@ -663,6 +682,8 @@ English	innglich	0	2
 engraver	ènngravoer	0	2
 enhance	ènnhhance	0	2
 enhanced	ènnhansde	0	2
+enhancer	ènnhansoer	0	2
+enhancers	ènnhansoerzz	0	2
 enhances	ènnhhancizz	0	2
 Ennezat	n zat	1	2
 Enrique	ènnriqué	1	2
@@ -689,6 +710,7 @@ Erwan	Erwann	1	2
 Erythrée	érythrée	1	2
 escape	eskèipe	0	2
 ESET	ezett	1	2
+Esteban	Estébann	0	2
 ESTERR	est e r r	1	2
 ESTNA	est N A	1	2
 etc	etcétéra	1	2
@@ -822,6 +844,7 @@ fmodl	f modd l	1	2
 fnnmerge	fn merge	1	2
 fnsplit	fn splitt	1	2
 focus	focuss	0	2
+foetus	fétuss	0	2
 fold	foldd	0	2
 folder	foldoer	0	2
 folders	foldoerzz	0	2
@@ -875,6 +898,9 @@ funk	foenkk	0	2
 FVSCHEDULE	F V skédiule	1	2
 fwrite	f vraïtt	1	2
 Galápagos	Galapagauss	1	2
+game	guèime	0	2
+games	guèimmze	0	2
+gaming	guèiming	0	2
 GAMMAINV	Gamma i n v	1	2
 GAMMALN	Gamma l n	1	2
 GAUCHEB	gauche b	1	2
@@ -899,6 +925,10 @@ getlinesettings	guett laïne settinngzz	1	2
 getpalettesize	guett palette saïze	1	2
 getpid	guett p i d	1	2
 GETPIVOTDATA	guett pivott data	1	2
+gets	guètss	0	2
+getter	guèttoer	0	2
+getters	guèttoerzz	0	2
+getting	guètting	0	2
 Git	guite	0	2
 github	guiteub	0	2
 Giulia	Djoulia	1	2
@@ -913,6 +943,7 @@ gmail	gémèil	0	2
 gnawa	ghnawa	0	2
 god	godd	0	2
 goes	gozz	0	2
+Goethe	Gueute	1	2
 going	gohing	0	2
 gold	goldd	0	2
 goldman	goldmann	0	2
@@ -1129,6 +1160,7 @@ instead	innstidd	0	2
 int	inntt	0	2
 integer	inntégoer	0	2
 Intel	Inntel	1	2
+interpeller	interpeuler	0	2
 into	inntou	0	2
 INTPER	intt pèr	1	2
 INTRATE	intt rèite	1	2
@@ -1217,6 +1249,7 @@ kyrie	kyryé	0	2
 Kévin	Kévinn	0	2
 Labm	la bémol m	1	2
 Lachalm	Lachan	1	2
+Laguiole	Laïol	1	2
 lake	lèike	0	2
 Lalouvesc	Lalouvée	1	2
 land	landd	0	2
@@ -1286,6 +1319,7 @@ lineto	laïnntou	1	2
 link	linnkk	0	2
 linked	linnkedd	0	2
 links	linnkss	0	2
+linktree	linnktree	0	2
 linky	linnky	0	2
 lint	l intt	1	2
 lisezmoi	lisez moi	0	2
@@ -1328,9 +1362,10 @@ lower	lowoerr	0	2
 lowercase	lowoerrkèize	0	2
 ltoa	l tou a	1	2
 Luanda	Louanda	1	2
+Luberon	Lubeuron	0	2
 Ludwig	Loudvigg	0	2
 Lumpur	Loumpour	1	2
-lyrics	lyrikss	0	2
+lyrics	lyrixx	0	2
 Länder	Lènndoer	0	2
 MacOS	Mac o s	0	2
 MacOSX	Mac o s x	0	2
@@ -1340,6 +1375,7 @@ MagniLink	Magnilinnkk	0	2
 magyar	maguiar	0	2
 MAIF	ma if	0	2
 mailto	mèïltou	0	2
+Majorque	Maïorque	0	2
 make	mèïke	0	2
 MAKEARRAY	mèikarray	1	2
 makes	mèïkse	0	2
@@ -1398,7 +1434,7 @@ meters	métoerzz	0	2
 method	methodd	0	2
 methods	methodss	0	2
 metric	mettrikk	0	2
-metrics	mettrikss	0	2
+metrics	mettrixx	0	2
 Mib	Mi bémol	1	2
 mib	mi bémol	1	2
 Mibm	Mi bémol m	1	2
@@ -1452,7 +1488,6 @@ multiband	multibandd	0	2
 multimedia	multi média	0	2
 musescore	muzscore	0	2
 music	miouzik	0	2
-musical	miouzikoll	0	2
 Musk	moeskk	0	2
 must	moestt	0	2
 muy	mouï	0	2
@@ -1505,6 +1540,7 @@ nkoda	n koda	0	2
 nobr	no b r	0	2
 noise	noïze	0	2
 Nolan	Nolann	1	2
+noname	nonèime	0	2
 noreply	noriplaille	0	2
 NORMINV	norm i n v	1	2
 NORMSDIST	norm s distt	1	2
@@ -1546,6 +1582,7 @@ OCT2DEC	octt 2 dec	0	2
 OCT2HEX	octt 2 hex	0	2
 ODD	odd	0	2
 Offenbach	Offoenbak	1	2
+often	offoen	0	2
 OGG	ogg	1	2
 ohio	oaillo	0	2
 Okeenea	okinéa	0	2
@@ -1554,44 +1591,10 @@ OLE	o l e	1	2
 oman	omann	0	2
 omega	oméga	0	2
 ominus	ominuss	1	2
-onabort	onn abortt	1	2
-onbeforeprint	onn biforprinntt	1	2
-onbeforeunload	onn biforoenlaudd	1	2
-onblur	onn blour	1	2
-oncanplay	onn cann play	1	2
-ondblclick	onn double click	1	2
-ondragend	onn dragg èndd	1	2
-ondragenter	onn dragg ènntoer	1	2
-ondragover	onn dragovoer	1	2
-ondragquit	onn dragg quitt	1	2
-ondragstart	onn drag startt	1	2
 ones	oinnze	0	2
 oneshot	wannchott	0	2
 oneshots	wannchotss	0	2
-oninput	onninnpoutt	1	2
-oninvalid	onninvalidd	1	2
-onkeyup	onn key oeup	1	2
-online	onnlaïnn	0	2
-onload	onn laudd	1	2
 only	onnly	0	2
-onmousedown	onn maouse daouwn	1	2
-onmouseenter	onn maouse ènntoer	1	2
-onmouseout	onn maouse aoutt	1	2
-onmouseover	on maouse ovoer	1	2
-onmousewheel	onn maouse vouhïll	1	2
-onpagehide	onn page haïdd	1	2
-onpageshow	onn page show	1	2
-onreadystatechange	onn ridy stèite change	1	2
-onredo	onn redou	1	2
-onreset	onn rizett	1	2
-onresize	onn ressaïze	1	2
-onselect	onn sélectt	1	2
-onshow	onn chow	1	2
-onsort	onn sortt	1	2
-onsubmit	onn soebmitt	1	2
-ontoggle	onn toggoeul	1	2
-onundo	onnoendou	1	2
-onunload	on oenlaudd	1	2
 open	opoenn	0	2
 OpenAI	opoenèail	0	2
 opendir	opoendir	1	2
@@ -1615,6 +1618,8 @@ Orleans	Orlinnss	1	2
 ornament	ôrnamoentt	0	2
 ornaments	ôrnamoentss	0	2
 osc	o s c	0	2
+other	odoer	0	2
+others	odoerzz	0	2
 otimes	otaïmmzz	1	2
 oud	oudd	0	2
 Oulan	Oulann	1	2
@@ -1725,6 +1730,7 @@ powl	pohouv l	1	2
 powned	powndd	0	2
 pre	pré	0	2
 preccurlyeq	prek curly eq	1	2
+predefined	prédifahinndd	0	2
 preload	prélaudd	0	2
 Pretoria	Prétoria	1	2
 pretup	prètoep	0	2
@@ -1737,6 +1743,7 @@ PRINCPER	prinss	pèr	1	2
 print	prinntt	0	2
 printed	prinntidd	0	2
 printing	prinnting	0	2
+proceed	procidd	0	2
 prod	prodd	0	2
 product	prodoektt	0	2
 project	prodjectt	0	2
@@ -1780,13 +1787,16 @@ raise	rèïze	0	2
 ran	rann	0	2
 rand	randd	0	2
 RANDBETWEEN	randd bitwine	1	2
+randomly	randommly	0	2
 RANK	rankk	1	2
 Rayan	Raïann	1	2
+RAZ	R A Z	1	2
 read	riidd	0	2
 readable	riidèboeul	0	2
 readdir	riidd dir	1	2
 reader	riidoer	0	2
 readers	riidoerzz	0	2
+reading	riiding	0	2
 readme	riidmi	0	2
 readonly	riidonnly	0	2
 reads	riidzz	0	2
@@ -1855,6 +1865,7 @@ retrieve	ritrive	0	2
 retrieved	ritrivde	0	2
 retrieves	ritrivze	0	2
 return	ritoern	0	2
+returned	ritoerndd	0	2
 returns	ritoernzz	0	2
 rewind	riwaïnndd	0	2
 rewinddir	riwaïnndd dir	1	2
@@ -1972,7 +1983,11 @@ setimgdim	sett i m g dimm	1	2
 setlength	settlenngth	1	2
 setminus	setminuss	1	2
 sets	setss	0	2
+settag	sett tagg	1	2
+setter	settoer	0	2
+setters	settoerzz	0	2
 settime	sett taïme	1	2
+settings	settinngss	0	2
 setwritemode	sett vraïte mode	1	2
 setx	sett x	1	2
 seven	sévoen	0	2
@@ -2082,9 +2097,11 @@ Soizic	Soazigg	1	2
 Solb	sol bémol	1	2
 Solbm	sol bémol m	1	2
 sold	soldd	0	2
+Soleilhac	Soleillac	0	2
 solid	solidd	0	2
 soloist	soloïste	0	2
 someone	somouane	0	2
+sometimes	sommtaïmmzz	0	2
 somewhere	somouère	0	2
 Soraya	Soraïa	1	2
 SORTBY	sortt bail	1	2
@@ -2122,6 +2139,7 @@ spoken	spokoen	0	2
 sprang	sprangg	0	2
 spread	sprède	0	2
 spreadsheet	sprèddchitt	0	2
+spring	sprinngg	0	2
 springing	sprinnguing	0	2
 springs	sprinngzz	0	2
 sprung	sproengg	0	2
@@ -2130,6 +2148,7 @@ SQRTPI	sqrt pi	1	2
 srand	s randd	1	2
 srcset	essercéssett	1	2
 ssl	èçèçèl	0	2
+Stael	Stal	1	2
 stake	stèke	0	2
 staker	stèker	0	2
 staking	stèking	0	2
@@ -2149,10 +2168,12 @@ stdout	s t d aoutt	0	2
 Ste	Sainte	1	2
 steals	stealzz	0	2
 Stellantis	Stellantiss	0	2
+stereo	stéréo	0	2
 STEYX	 s t e igrec x	1	2
 sticker	stickoer	0	2
 stickers	stickoerzz	0	2
 sticks	stickss	0	2
+still	stil	0	2
 stinging	stinnguing	0	2
 stings	stinngzz	0	2
 stink	stinnkk	0	2
@@ -2192,6 +2213,7 @@ strnicmp	strn i cmp	1	2
 strnset	strn sett	1	2
 strong	strongg	0	2
 strset	str sett	1	2
+strsub	s t r subb	1	2
 struck	stroeck	0	2
 struct	structt	1	2
 strung	stroengg	0	2
@@ -2201,6 +2223,8 @@ stung	stoengg	0	2
 stunk	stoenkk	0	2
 Stuttgart	Chtouttgartt	1	2
 stylesheet	stylchite	0	2
+subfolder	subfoldoer	0	2
+subfolders	subfoldoerzz	0	2
 subject	soebjectt	0	2
 subjects	soebjectss	0	2
 submit	soebmitt	0	2
@@ -2213,6 +2237,7 @@ such	soetch	0	2
 suer	su ai	0	2
 SUMIF	sum if	1	2
 SUMIFS	sum if s	1	2
+summer	soemmoer	0	2
 sun	soen	0	2
 sung	soengg	0	2
 sunk	soenkk	0	2
@@ -2299,6 +2324,8 @@ tfoot	t foutt	1	2
 tga	t g a	0	2
 thai	thaï	0	2
 than	dann	0	2
+thank	fhènkk	0	2
+thanks	fhènkss	0	2
 that	dhatt	0	2
 thead	t hèdd	1	2
 then	dènn	0	2
@@ -2399,6 +2426,8 @@ unable	oenèiboeul	0	2
 unbeam	oenbimm	0	2
 unbreakable	oenbrèkèbeul	0	2
 uncomment	oencommèntt	0	2
+uncomplete	oencaummplite	0	2
+uncompleted	oencaummplitidd	0	2
 uncut	oencoeutt	0	2
 undef	oenndef	1	2
 undefined	oendifahinndd	0	2
@@ -2416,6 +2445,7 @@ unfold	oenfoldd	0	2
 unit	unitt	0	2
 units	unitss	0	2
 unknown	oenhnownn	0	2
+unless	oenless	0	2
 unlink	oenlinnkk	1	2
 unlock	oenlock	0	2
 unlocked	oenlockedd	0	2
@@ -2468,6 +2498,7 @@ vanuatu	vanouatou	0	2
 vararg	varargg	0	2
 varargs	varargzz	0	2
 varepsilon	varepsilonn	1	2
+various	variouss	0	2
 VARP	var p	1	2
 vartheta	varthêta	1	2
 vegan	végane	0	2
@@ -2487,6 +2518,7 @@ Vogüé	Voguhé	1	2
 voice	voïce	0	2
 voices	voïcizz	0	2
 void	voïde	0	2
+volleyball	volleybaul	0	2
 VOST	v o s t	1	2
 VSTi	v s t i	1	2
 Vstplugins	v s t ploeguinnss	0	2
@@ -2567,7 +2599,9 @@ wind	winndd	0	2
 winding	winnding	0	2
 window	ouinndow	0	2
 winds	winndzz	0	2
+winter	winntoer	0	2
 wisconsin	wisconsinn	0	2
+wishes	wichizz	0	2
 withdraws	withdrawzz	0	2
 withdrew	withdrouw	0	2
 within	withinn	0	2
@@ -2599,6 +2633,7 @@ write	vraïte	0	2
 writer	vraïtoer	0	2
 writers	vraïtoerzz	0	2
 writes	vraïtss	0	2
+writing	vraïting	0	2
 written	vrittoen	0	2
 wrong	vrongg	0	2
 wrung	vroengg	0	2
@@ -2697,9 +2732,13 @@ zumba	zoumba	0	2
 \bdashboards?\b	dashborde	0	1
 \bdealers?\b	diiloer	0	1
 \bdecrescendos?\b	décréchènndo	0	1
+\bdistill([a-zéè]+)\b	distil\1	1	1
+\bDISTILL([A-ZÉÈ]+)\b	DISTIL\1	1	1
 \bdjemb[eé]s?\b	djoembé	0	1
 \bdll(export2?|import2?)\b	d l l \1	1	1
 \bdrivers?\b	draïvoer	0	1
+\bDuba[ïi]\b	Doubayy	0	1
+\bdump(ée?s?|er)\b	doemper	0	1
 \bEd[vw]ard\b	Edwardd	0	1
 \bEST(ERREUR|LOGIQUE|NONTEXTE|NUM|REF|TEXTE|VIDE)\b	est \1	1	1
 \bexec(l|le|lp|lpe|v|ve|vp|vpe)\b	egzec \1	1	1
@@ -2709,6 +2748,7 @@ zumba	zoumba	0	2
 \bfirsts?\b	foerstt	0	1
 \bflycases?\b	flaïcase	0	1
 \bgadulkas?\b	gadoulka	0	1
+\bgage[üu]re\b	gajure	0	2
 \bgajdas?\b	gaïda	0	1
 \bget(aspectratio|color|curdir|cmd|dfree|disk|drivername|dta)\b	guett \1	1	1
 \bget(c|cbrk|ch|char|date|env|gm|n|s|text|w|x|y|time)\b	guett \1	1	1
@@ -2722,6 +2762,8 @@ zumba	zoumba	0	2
 \bIMPORT(HTML|XML)\b	import \1	1	1
 \binche?s?\b	innch	0	1
 \binsights?\b	innsaïtt	0	1
+\binstill([a-zéè]+)\b	instil\1	1	1
+\bINSTILL([A-ZÉÈ]+)\b	INSTIL\1	1	1
 \bint(\d+x?|dosx?|r)\b	inntt \1	1	1
 \bIn[eèéê]s\b Iness	0	1
 \bIS(FORMULA|LOGICAL|NONTEXT|REF)\b	izz \1	1	1
@@ -2734,6 +2776,8 @@ zumba	zoumba	0	2
 \blayer(\d+)\b	layoer \1	0	1
 \bLOG(10|2)\b	log \1	1	1
 \bM(DETERM|DURATION|INVERSE|MULT|ROUND|UNIT)\b	M \1	1	1
+\bmaelstr[öo]m\b	malstrom	0	1
+\bmagnats?\b	mag-nat	0	2
 \bmails?\b	mèïl	0	1
 \bmanagers?\b	manadjoer	0	1
 \bmarimbas?\b	marimmba	0	1
@@ -2744,9 +2788,8 @@ zumba	zoumba	0	2
 \bODD(F|L)PRICE\b	odd \1 praïce	1	1
 \bODD(F|L)YIELD\b	odd \1 yildd	1	1
 \boffsets?\b	offsett	0	1
-\bon(cancel|change|click|close|contextmenu|drag|dragleave|drop|focus)\b	onn \1	1	1
-\bon(keydown|keypress|loadeddata|loadedmetadata|loadstart|message)\b	on \1	1	1
-\bon(mouseleave|mousemove|mouseup|pause|play|playing|progress|scroll|suspend|volumechange|waiting)\b	onn \1	1	1
+\boscill([a-zéè]+)\b	oscil\1	1	1
+\bOSCILL([A-ZÉÈ]+)\b	OSCIL\1	1	1
 \bpharaons?\b	farahon	0	1
 \bpickup s?\b	pickoep	0	1
 \bplugs?\b	ploeug	0	1
@@ -2757,6 +2800,7 @@ zumba	zoumba	0	2
 \bprinters?\b	prinntoerr	0	1
 \bprovides?\b	provaïdd	0	1
 \bput(c|ch|char|env|image|pixel|s|text|w)\b	poutt \1	1	1
+\bpuzzles?\b	poezeule	0	1
 \bquarters?\b	qwartoerr	0	1
 \brand(brd|bwr)\b	randd \1	1	1
 \breboots?\b	reboutt	0	1
@@ -2775,11 +2819,14 @@ zumba	zoumba	0	2
 \bsetups?\b	sètoepp	0	1
 \bshakers?\b	chèkoer	0	1
 \bsin(h|l|hl)\b	sinn \1	1	1
+\bslots?\b	slott	0	1
+\bsmileys?\b	smaÏley	0	1
 \bSoundFonts?\b	SoundFontt	0	1
 \bspawn(lp?e?|vp?e?)\b	spawn \1	1	1
 \bsrc(doc|lang)\b	s r c \1	1	1
 \bstands?\b	standd	0	1
 \bSTDEV(A|P|PA)\b	s t dev \1	1	1
+\bsteaks?\b	stèk	0	1
 \bstr(coll|dup|error|rev)\b	str \1	1	1
 \bstrto(d|k|l|ul)\b	str tou \1	1	1
 \bSUM(PRODUCT|SQ|X2MY2|X2PY2|XMY2)\b	sum \1	1	1
@@ -2794,6 +2841,7 @@ zumba	zoumba	0	2
 \btrades?\b	trède	0	1
 \btrails?\b	trèile	0	1
 \btrans(l|r)\b	transs \1	1	1
+\btrépieds?\b	tré pied	0	1
 \bukul[eé]l[eé]s?\b	youkoulélé	0	1
 \bwallets?\b	wallett	0	1
 \bwhistles?\b	wissoeul	0	1
@@ -2803,9 +2851,9 @@ zumba	zoumba	0	2
 \bworkspaces?\b	workspèice	0	1
 \bzi[ck]os\b	zikauss	0	1
 \b[cs]hengs?\b	shèngg	0	1
+\bécosystèmes?\b	éco système	0	1
 \bépel(er|ons|ez|ée?s?|ant)\b	époeul\1	0	1
 çura	djoura	0	2
-écosystème	éco système	0	2
 ŋ	ènngue	0	2
 ƛ	lambdabarré	1	2
 ℏ	H-bar	1	2
