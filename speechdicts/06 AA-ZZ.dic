@@ -13,11 +13,16 @@ ad	add	1	2
 #Argent
 Ag	A g	1	2
 #AI conflit: J'ai utilisé le chat de Mistral AI, sur chat.mistral.ai
-#. Ai-je un bon dictionnaire ? J'y ai beaucoup travaillé, je l'ai !
+#. Ai-je un bon dictionnaire ? J'y ai beaucoup travaillé, je l'ai ! Je t'ai donné.
+#j'ai	jai	0	2
+#l'ai	lai	0	2
+#m'ai	mai	0	2
+#t'ai	tai	0	2
 Ai	hai	1	2
-(<?[ \s\'])ai\b	hai	1	1
+#(<?[ \s\'])ai\b	hai	1	1
 \.ai\b	point hai ail	1	1
 AI	hai ail	1	2
+ai	hai	1	2
 #A minor (la mineur)
 Am	A m	1	2
 #Argon
@@ -159,6 +164,13 @@ Na	N a	1	2
 NY	n igrec	1	2
 #OF, OK, ON, OR, OU, mais OS
 \bO([A-EG-JLMO-QSTV-XZ])\b	O \1	1	1
+#ŒUF, Œuf, œuf, ŒSOPHAGE, Œsophage, œsophage, CŒUR, Cœur...
+\bŒ([A-ZÉÈ]+)\b	OE\1	1	1
+\bŒ([a-zéè]+)\b	Oe\1	1	1
+Œ	O E	1	2
+œ	o e	1	2
+Œ	OE	1	0
+œ	oe	1	0
 #Og=Oganesson
 #HTML <ol>, Olympique Lyonnais
 ol	o èl	1	2
