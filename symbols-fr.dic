@@ -1,9 +1,9 @@
-﻿symbols:
+symbols:
 ==	icoualss	none	never	# ==
 !=	noticoualss	none	never	# !=
 ?	-	most
 /	slash
-\\	backslash	some
+\\	backslash	most
 //	double slash	none	never	# //
 ±	-	none
 ♭	bémol	none	never	# ♭
@@ -645,4 +645,14 @@
 ̄	macron	none
 ˊ	accent aigu	none
 ´	accent aigu	none
-
+฿	bahtt thaïlandais
+->	flèche droite	none	never	# -->
+-->	flèche droite	none	never	# -->
+==>	flèche droite	none	never	# -->
+<-	flèche gauche	none	never
+<--	flèche gauche	none	never
+<==	flèche gauche	none	never
+<->	flèche gauche-droite	none	never
+<-->	flèche gauche-droite	none	never
+<=>	flèche gauche-droite	none	never
+<==>	flèche gauche-droite	none	never
