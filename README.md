@@ -24,11 +24,12 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
 * Langues étrangères :
   * Anglais : verbes et mots  fréquents ou techniques, verbes irréguliers ;
   * Caractères diacrités et spéciaux de l'alphabet latin: prononciation lorsque isolé, et quelques caractères transformés dans un mots pour langues ibériques, slaves, roumain et nordiques, exemple : España [Espagna], João [Jo-an-o], Dvořák	[Dvorjak], Bregović (Brégovitsh], Kruševo [Krouchévo], Čoček (Tchotchek], Bokmål...
+  * Caractères mathématiques servant au formatage de texte (gras, italique, script), abusément utilisés sur les réseaux sociaux.
   * Caractères japonais : je ne connais pas la langue, mais d'après Wikipédia, j'ai fait une approximation de la prononciation dans le fichier des symboles ;
-  *  Alphabets grec et cyrillique : ici, aucune tentative de prononciation, mais j'ai tenu à mettre ces caractères pour épeler un mot en se déplaçant caractère par caractère, ou pour entendre une anomalie si un pirate remplace un caractère latin par un caractère cyrillique ressemblant. Cela permet de détecter un spam lorsque cette technique est utilisée. NVDA dira "a cyrillique", "d cyrilliquemajuscule ", etc.
+  * Alphabets grec et cyrillique : ici, aucune tentative de prononciation, mais j'ai tenu à mettre ces caractères pour épeler un mot en se déplaçant caractère par caractère, ou pour entendre une anomalie si un pirate remplace un caractère latin par un caractère cyrillique ressemblant. Cela permet de détecter un spam lorsque cette technique est utilisée. NVDA dira "a cyrillique", "d cyrilliquemajuscule ", etc.
 * Noms propres :
   * pays et capitales : Bahrein, London ;
-  * états américains : Iowa, Maryland ;
+  * états américains : Iowa, Maryland, Ohio ;
   * régions et villes de France, Allemagne, Grande-Bretagne, USA ;
   * quelques villages imprononçables d'Auvergne ! Arlempdes, Cunlhat, Mézenc ;
   * Prénoms : Aya, Kylian, Owen...
@@ -91,6 +92,7 @@ J'ai découpé mon fichier `default.dic` en plusieurs sections, ainsi vous pouve
 |[06 AA-ZZ.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/06%20AA-ZZ.dic)|Tous les mots de 2 lettres sont traités ici. Si ce ne sont pas des mots français/anglais, alors les 2 lettres sont prononcées séparément (épellation) comme un sigle ou le nom d'une droite ou d'un vecteur en géométrie.<br>Les majuscules et minuscules sont traitées. Exemple, AD peuten majuscule  être une droite passant par les points A et D, mais aussi l'acronyme de Active Directory. Avec une miniscule ou tout en minuscule, cela peut être dans une expression latine "Ad libitum", "Ad vitam aeternam".|
 |[07 dates.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/07%20dates.dic)|Lorsqu'une date est au format ISO, c'est-à-dire année-mois-jour, ce traitement raccourcis les silences entre chaque élément. J'utilise beaucoup ce format de date pour trier des fichiers par ordre alpha et chronologique en commençant leur nom par la date dans ce format.|
 |[08 diacritics.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/08%20diacritics.dic)|Des caractères Latin-1 et -Latin-2 étendus, avec des accents, caron, hatchek, cédille... Lorsqu'ils sont isolés, ils sont prononcés (par exemple S cédille), lorsqu'on se déplace par caractère, il est possible que le mot cédille soit épelé.<br>Lorsqu'ils sont dans un mot, certains caractères sont transformés lorsque leur prononciation est constante. Le ñ (n tilde) espagnol (au détriment du breton), le ã (a tilde) portugais, le č (c hatchek) des langues slaves transformé en tch.|
+|[09 A-Z variantes.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/09%20A-Z%20variantes.dic)|Des outils permettent de formatter du texte en gras, italique, script, en utilisant des caractères mathématiques, pour poster sur les réseaux sociaux.<br />Ces règles les transforment en caractères latins pour être prononcés correctement.|
 |[fr.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/fr.dic)|La liste principale du dictionnaire, trié par ordre alphabétique.|
 
 Faites-en bon usage ! ☺
