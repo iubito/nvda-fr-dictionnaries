@@ -252,6 +252,7 @@ bots	botss	0	2
 Boulez	Boulèze	0	2
 bound	boundd	0	2
 bounds	boundzz	0	2
+Bouygues	Bouïgues	0	2
 brace	brèice	0	2
 braces	brèicizz	0	2
 bracket	brackett	0	2
@@ -279,6 +280,7 @@ broken	brokoen	0	2
 broker	brokoer	0	2
 brokers	brokoerzz	0	2
 browser	braowzoer	0	2
+brunch	broench	0	2
 brush	broesh	0	2
 brushes	broechizz	0	2
 brushless	broechless	0	2
@@ -350,6 +352,7 @@ charleston	charlestone	0	2
 charset	charsett	0	2
 Chaspinhac	Chaspignac	1	2
 check	tcheck	0	2
+checked	tcheckedd	0	2
 checkout	tchèckaoutt	0	2
 checks	tcheckss	0	2
 CHERCHEB	cherche b	1	2
@@ -474,6 +477,7 @@ cut	coeutt	0	2
 cuts	coeutss	0	2
 cygwin	cygwinn	0	2
 DADGAD	Dadgadd	1	2
+Dalton	Daltonn	0	2
 dance	dènnce	0	2
 Darmstadt	Darnchtatt	1	2
 dataset	datassett	0	2
@@ -646,6 +650,7 @@ ecvt	e c v t	1	2
 EDATE	e date	1	2
 edf	eudéef	0	2
 edit	editt	0	2
+Eduard	Edouardd	0	2
 eelv	e e l vé	0	2
 effect	effectt	0	2
 effects	effectss	0	2
@@ -686,6 +691,7 @@ enhancer	ènnhansoer	0	2
 enhancers	ènnhansoerzz	0	2
 enhances	ènnhhancizz	0	2
 Ennezat	n zat	1	2
+enough	inoff	0	2
 Enrique	ènnriqué	1	2
 ENT	e n t	1	2
 entries	ènntryzz	0	2
@@ -708,6 +714,7 @@ Erevan	Yérévann	1	2
 ERF	E r f	1	2
 Erwan	Erwann	1	2
 Erythrée	érythrée	1	2
+ESAT	esatt	1	2
 escape	eskèipe	0	2
 ESET	ezett	1	2
 Esteban	Estébann	0	2
@@ -758,6 +765,7 @@ fact	factt	1	2
 fader	fèidoer	0	2
 faders	fèidoerzz	0	2
 fading	fèiding	0	2
+Fahrenheit	Faroe-naïte	0	2
 fail	fèïl	0	2
 fails	fèïlzz	0	2
 fall	faull	0	2
@@ -765,7 +773,9 @@ fallen	faulloen	0	2
 falling	fauling	0	2
 falls	faulzz	0	2
 FAQ	èfacu	0	2
+farad	faradd	0	2
 Farid	Faridd	1	2
+fashion	fashionn	0	2
 faster	fastoer	0	2
 fat	fatt	0	2
 fclose	èfclose	1	2
@@ -1214,6 +1224,7 @@ kantele	kantélé	0	2
 karaoke	karaoké	0	2
 Karlsruhe	Karlsrouhoe	1	2
 Kbis	K biss	0	2
+Kelvin	Kelvinn	0	2
 kendji	kènndji	0	2
 kentucky	kenntucky	0	2
 Kenya	Kénia	1	2
@@ -1692,6 +1703,7 @@ percs	percss	0	2
 perhaps	poerhapss	0	2
 period	périodd	0	2
 periods	périaudss	0	2
+permalink	permalinnkk	0	2
 PERMUT	permutt	1	2
 Philips	Filipss	0	2
 php	péachpé	0	2
@@ -1782,6 +1794,7 @@ quickstep	couikstep	0	2
 quirtet	quintett	0	2
 quit	quitt	0	2
 quits	quitss	0	2
+qwice	qwaïce	0	2
 rad	radd	0	2
 raise	rèïze	0	2
 ran	rann	0	2
@@ -1891,6 +1904,7 @@ Riyad	Riyadd	1	2
 rmi	r m i	0	2
 rocksteady	rockstèdy	0	2
 ROE	r o e	1	2
+Roentgen	Roennttguènn	0	2
 root	roote	0	2
 roots	rootss	0	2
 round	roundd	0	2
@@ -1912,6 +1926,7 @@ runtime	roen taïme	0	2
 rust	roest	0	2
 Réb	Ré bémol	1	2
 Rébm	Ré bémol m	1	2
+Röntgen	Roennttguènn	0	2
 Sachs	Sax	0	2
 sad	sadd	0	2
 safe	sèife	0	2
@@ -2020,6 +2035,7 @@ shit	chitt	0	2
 short	shortt	0	2
 shortcut	shortcoeutt	0	2
 shortcuts	shortcoeutss	0	2
+shorts	shortss	0	2
 shot	chott	0	2
 shots	chotss	0	2
 shower	showoer	0	2
@@ -2038,7 +2054,9 @@ Sibm	si bémol m	1	2
 side	saïdd	0	2
 sides	saïdzz	0	2
 SIE	S I E	0	2
+Siemens	Sienennss	0	2
 SIERREUR	si erreur	1	2
+Sievert	Sievertt	0	2
 SIGN	signe	1	2
 signed	signedd	0	2
 silent	saïlenntt	0	2
@@ -2425,6 +2443,8 @@ umlaut	oumlaautt	0	2
 unable	oenèiboeul	0	2
 unbeam	oenbimm	0	2
 unbreakable	oenbrèkèbeul	0	2
+uncheck	oentcheck	0	2
+unchecked	oentcheckedd	0	2
 uncomment	oencommèntt	0	2
 uncomplete	oencaummplite	0	2
 uncompleted	oencaummplitidd	0	2
@@ -2453,6 +2473,7 @@ unlocks	oenlockss	0	2
 unpack	oennpack	0	2
 unsaved	oensèivdd	0	2
 unselect	oensélectt	0	2
+unselected	oensélectedd	0	2
 unsigned	oensignedd	0	2
 unsorted	oensortedd	0	2
 until	oentilhl	0	2
@@ -2519,6 +2540,7 @@ voice	voïce	0	2
 voices	voïcizz	0	2
 void	voïde	0	2
 volleyball	volleybaul	0	2
+von	vonn	0	2
 VOST	v o s t	1	2
 VSTi	v s t i	1	2
 Vstplugins	v s t ploeguinnss	0	2
@@ -2545,6 +2567,7 @@ waves	wèïvze	0	2
 wear	wèr	0	2
 wearing	wèring	0	2
 wears	wèrzz	0	2
+Weber	Wébèrr	0	2
 webkit	webkitt	0	2
 website	websaïtt	0	2
 websites	websaïtss	0	2
@@ -2664,13 +2687,18 @@ zeta	zéta	0	2
 zeybek	zèïbek	0	2
 zimbabwe	Zimmbabwé	0	2
 zumba	zoumba	0	2
+\b(absolu|actuelle|aligne|assuré|brillam|calme|claire|couram|douce|énormé|facile)ment\b	\1mant	0	1
+\b(ard|appar|différ|dilig|évid|fréqu|impati|imprud|innoc|pati|prud|réc|sci)emment\b	\1amant	0	1
 \b(a|k|q|r)sort\b	\1 sortt	1	1
 \b(bios|c|diff|f|local|mk|strf|u)time\b	\1 taïme	1	1
+\b(bruyam|brutale|bête|chaotique|chaleureuse|charnelle|chimique|civile|coûteuse|commodé|communé)ment\b	\1mant	0	1
 \b(b|l)search\b	\1 soertch	1	1
 \b(b|p)matrix\b	\1 ématrix	1	1
 \b(b|u)oper\b	\1 opèr	1	1
 \b(ch|f)mod	\1 modd	1	1
 \b(ch|mk|rm)dir\b	\1 dir	1	1
+\b(complète|concrète|confuse|consciencieuse|constam|continuelle|convenable|correcte)ment\b	\1mant	0	1
+\b(courageuse|courtoise|cruelle|curieuse|dangereuse|débile|délicate|délicieuse)ment\b	\1mant	0	1
 \b(c|d|dd|o)dot\b	\1 dott	1	1
 \b(c|f)get\b	\1 guett	1	1
 \b(c|f)put(c|char|s)\b	\1 poutt \2	1	1
@@ -2681,14 +2709,24 @@ zumba	zoumba	0	2
 \b(c|l|r)sup\b	\1 supp	1	1
 \b(c|m)alloc\b	\1 alloc	1	1
 \b(dl|dlr|dr)arrow\b	\1 arrow	1	1
+\b(drole|durable|éblouissam|efficace|égoïste|élégam|énergique|énormé|entière|enthousiasté|équitable)ment\b	\1mant	0	1
+\b(démocratique|désespéré|difficile|digne|directe|discrète|distincte|divine|douloureuse)ment\b	\1mant	0	1
+\b(essentielle|éternelle|étrange|étroite|éventuelle|exacte|exceptionnelle|excessive)ment\b	\1mant	0	1
+\b(exclusive|expressé|extraordinaire|extrême|fâcheuse|fausse|féroce|fière)ment\b	\1mant	0	1
 \b(f)put\b	\1 poutt	1	1
+\b(finale|franche|générale||heureuse|immédiate|intensé|large|légère|lente|naturelle|normale)ment\b	\1mant	0	1
+\b(fine|firme|folle|formelle|forte|fougueuse|frénétique|froide|furieuse|générale|)ment\b	\1mant	0	1
 \b(f|fd|s)open\b	\1 opoenn	1	1
 \b(f|l)seek\b	\1 seek	1	1
 \b(f|p)error\b	\1 error	1	1
 \b(F|T|V|Z)TEST\b	\1 testt	1	1
+\b(généreuse|genti|globale|gracieuse|grande|graveleuse|griève|grossière|habile|harmonieuse|hâtive|honnête)ment\b	\1mant	0	1
+\b(horizontale|horrible|humble|idéale|illégale|illogique|immensé|immodéré|impitoyable|inévitable|infini|initiale)ment\b	\1mant	0	1
 \b(h|v)space\b	\1 spèïce	1	1
 \b(H|V)STACK\b	\1 stack	1	1
 \b(H|V|X)LOOKUP\b	\1 lookoep	1	1
+\b(instantané|intensé|intentionnelle|intéressam|intime|intrigam|involontaire|irrémédiable|irrésistible|irrégulière|irrévocable)ment\b	\1mant	0	1
+\b(joyeuse|judicieuse|juste|laborieuse|légale|libre|logique|loyale|lumineuse|magnifique)ment\b	\1mant	0	1
 \b(ld|fr)expl\b	\1 expp l	1	1
 \b(ld|fr)exp\b	\1 expp	1	1
 \b(ld|l|m|rd|r)line\b	\1 laïne	1	1
@@ -2700,6 +2738,17 @@ zumba	zoumba	0	2
 \b(l|r)trim\b	\1 trim	1	1
 \b(l|str)find\b	\1 faïnndd	1	1
 \b(l|v)dots\b	\1 dotss	1	1
+\b(malencontreuse|malhonnête|maligne|manifeste|matérielle|mathématique|mécham|médiocre|mélancolique|mémorable)ment\b	\1mant	0	1
+\b(méticuleuse|modeste|molle|morale|mortelle|mystérieuse|naïve|nécessaire|négative|nerveuse|noble)ment\b	\1mant	0	1
+\b(notoire|officielle|opportuné|ordinaire|orgueilleuse|originale|outrageuse|paisible|partielle|passionné|parfaite)ment\b	\1mant	0	1
+\b(parfaite|particulière|poli|rapide|réelle|régulière|simple|sincère|soudaine|totale)ment\b	\1mant	0	1
+\b(positive|possible|précisé|présomptueuse|probable|propre|pudique|puissam|pure)ment\b	\1mant	0	1
+\b(pénible|périodique|personnelle|physique|piètre|pittoresque|placide|plaisam|plate)ment\b	\1mant	0	1
+\b(rare|relative|religieuse|résolu|respectueuse|rigoureuse|ronde|royale|rude|sadique|sainte|sale)ment\b	\1mant	0	1
+\b(savam|savoureuse|scrupuleuse|secrète|séduisam|sensible|sérieuse|sévère|singulière|sourde|souveraine|spéciale|spontané)ment\b	\1mant	0	1
+\b(stricte|stupéfiam|subtile|suffisam|sûre|tendre|ténébreuse|terne|timide|tragique|traîtreuse|tranquille)ment\b	\1mant	0	1
+\b(triomphale|triviale|typique|unanime|)ment\b	\1mant	0	1
+\b(vrai|adroite|agréable|ample|amère|amoureuse|approximative|artificielle|aveuglé|badine|bizarre|briève)ment\b	\1mant	0	1
 \baiff?\b	a iff	0	1
 \balign(c|l|r)\b	align \1	1	1
 \bato(f|i)\b	atou \1	1	1
@@ -2717,6 +2766,7 @@ zumba	zoumba	0	2
 \bboomers?\b	boumoer	0	1
 \bBr[iy]an\b	Braïann	1	1
 \bbuen(a|o)(s?)\b	bouén\1\2\2	0	1
+\bbugg(ée?s?|er)\b	boegué	0	1
 \bbulldozers?\b	bulldozerr	0	1
 \bBY(COL|ROW)\b	bail \1	1	1
 \bbzip(2?)\b	b zip \1	0	1
@@ -2732,8 +2782,8 @@ zumba	zoumba	0	2
 \bdashboards?\b	dashborde	0	1
 \bdealers?\b	diiloer	0	1
 \bdecrescendos?\b	décréchènndo	0	1
-\bdistill([a-zéè]+)\b	distil\1	1	1
 \bDISTILL([A-ZÉÈ]+)\b	DISTIL\1	1	1
+\bdistill([a-zéè]+)\b	distil\1	1	1
 \bdjemb[eé]s?\b	djoembé	0	1
 \bdll(export2?|import2?)\b	d l l \1	1	1
 \bdrivers?\b	draïvoer	0	1
@@ -2785,11 +2835,12 @@ zumba	zoumba	0	2
 \bmod(fl?)\b	modd \1	1	1
 \bmuch(a|o)(s?)\b	moutch\1\2\2	0	1
 \bM[ée]kong\b	Mékongg	1	1
+\bNewtons?\b	Nioutonn	0	1
 \bODD(F|L)PRICE\b	odd \1 praïce	1	1
 \bODD(F|L)YIELD\b	odd \1 yildd	1	1
 \boffsets?\b	offsett	0	1
-\boscill([a-zéè]+)\b	oscil\1	1	1
 \bOSCILL([A-ZÉÈ]+)\b	OSCIL\1	1	1
+\boscill([a-zéè]+)\b	oscil\1	1	1
 \bpharaons?\b	farahon	0	1
 \bpickup s?\b	pickoep	0	1
 \bplugs?\b	ploeug	0	1
