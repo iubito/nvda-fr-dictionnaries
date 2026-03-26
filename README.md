@@ -21,6 +21,11 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
   * Noms de compositeurs : Wolfgang Amadeus, Beethoven, Schubert, Ligeti, Brassens...
 * Cellules de tableur jusqu'à la colonne ZZ ;
 * Symboles mathématiques, et un traitement spécial pour le point d'exclamation après un chiffre qui est la factorielle.
+* Français :
+  * Les adverbes pouvaient être mal prononcer après certains mots. Exemple : Je pense à toi tendrement.
+  * Mots d'origine étrangère : bulldozer, bug, crumble, djembé, jazz, popup, scanner...
+  * Le e mangé au milieu du verbe épeler
+  * ... et quelques corrections sur des mots trouvés par hasard.
 * Langues étrangères :
   * Anglais : verbes et mots  fréquents ou techniques, verbes irréguliers ;
   * Caractères diacrités et spéciaux de l'alphabet latin: prononciation lorsque isolé, et quelques caractères transformés dans un mots pour langues ibériques, slaves, roumain et nordiques, exemple : España [Espagna], João [Jo-an-o], Dvořák	[Dvorjak], Bregović (Brégovitsh], Kruševo [Krouchévo], Čoček (Tchotchek], Bokmål...
@@ -33,8 +38,10 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
   * régions et villes de France, Allemagne, Grande-Bretagne, USA ;
   * quelques villages imprononçables d'Auvergne ! Arlempdes, Cunlhat, Mézenc ;
   * Prénoms : Aya, Kylian, Owen...
+  * physiciens, chimistes qui ont donné leur nom à des unités de mesure : Newton, Fahrenheit, Kelvin, Siemens...
 * Termes en rapport avec la finance (types de comptes bancaires, brokers, paires Forex, crypto-monnais) ;
 * Quelques acronymes administratifs français.
+* Noms de fabricants, de logiciels, de réseaux sociaux, applications en ligne : BitDefender, Facebook, Samsung...
 
 Avant tout, j'ai tenu à ce qu'un texte français soit correctement prononcé. Il y a donc des termes anglais ou techniques qui ne sont pas traités. Par exemple :
 * `file` = fichier en anglais, mais aussi une file d'attente, ou « il file à l'anglaise » ;
