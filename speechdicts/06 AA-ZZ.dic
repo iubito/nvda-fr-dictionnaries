@@ -101,6 +101,8 @@ GI	g i	0	2
 #GO: bouton "GO"
 GU	g u	1	2
 GY	g igrec	1	2
+#Gray (unité de mesure)
+Gy	g igrec	1	2
 HA	h a	1	2
 # HE (Huile Essentielle)
 HE	h e	1	2
