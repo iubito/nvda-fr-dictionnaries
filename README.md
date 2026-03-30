@@ -2,7 +2,7 @@
 NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
 
 ## Short introduction for non-francophone users
-* symbols-en.dic: with the huge help of Brian Vogel, you'll find here japanese, cyrillic and greek characters,  programming and maths symbols (`==`, `!=`, `>=`, `&&`, `||`, `⩽`, `∈`...)
+* symbols-en.dic: you'll find here japanese, cyrillic and greek characters,  programming and maths symbols (`==`, `!=`, `>=`, `&&`, `||`, `⩽`, `∈`...).<br />Many thanks to Brian Vogel for translations!
 * speechdicts: you may find interesting regexp in numeric files, `!` and `_`, spreadsheet cells, CamelBumps and diacritics).
 
 # Dictionnaire de prononciation des mots et symboles pour NVDA
