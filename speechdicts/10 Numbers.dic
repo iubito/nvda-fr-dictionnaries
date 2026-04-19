@@ -1,0 +1,22 @@
+#Variantes de nombres + compteur et nombres dans un mot
+#Chiffres romains traités plus haut
+#Number variants + number as counter or in the middle of word
+#Roman numbers already handled
+#❶❷❸ -> 123 -> 1 2 3
+#espace ajouté après la transformation pour séparer chaque chiffre
+#Note the space after the definition, to separate numbers
+[❶➀➊]	1 	1	1
+[❷➁➋]	2 	1	1
+[❸➂➌]	3 	1	1
+[❹➃➍]	4 	1	1
+[❺➄➎]	5 	1	1
+[❻➅➏]	6 	1	1
+[❼➆➐]	7 	1	1
+[❽➇➑]	8 	1	1
+[❾➈➒]	9 	1	1
+[❿➉➓]	10 	1	1
+# counter download01, download02...
+# split word and numbers
+\b([A-Za-z]+)(\d+)\b	\1 \2	1	1
+# word + number + word
+\b([A-Za-z]+)(\d+)([A-Za-z]+)\b	\1 \2 \3	1	1
