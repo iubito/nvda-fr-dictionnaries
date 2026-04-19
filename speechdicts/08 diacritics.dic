@@ -4,7 +4,6 @@
 # ils seraient épelés même en milieu de mot.
 # je l'ai fait pour le japonais (approximatif) car un caractère = une syllabe
 # Amélioration prononciation: une ligne pour le caractère isolé, et une ligne pour caractère au milieu d'un mot
-
 # Mais avant, correction de mots complets comportant un des diacrituqes.
 cümbüş	djummbuch	0	2
 
@@ -32,7 +31,7 @@ cümbüş	djummbuch	0	2
 ě	yé	0	0
 \bň\b	n ˇ	0	1
 ň	gn	0	0
-#Dvořák	[Dvorjak	0	2]
+#Dvořák	[Dvorjak]
 \bř\b	r ˇ	0	1
 ř	rj	0	0
 #Roumain: variantes avec virgule et cédille
@@ -59,11 +58,13 @@ cümbüş	djummbuch	0	2
 \bđ\b	d barré	0	1
 \bď\b	d ˇ	0	1
 \bď\b	d ˇ	0	1
+\bĕ\b	e ˘	0	1
 \bē\b	e ̄	0	1
 \bę\b	e ˛	0	1
 \bė\b	e ˙	0	1
 \bğ\b	g ˘	0	1
 \bģ\b	g ¸	0	1
+\bĭ\b	i ˘	0	1
 \bī\b	i ̄	0	1
 \bį\b	i ˛	0	1
 \bi̇\b	i ˙	0	1
@@ -75,12 +76,14 @@ cümbüş	djummbuch	0	2
 \bľ\b	l ˇ	0	1
 \bŅ\b	n ¸	0	1
 \bń\b	n ´	0	1
+\bŏ\b	o ˘	0	1
 \bő\b	o ˝	0	1
 \bŕ\b	r ´	0	1
 \bŖ\b	r ¸	0	1
 \bś\b	s ´	0	1
 \bť\b	t ˇ	0	1
 \bŤ\b	t ˇ	0	1
+\bŭ\b	u ˘	0	1
 \bű\b	u ˝	0	1
 \bū\b	u ̄	0	1
 \bų\b	u ˛	0	1
