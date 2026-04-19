@@ -36,28 +36,30 @@ AU	au	1	2
 #Au = Or
 AY	A igrec	1	2
 BA	B a	1	2
-#Baryum
-Ba	B a	1	2
-#Let it be!
-BE	Bi	0	2
-#Bi=Bismuth
-#Bande originale
-BO	B o	1	2
-BY	Bail	0	2
+\bB([A-DFGHJ-TVWXZa-dfghj-np-tvwxz])\b	b \1	1	1
+#Ba = Baryum
+#Let it BE!
+be	bi	0	2
+#Bi = Bi=Bismuth, Bi-mensuel
+#BO = Bande originale
+by	bail	0	2
+\bC([A-DFGHJ-NP-XZa-dfghj-np-xz])\b	c \1	1	1
 #Chiffre d'affaire, calcium, circa
 CA	C a	0	2
 #Ce=Cérium
+#évite Ce = 100e en chiffre romain dans certaines situations
+Ce	ce	1	2
 #Co: Cobalt, Co-...
-CU	C u	1	2
-#Cuivre
-Cu	C u	1	2
+#Cu = Cuivre
 CY	C igrec	1	2
-DA	D a	1	2
+\bD([A-DF-IK-TVWXZbcdfghj-np-tvwxz])\b	d \1	1	1
+#Da, particule nom portugais (Da Silva)
 DE	de	1	2
-DI	D i	1	2
+#évite De = 500e en chiffre romain dans certaines situations
+De	de	1	2
+#DI, droite D I, Direct Input
 #di, particule noms de famille italiens
 DJ	Didjay	1	2
-DO	D o	1	2
 #Do et do = note de musique
 DY	D igrec	1	2
 #Dysprosium
@@ -82,46 +84,38 @@ EU	eu	1	2
 #Eu=Europium
 EX	ex	1	2
 EY	e igrec	1	2
-FA	f a	1	2
-FE	f e	1	2
-#Fer
-Fe	F e	1	2
-#FI: WI-FI
-FO	f o	1	2
-FU	f u	1	2
+\bF([A-HJ-XZb-hj-np-tvwxz])\b	f \1	1	1
+#Fe, Fer
+#FI, Fi: WI-FI
+#FO: Force Ouvrière
 #fiscal year
 FY	f igrec	1	2
-GA	g a	1	2
-#Gallium
-Ga	G a	1	2
-GE	g e	1	2
-#Germanium
-Ge	G e	1	2
-GI	g i	0	2
-#GO: bouton "GO"
-GU	g u	1	2
+\bG([A-NP-XZa-hj-np-xz])\b	g \1	1	1
+#Ga: Gallium
+#Ge: Germanium
+#GI, gi: Gestion Interne
+#GO, Go: bouton "GO", Giga-Octet
 GY	g igrec	1	2
 #Gray (unité de mesure)
 Gy	g igrec	1	2
-HA	h a	1	2
+\bH([A-XZbcdfghj-np-tvwxz])\b	h \1	1	1
+#Ha ha ha ! hi hi hi
 # HE (Huile Essentielle)
-HE	h e	1	2
-#He is..., he is...
+#He: pronom 3e personne anglais, He is..., he is...
 He	i	1	2
 he	i	1	2
-HI	h i	1	2
 #Hi! Hello!
 Hi	haï	1	2
 #hi hi hi!
 hi	ih	1	2
-HO	h o	1	2
 #Ho=Holmium
-HU	h u	1	2
 HY	h igrec	1	2
 #IF, IL, IN, IV (4), IX (9)
 #IA, IF, II, IL, IN, IO, IP, IR, IS, IT, IV, IX
 \bI([A-CEGHJKMOQRUWZ])\b	I \1	1	1
 ID	aïdi	0	2
+#évite Ie = premier, ou dans certains cas "unième", en chiffre romain
+Ie	i e	1	2
 II	deux	1	2
 III	trois	1	2
 #IN, In=Indium
@@ -136,36 +130,38 @@ IT	itt	0	2
 IV	quatre	1	2
 IX	neuf	1	2
 IY	i igrec	1	2
-JA	j a	1	2
-JI	j i	1	2
-#Journal Officiel, Jeux Olympiques
-JO	j o	1	2
-JU	j u	1	2
+\bJ([A-DF-XZbcdfghj-np-tvwxz])\b	j \1	1	1
+#JE, Je, je: pronom 1ère personne français
+#JO: Journal Officiel, Jeux Olympiques
 JY	j igrec	1	2
-KA	k a	1	2
-KE	k e	1	2
-KI	k i	1	2
-KO	k o	1	2
-KU	k u	1	2
+\bK([A-XZbcdfghj-tvwxz])\b	k \1	1	1
+#Ko: kilo-octet
+#Ku Klux Klan
 KY	k igrec	1	2
+\bL([BCDF-TVWXZbcdf-np-tvwxz])\b	l \1	1	1
 #La=Lanthane
-#Lithium, <li>
-LI	l i	0	2
-LO	l o	1	2
+#évite Le = 50e en chiffre romain dans certaines situations
+Le	le	1	2
+#LI/Li/li : Lithium, <li>
+li	l i	1	2
 #Lu=Lutétium
 #LY: Lilypond
-MI	m i	1	2
-MO	m o	1	2
+\bM([BDF-TVWXZbdfghj-tvwxz])\b	m \1	1	1
+#MC: Master of Ceremony, MC Solaar
+MC	m ci	1	2
+#Mc: McDonald
+Mc	mak	1	2
+#évite Me = 1000e en chiffre romain dans certaines situations
+Me	me	1	2
 #Mo = Méga-octet, Molybdène
-#MU: lettre grec µ majuscule
+#MU, Mu, mu: lettre grec
 MY	mhail	0	2
-NA	n a	1	2
-#Sodium
-Na	N a	1	2
-#NO, No=Nobélium
+\bN([A-D-FGHJ-NP-TVWXZa-dfghj-np-tvwxz])\b	n \1	1	1
+#Na: Sodium
+#NO, No, no: non en anglais, No=Nobélium
 NY	n igrec	1	2
 #OF, OK, ON, OR, OU, mais OS
-\bO([A-EG-JLMO-QSTV-XZ])\b	O \1	1	1
+\bO([A-EG-JLMO-QSTVWXZgs])\b	o \1	1	1
 #ŒUF, Œuf, œuf, ŒSOPHAGE, Œsophage, œsophage, CŒUR, Cœur...
 \bŒ([A-ZÉÈ]+)\b	OE\1	1	1
 \bŒ([a-zéè]+)\b	Oe\1	1	1
@@ -173,56 +169,46 @@ NY	n igrec	1	2
 œ	o e	1	2
 Œ	OE	1	0
 œ	oe	1	0
-#Og=Oganesson
-#HTML <ol>, Olympique Lyonnais
+#Og: Oganesson
+#OL: HTML <ol>, Olympique Lyonnais
 ol	o èl	1	2
-#Osmium
-Os	O s	1	2
-#once
-oz	auzz	1	2
-PA	p a	1	2
-#Protactinium, Pascal
-Pa	P a	1	2
-PE	p e	1	2
-#PI: lettre grecque, maths
-#Polonium
-Po	P o	1	2
+#Os: Osmium
+#Oz, oz: once, magicien d'Oz
+oz	auzz	0	2
+\bP([A-HJ-XZa-hj-xz])\b	p \1	1	1
+#Pa: Protactinium, Pascal
+#PI, Pi, pi: lettre grecque, maths
+#Po: Polonium
 #PU: polyuréthane
-PU	p u	1	2
-#Plutonium
-Pu	P u	1	2
-#PY: Python .py
-QA	q a	1	2
-QE	q e	1	2
-QI	q i	1	2
-QO	q o	1	2
+#Pu: Plutonium
+#PY, py: Python .py
+PY	p igrec	1	2
+py	p igrec	1	2
+\bQ([A-TVWXZbcdfghj-np-tvwxz])\b	q \1	1	1
+#QI: quotient intellectuel
 #QU: QU'ON
-QY	q y	1	2
-RA	r a	1	2
-#Radium
-Ra	R a	1	2
-#RE: RE: Objet d'un mail
-#Re=Rhénium
-RI	r i	1	2
-RO	r o	1	2
-RU	r u	1	2
+QY	q igrec	1	2
+\bR([A-DF-XZa-dfghj-np-tvwxz])\b	r \1	1	1
+#Ra: Radium
+#RE, Re, re: RE: Objet d'un mail
+#Re: Rhénium
 RY	r igrec	1	2
-#SA, SE, SI, SO
-#Se=Sélénium
-#SI conflit: note, SI TU VAS..., Système International, Système d'Information
+#SA, SE, SI, SO, SU
+\bS([BCDFGHJ-NP-SVWXZbcdfghj-np-svwxz])\b	s \1	1	1
+#Se: Sélénium (conflit)
+#SI: note, SI TU VAS..., Système International, Système d'Information
 #Saint(e) dans les noms de viles
+ST	Saint	1	2
 St	Saint	1	2
+STE	Sainte	1	2
 Ste	Sainte	1	2
-SU	s u	1	2
 SY	s igrec	1	2
 #TA, TE, TO, TU, Ta=Tantale, Te=Tellure
-TI	t i	1	2
-#Titane
-Ti	T i	1	2
+\bT([BCDF-NP-TVWXZbcdf-np-tvwxz])\b	t \1	1	1
+#Ti: Titane
 TY	t igrec	1	2
-#UI, UN, UP, US (USA)
-\bU([A-MOQ-XZ])\b	U \1	1	1
-UC	ucé	0	2
+#UI, UN, UP, US (USA), UT (do)
+\bU([A-MOQ-SU-XZ])\b	u \1	1	1
 #Oud / Ud (instrument)
 Ud	oudd	1	2
 ud	oudd	1	2
@@ -232,32 +218,33 @@ ui	u i	1	2
 uk	u k	0	2
 #HTML <ul>
 ul	u èl	1	2
+#ut = nom de note de musique = do
+UT	utt	0	2
 UY	u igrec	1	2
-VA	v a	1	2
-#Véhicule électrique
-VE	v e	1	2
+\bV([A-HJ-TVWXZbcdfghj-np-tvwxz])\b	v \1	1	1
+#VE: Véhicule électrique
 Ve	cinquième	1	2
 VI	six	1	2
-VO	v o	1	2
+#VO: version originale
 VY	v igrec	1	2
-WA	w a	1	2
-#WE: week-end, we are
-WE	w e	1	2
+\bW([ABD-XZbcdfghj-np-tvwxz])\b	w \1	1	1
+WC	v c	1	2
+wc	v c	1	2
+#WE: week-end, we are (conflit)
 we	oui	0	2
-WU	w u	1	2
 WY	w igrec	1	2
-XE	x e	1	2
+\bX([A-HJ-UWZbcdfghj-np-tvwxz])\b	x \1	1	1
 #Xe conflit: 10e et Xenon
 Xe	dizième	1	2
 XI	onze	1	2
 XV	quinze	1	2
 XX	vingt	1	2
-YA	igrec a	1	2
-#Ytterbium
-Yb	igrec b	1	2
-YE	igrec e	1	2
-YI	igrec i	1	2
-#Yo!
-YO	igrec o	1	2
-YU	igrec u	1	2
-YY	igrec igrec	0	2
+XY	x igrec	1	2
+xy	x igrec	1	2
+\bY([A-XZb])\b	igrec \1	1	1
+#Yb: Ytterbium
+#YO, Yo!
+yx	igrec x	1	2
+YY	igrec igrec	1	2
+\bZ([A-XZbcdfghj-np-tvwxz])\b	z \1	1	1
+ZY	z igrec	1	2
