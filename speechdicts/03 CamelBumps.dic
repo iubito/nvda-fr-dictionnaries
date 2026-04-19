@@ -4,6 +4,7 @@
 # inconvénient, ça peut casser des définitions faites plus loin comme WhatsApp.
 # Dans ce cas, il faut donner la prononciation de chaque mot "Whats" et "App", ou les définir ici avant les CamelBumps
 CapTVTy	captivity	0	2
+ffmpeg	èfèfèmpègue	0	2
 IIe	deuxième	1	2
 IIIe	troisième	1	2
 IVe	quatrième	1	2
@@ -14,6 +15,47 @@ LaTeX	Latex	1	2
 lilypond	lilypondd	0	2
 McAfee	macafi	0	2
 NOD32	nodd32	0	2
+#event OnChange, OnClick... normalement en minuscule en HTML mais possible camelbumps dans d'autres langages.
+onabort	onn abortt	0	2
+onbeforeprint	onn biforprinntt	0	2
+onbeforeunload	onn biforoenlaudd	0	2
+onblur	onn blour	0	2
+oncanplay	onn cann play	0	2
+ondblclick	onn double click	0	2
+ondragend	onn dragg èndd	0	2
+ondragenter	onn dragg ènntoer	0	2
+ondragover	onn dragovoer	0	2
+ondragquit	onn dragg quitt	0	2
+ondragstart	onn drag startt	0	2
+oninit	onn initt	0	2
+oninput	onninnpoutt	0	2
+oninvalid	onninvalidd	0	2
+onkeyup	onn key oeup	0	2
+onkeydown	onn key daoun	0	2
+online	onnlaïnn	0	2
+onload	onn laudd	0	2
+onmousedown	onn maouse daouwn	0	2
+onmouseenter	onn maouse ènntoer	0	2
+onmouseout	onn maouse aoutt	0	2
+onmouseover	on maouse ovoer	0	2
+onmousewheel	onn maouse vouhïll	0	2
+onpagehide	onn page haïdd	0	2
+onpageshow	onn page show	0	2
+onreadystatechange	onn ridy stèite change	0	2
+onredo	onn redou	0	2
+onreset	onn rizett	0	2
+onresize	onn ressaïze	0	2
+onselect	onn sélectt	0	2
+onshow	onn chow	0	2
+onsort	onn sortt	0	2
+onsubmit	onn soebmitt	0	2
+ontoggle	onn toggoeul	0	2
+onundo	onnoendou	0	2
+onunload	on oenlaudd	0	2
+\bon(cancel|change|click|close|contextmenu|drag|dragleave|draw|drop|focus)\b	onn \1	0	1
+\bon(keydown|keypress|loadeddata|loadedmetadata|loadstart|message)\b	on \1	0	1
+\bon(mouseleave|mousemove|mouseup|pause|play|playing|progress|scroll|suspend|volumechange|waiting)\b	onn \1	0	1
+rewire	riwaïoer	0	2
 SQLite	eskuel laïte	0	2
 SynthFont	SynthFontt	1	2
 TeX	Tex	1	2
