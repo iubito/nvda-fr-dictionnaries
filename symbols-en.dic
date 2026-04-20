@@ -1,4 +1,4 @@
-﻿symbols:
+symbols:
 ==	icoualss	none	never	# ==
 !=	noticoualss	none	never	# !=
 ?	-	most
@@ -186,6 +186,8 @@
 и	Cyrillic íh	none	never	# и
 І	Ukrainian capital íh	none	never	# І
 і	Ukrainian íh	none	never	# і
+Ї	Ukrainian capital íh diaeresis	none	never	# Ї
+ї	Ukrainian íh diaeresis	none	never	# ї
 К	Cyrillic capital Ka	none	never	# К
 к	Cyrillic ka	none	never	# к
 Л	Cyrillic capital L	none	never	# Л
@@ -656,3 +658,204 @@
 <-->	left right arrow	none	never
 <=>	left right arrow	none	never
 <==>	left right arrow	none	never
+ά	alfa acute	none	never	# ά
+έ	epsilon acute	none	never	# έ
+ή	ihta acute	none	never	# ή
+ί	iota acute	none	never	# ί
+ό	omicron acute	none	never	# ό
+ύ	upsilon acute	none	never	# ύ
+ώ	omega acute	none	never	# ώ
+ϊ	iota diaeresis	none	never	# ϊ
+Ά	alfa acute	none	never	# Ά
+Έ	epsilon acute	none	never	# Έ
+Ή	ihta acute	none	never	# Ή
+Ί	iota acute	none	never	# Ί
+Ό	omicron acute	none	never	# Ό
+Ύ	upsilon acute	none	never	# Ύ
+Ώ	omega acute	none	never	# Ώ
+Ϊ	iota diaeresis	none	never	# Ϊ
+★	star	none	never
+☆	white star	none	never
+☇	lightning	none	never
+☈	thunderstorm	none	never
+☉	sun	none	never
+☊	ascending node	none	never
+☋	descending node	none	never
+☌	conjunction	none	never
+☍	opposition	none	never
+☏	telephone	none	never
+☐	unchecked box	none	never
+☒	checked box	none	never
+☓	saltire	none	never
+☚	left pointing index	none	never
+☛	right pointing index	none	never
+☜	left pointing index	none	never
+☞	right pointing index	none	never
+☟	down pointing index	none	never
+☤	caduceus	none	never
+☧	Chi-Rho	none	never
+☨	cross of Lorraine	none	never
+☩	cross of Jerusalem	none	never
+☫	farsi symbol	none	never
+☬	Adi Shakti	none	never
+☭	hammer and sickle	none	never
+☻	black smiling face	none	never
+☼	white sun with rays	none	never
+☽	first quarter moon	none	never
+☾	last quarter moon	none	never
+♔	white king	none	never
+♕	white queen	none	never
+♖	white rook	none	never
+♗	white bishop	none	never
+♘	white knight	none	never
+♙	white pawn	none	never
+♚	black king	none	never
+♛	black queen	none	never
+♜	black rook	none	never
+♝	black bishop	none	never
+♞	black knight	none	never
+♟	black pawn	none	never
+♡	white heart	none	never
+♢	white diamond	none	never
+♣	club	none	never
+♤	white spade	none	never
+♥	heart	none	never
+♦	diamond	none	never
+♧	white club	none	never
+♩	quarter note	none	never
+♫	beamed eighth notes	none	never
+♬	beamed sixteenth notes	none	never
+♰	West syriac cross	none	never
+♱	East syriac cross	none	never
+♲	white recycling symbol	none	never
+⚀	Die face 1	none	never
+⚁	Die face 2	none	never
+⚂	Die face 3	none	never
+⚃	Die face 4	none	never
+⚄	Die face 5	none	never
+⚅	Die face 6	none	never
+⚐	white flag	none	never
+⚑	flag	none	never
+⚘	flower	none	never
+⚝	white star	none	never
+⚞	3 lines converging right	none	never
+⚟	3 lines converging left	none	never
+⛆	rain	none	never
+⛇	black snowman	none	never
+✀	safety scissors	none	never
+✁	scissors	none	never
+✃	scissors	none	never
+✄	white scissors	none	never
+✆	phone in a circle	none	never
+✎	pencil	none	never
+✐	pencil	none	never
+✑	white nib	none	never
+✙	outlined greek cross	none	never
+✚	heavy greek cross	none	never
+✞	shadowed white latin cross	none	never
+✟	outlined latin cross	none	never
+✠	Maltese cross	none	never
+✢	4 teardrops-spoked asterisk	none	never
+✣	4 balloon-spocked asterisk	none	never
+✤	Heavy 4 ballon-spocked asterisk	none	never
+✥	4 club-spocked asterisk	none	never
+✦	4 pointed star	none	never
+✧	white 4 pointed star	none	never
+✩	outlined white star	none	never
+✪	circled white star	none	never
+✫	open centre black star	none	never
+✬	black centre white star	none	never
+✭	outlined black star	none	never
+✮	heavy outlined black star	none	never
+✯	pinwheel star	none	never
+✰	shadowed white star	none	never
+✱	heavy asterisk	none	never
+✲	open centre asterisk	none	never
+✵	8 pointed pinwheel star	none	never
+✶	6 pointed star	none	never
+✷	8 pointed star	none	never
+✸	8 pointed none	never
+✹	12 pointed star	none	never
+✺	16 pointed asterisk	none	never
+✻	teardrop-spoked asterisk	none	never
+✼	teardrop-spoked asterisk	none	never
+✽	teardrop-spoked asterisk	none	never
+✾	6 petaled black and white florette	none	never
+✿	florette	none	never
+❀	white florette	none	never
+❁	outlined 8 petalled florette	none	never
+❂	circled 8 pointed white star	none	never
+❃	pinwheel asterisk	none	never
+❅	snowflake	none	never
+❆	snowflake	none	never
+❈	sparkle	none	never
+❉	8 balloon-spoked asterik	none	never
+❊	8 teardrop-spoked asterisk	none	never
+❋	8 teardrop-spoked asterisk	none	never
+❍	shadowed white circle	none	never
+❏	lower-right shadowed white square	none	never
+❐	upper-right shadowed white square	none	never
+❑	lower-right shadowed white square	none	never
+❒	upper-right shadowed white square	none	never
+❙	vertical bar	none	never
+❚	heavy vertical bar	none	never
+❛	single comma begin quotation	none	never
+❜	single comma end quotation	none	never
+❝	double comma begin quotation	none	never
+❞	double comma end quotation	none	never
+❟	low single comma end quotation	none	never
+❠	low double comma end quotation	none	never
+❢	heavy exclamation mark	none	never
+❥	left rotated heart	none	never
+❦	floral heart	none	never
+❧	left-rotated floral heart	none	never
+❨	left parenthesis	none	never
+❩	right parenthesis	none	never
+❪	heavy left parenthesis	none	never
+❫	heavy right parenthesis	none	never
+❬	left angle	none	never
+❭	right angle	none	never
+❮	left angle begin quotation	none	never
+❯	right angle end quotation	none	never
+❰	heavy left angle	none	never
+❱	heavy right angle	none	never
+❲	left tortoise shell bracket	none	never
+❳	right tortoise shell bracket	none	never
+❴	left curly brace	none	never
+❵	right curly brace	none	never
+➘	down right arrow	none	never
+➙	right arrow	none	never
+➚	up right arrow	none	never
+➛	right arrow	none	never
+➜	right arrow	none	never
+➝	right arrow	none	never
+➞	right arrow	none	never
+➟	right arrow	none	never
+➠	right arrow	none	never
+➣	right arrowhead	none	never
+➤	right arrowhead	none	never
+➥	curved downwards right arrow	none	never
+➦	curved upwards right arrow	none	never
+➧	right arrow	none	never
+➨	right arrow	none	never
+➩	right arrow	none	never
+➪	right arrow	none	never
+➫	right arrow	none	never
+➬	right arrow	none	never
+➭	right arrow	none	never
+➮	right arrow	none	never
+➯	right arrow	none	never
+➱	right arrow	none	never
+➲	circled white arrow	none	never
+➳	right dart	none	never
+➴	down right dart	none	never
+➵	right dart	none	never
+➶	up right dart	none	never
+➷	down right dart	none	never
+➸	right dart	none	never
+➹	up right dart	none	never
+➺	right arrow	none	never
+➻	right arrow	none	never
+➼	right dart	none	never
+➽	right dart	none	never
+➾	right arrow	none	never
