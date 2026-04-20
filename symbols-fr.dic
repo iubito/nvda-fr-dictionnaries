@@ -130,31 +130,31 @@ symbols:
 ˑ	demi-chrone	none	never	# ˑ
 ᵿ	upsilonn latin barré	none	never	# ᵿ
 ~=	noticoualss	none	never	# ~=
+🇦🇽	drapeau Îles Ålandd
+🇧🇭	drapeau Bahraïnn
+🇨🇰	drapeau Îles Couk
+🇨🇵	drapeau Île Clippertonn
+🇨🇽	drapeau Île Cristmass
+🇬🇱	drapeau Groënland
+🇬🇹	drapeau Guatémala
+🇬🇼	drapeau Guinée-Bissao
+🇭🇳	drapeau Hondurass
+🇮🇲	drapeau Île de Mann
+🇯🇪	drapeau Jerzey
+🇰🇪	drapeau Kénya
+🇰🇼	drapeau Koweit
+🇱🇦	drapeau Laoss
+🇱🇷	drapeau Libéria
+🇳🇮	drapeau Nicaragwa
+🇳🇷	drapeau Naourou
+🇴🇲	drapeau Omann
+🇸🇹	drapeau Sao Tomé-et-Prinntchipé
+🇻🇪	drapeau Vénézuéla
+🇻🇳	drapeau Viêtnam
+🇼🇫	drapeau Walliss-et-Futuna
+🇾🇪	drapeau Yémènn
+🇿🇼	drapeau Zimmbabwé
 А	A majuscule cyrilik	none	never	# А
-🇦🇽	drapeau  Îles Ålandd
-🇧🇭	drapeau  Bahraïnn
-🇨🇰	drapeau  Îles Couk
-🇨🇵	drapeau  Île Clippertonn
-🇨🇽	drapeau  Île Cristmass
-🇬🇱	drapeau  Groënland
-🇬🇹	drapeau  Guatémala
-🇬🇼	drapeau  Guinée-Bissao
-🇭🇳	drapeau  Hondurass
-🇮🇲	drapeau  Île de Mann
-🇯🇪	drapeau  Jerzey
-🇰🇪	drapeau  Kénya
-🇰🇼	drapeau  Koweit
-🇱🇦	drapeau  Laoss
-🇱🇷	drapeau  Libéria
-🇳🇮	drapeau  Nicaragwa
-🇳🇷	drapeau  Naourou
-🇴🇲	drapeau  Omann
-🇸🇹	drapeau  Sao Tomé-et-Prinntchipé
-🇻🇪	drapeau  Vénézuéla
-🇻🇳	drapeau  Viêtnam
-🇼🇫	drapeau  Walliss-et-Futuna
-🇾🇪	drapeau  Yémènn
-🇿🇼	drapeau  Zimmbabwé
 а	a cyrilik	none	never	# а
 Б	Bé majuscule cyrilik	none	never	# Б
 б	bé cyrilik	none	never	# б
@@ -186,6 +186,8 @@ symbols:
 и	i cyrilik	none	never	# и
 І	I majuscule ukrainien	none	never	# І
 і	i ukrainien	none	never	# і
+Ї	I tréma majuscule ukrainien	none	never	# Ї
+ї	i tréma ukrainien	none	never	# ї
 К	Ka majuscule cyrilik	none	never	# К
 к	ka cyrilik	none	never	# к
 Л	El majuscule cyrilik	none	never	# Л
@@ -656,3 +658,206 @@ symbols:
 <-->	flèche gauche-droite	none	never
 <=>	flèche gauche-droite	none	never
 <==>	flèche gauche-droite	none	never
+ά	alpha aigu	none	never	# ά
+έ	epsilonn aigu	none	never	# έ
+ή	ita aigu	none	never	# ή
+ί	iota aigu	none	never	# ί
+ό	omicronn aigu	none	never	# ό
+ύ	upsilonn aigu	none	never	# ύ
+ώ	oméga aigu	none	never	# ώ
+ϊ	iota tréma	none	never	# ϊ
+Ά	alpha aigu	none	never	# Ά
+Έ	epsilonn aigu	none	never	# Έ
+Ή	ita aigu	none	never	# Ή
+Ί	iota aigu	none	never	# Ί
+Ό	omicronn aigu	none	never	# Ό
+Ύ	upsilonn aigu	none	never	# Ύ
+Ώ	oméga aigu	none	never	# Ώ
+Ϊ	iota tréma	none	never	# Ϊ
+★	étoile	none	never
+☆	étoile blanche	none	never
+☇	éclair	none	never
+☈	orage	none	never
+☉	soleil	none	never
+☊	noeud ascendant	none	never
+☋	noeud descendant	none	never
+☌	conjonction	none	never
+☍	opposition	none	never
+☏	téléphone	none	never
+☐	case non cochée	none	never
+☒	case cochée	none	never
+☓	sautoir	none	never
+☚	index pointant à gauche	none	never
+☛	index pointant à droite	none	never
+☜	index pointant à gauche	none	never
+☞	index pointant à droite	none	never
+☟	index pointant vers le bas	none	never
+☤	caducée	none	never
+☧	chrisme	none	never
+☨	croix de Lorraine	none	never
+☩	croix de Jérusalem	none	never
+☫	symbole farsi	none	never
+☬	Adi Chakti	none	never
+☭	faucille et marteau	none	never
+☯	yinn et yangg	none	never
+☻	visage noir souriant	none	never
+☼	soleil blanc avec rayons	none	never
+☽	premier quartier de lune	none	never
+☾	dernier quartier de lune	none	never
+♔	roi blanc	none	never
+♕	reine blanche	none	never
+♖	tour blanche	none	never
+♗	fou blanc	none	never
+♘	cavalier blanc	none	never
+♙	pion blanc	none	never
+♚	roi noir	none	never
+♛	reine noire	none	never
+♜	tour noire	none	never
+♝	fou noir	none	never
+♞	cavalier noir	none	never
+♟	pion noir	none	never
+♡	coeur blanc	none	never
+♢	carreau blanc	none	never
+♣	trèfle	none	never
+♤	pique blanc	none	never
+♥	coeur	none	never
+♦	carreau	none	noir
+♧	trèfle blanc	none	never
+♩	noire	none	never
+♫	deux croches	none	never
+♬	deux double-croches	none	never
+♰	croix syriaque occidentale	none	never
+♱	croix syriaque orientale	none	never
+♲	symbol recyclage blanc	none	never
+⚀	dé 1	none	never
+⚁	dé 2	none	never
+⚂	dé 3	none	never
+⚃	dé 4	none	never
+⚄	dé 5	none	never
+⚅	dé 6	none	never
+⚐	drapeau blanc	none	never
+⚑	drapeau	none	never
+⚘	fleur	none	never
+⚝	étoile blanche	none	never
+⚞	3 lignes convergentes vers la droite	none	never
+⚟	3 lignes convergentes vers la gauche	none	never
+⛆	pluie	none	never
+⛇	bonhomme de neige noir	none	never
+✀	ciseau à bouts ronds	none	never
+✁	ciseaux	none	never
+✃	ciseaux	none	never
+✄	ciseaux blancs	none	never
+✆	téléphone dans un cercle	none	never
+✎	crayon	none	never
+✐	crayon	none	never
+✑	stylo plume blanc	none	never
+✙	croix grecque avec contours	none	never
+✚	croix grecque épaisse	none	never
+✞	croix latine blanche ombrée	none	never
+✟	croix latine avec contours	none	never
+✠	croix de Malte	none	never
+✢	astérisque à 4 larmes	none	never
+✣	astérisque à 4 ballons	none	never
+✤	astérisque à 4 gros ballons	none	never
+✥	astérisque à 4 trèfles	none	never
+✦	étoile à 4 branches	none	never
+✧	étoile blanche à 4 branches	none	never
+✩	contour étoile blanche	none	never
+✪	étoile blanche dans un cercle	none	never
+✫	étoile à centre vide	none	never
+✬	étoile blanche avec centre plein	none	never
+✭	étoile avec contours	none	never
+✮	étoile avec contours épais	none	never
+✯	moulinet	none	never
+✰	étoile blanche ombrée	none	never
+✱	astérisque épais	none	never
+✲	astérisque à centre vide	none	never
+✵	moulinet 8 branches	none	never
+✶	étoile 6 branches	none	never
+✷	étoile 8 branches	none	never
+✸	étoile 8 branches	none	never
+✹	étoile 12 branches	none	never
+✺	astérisque 16 branches	none	never
+✻	astérisque à larmes	none	never
+✼	astérisque à larmes	none	never
+✽	astérisque à larmes	none	never
+✾	fleurette à 6 pétales noirs et blancs	none	never
+✿	fleurette	none	never
+❀	fleurette blanche	none	never
+❁	fleurette 8 pétales avec contours	none	never
+❂	étoile blanche 8 branches dans un cercle	none	never
+❃	astérisque moulinet	none	never
+❅	flocon	none	never
+❆	flocon	none	never
+❈	éclat	none	never
+❉	astérisque 8 ballons	none	never
+❊	astérisque 8 larmes	none	never
+❋	astérisque 8 larmes	none	never
+❍	cercle blanc ombré	none	never
+❏	carré blanc ombrée en bas à droite	none	never
+❐	carré blanc ombrée en haut à droite	none	never
+❑	carré blanc ombrée en bas à droite	none	never
+❒	carré blanc ombrée en haut à droite	none	never
+❙	barre verticale	none	never
+❚	barre verticale épaisse	none	never
+❛	apostrophe début de citation	none	never
+❜	apostrophe fin de citation	none	never
+❝	guillemets début de citation	none	never
+❞	guillemets fin de citation	none	never
+❟	apostrophe basse fin de citation	none	never
+❠	guillemets bas fin de citation	none	never
+❢	point d'exclamation épais	none	never
+❥	coeur pivoté à gauche	none	never
+❦	coeur floral	none	never
+❧	coeur floral pivoté à gauche	none	never
+❨	parenthèse gauche	none	never
+❩	parenthèse droite	none	never
+❪	parenthèse gauche épaisse	none	never
+❫	parenthèse droite épaisse	none	never
+❬	angle à gauche	none	never
+❭	angle à droite	none	never
+❮	angle à gauche début de citation	none	never
+❯	angle ç droite fin de citation	none	never
+❰	angle épais à gauche	none	never
+❱	angle épais à droite	none	never
+❲	parenthèse gauche carapace de tortue	none	never
+❳	parenthèse droite carapace de tortue	none	never
+❴	accolade gauche	none	never
+❵	accolade droite	none	never
+➗	diviser	none	never
+➘	flèche bas droite	none	never
+➙	flèche droite	none	never
+➚	flèche haut droite	none	never
+➛	flèche droite	none	never
+➜	flèche droite	none	never
+➝	flèche droite	none	never
+➞	flèche droite	none	never
+➟	flèche droite	none	never
+➠	flèche droite	none	never
+➣	pointe de flèche droite	none	never
+➤	pointe de flèche droite	none	never
+➥	flèche droite venant du haut	none	never
+➦	flèche droite venant du bas	none	never
+➧	flèche droite	none	never
+➨	flèche droite	none	never
+➩	flèche droite	none	never
+➪	flèche droite	none	never
+➫	flèche droite	none	never
+➬	flèche droite	none	never
+➭	flèche droite	none	never
+➮	flèche droite	none	never
+➯	flèche droite	none	never
+➱	flèche droite	none	never
+➲	flèche droite blanche dans un cercle	none	never
+➳	flèchette droite	none	never
+➴	fléchette bas droite	none	never
+➵	flèchette droite	none	never
+➶	flèchette haut droite	none	never
+➷	flèchette bas droite	none	never
+➸	flèchette droite	none	never
+➹	flèchette haut droite	none	never
+➺	flèche droite	none	never
+➻	flèche droite	none	never
+➼	fléchette droite	none	never
+➽	flèchette droite	none	never
+➾	flèche droite	none	never
