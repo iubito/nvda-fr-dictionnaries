@@ -12,7 +12,9 @@ symbols:
 =	-	none
 >=	greater than or equal	none	never	# >=
 <=	Less than or equal	none	never	# <=
-()	 	none	never	# ()
+()	left right parentheses	none	never	# ()
+{}	left right braces	none	never	# {}
+[]	left right brackets	none	never	# []
 ""	empty string	none	never	# ""
 ||	or	none	never	# ||
 &&	anndd	none	never	# &&
@@ -651,6 +653,7 @@ symbols:
 ->	right arrow	none	never	# -->
 -->	right arrow	none	never	# -->
 ==>	right arrow	none	never	# -->
+=>	right arrow	none	never	# -->
 <-	left arrow	none	never
 <--	left arrow	none	never
 <==	left arrow	none	never
