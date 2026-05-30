@@ -12,7 +12,9 @@ symbols:
 =	-	none
 >=	Supérieur ou égal	none	never	# >=
 <=	Inférieur ou égal	none	never	# <=
-()	 	none	never	# ()
+()	parenthèses gauche droite	none	never	# ()
+{}	accolades gauche droite	none	never	# {}
+[]	crochets gauche droit	none	never	# []
 ""	chaîne vide	none	never	# ""
 ||	or	none	never	# ||
 &&	anndd	none	never	# &&
@@ -651,6 +653,7 @@ symbols:
 ->	flèche droite	none	never	# -->
 -->	flèche droite	none	never	# -->
 ==>	flèche droite	none	never	# -->
+=>	flèche droite	none	never	# -->
 <-	flèche gauche	none	never
 <--	flèche gauche	none	never
 <==	flèche gauche	none	never
