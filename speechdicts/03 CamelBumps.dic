@@ -55,6 +55,7 @@ onunload	on oenlaudd	0	2
 \bon(cancel|change|click|close|contextmenu|drag|dragleave|draw|drop|focus)\b	onn \1	0	1
 \bon(keydown|keypress|loadeddata|loadedmetadata|loadstart|message)\b	on \1	0	1
 \bon(mouseleave|mousemove|mouseup|pause|play|playing|progress|scroll|suspend|volumechange|waiting)\b	onn \1	0	1
+OVHcloud	o v h claoudd	0	2
 rewire	riwaïoer	0	2
 SQLite	eskuel laïte	0	2
 SynthFont	SynthFontt	1	2
