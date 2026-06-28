@@ -666,6 +666,7 @@ different	differante	0	2
 diging	diguing	0	2
 digits	digitss	0	2
 digs	digzz	0	2
+diligemment	dilligeamant	0	2
 dingbats	dinnggbatss	0	2
 dirty	doerty	0	2
 disable	dissèiboeul	0	2
@@ -1410,6 +1411,7 @@ injected	innjectidd	0	2
 injects	innjectss	0	2
 inline	innlaïne	0	2
 inner	innoer	0	2
+innoc|emment	innoçamant	0	2
 innodb	innodébé	0	2
 inpi	I N P I	0	2
 input	 Innpoutt	0	2
@@ -1795,8 +1797,8 @@ method	methodd	0	2
 methods	methodss	0	2
 metric	mettrikk	0	2
 metrics	mettrixx	0	2
-mib	mi bémol	1	2
 Mib	Mi bémol	1	2
+mib	mi bémol	1	2
 Mibm	Mi bémol m	1	2
 mid	midd	0	2
 MIDB	midd b	1	2
@@ -2466,6 +2468,7 @@ Russia	Roechia	0	2
 rust	roest	0	2
 Réb	Ré bémol	1	2
 Rébm	Ré bémol m	1	2
+récemment	réssamant	0	2
 Röntgen	Roennttguènn	0	2
 SAAAS	estroiza s	1	2
 Sachs	Sax	0	2
@@ -3442,7 +3445,7 @@ zimbabwe	Zimmbabwé	0	2
 zumba	zoumba	0	2
 \b(absolu|actuelle|aligne|assuré|brillam|calme|claire|couram|douce|énormé|facile)ment\b	\1mant	0	1
 \b(amorg|andr|ant[ií]par|d[eé]l|folegandr|i|kimol|mil|mykon|nax|par|s[eé]rif|sifn|s[ií]kin|syr|tin)[oó]s\b	\1auss	0	1
-\b(ard|appar|différ|dilig|évid|fréqu|impati|imprud|innoc|pati|prud|réc|sci)emment\b	\1amant	0	1
+\b(ard|appar|différ|évid|fréqu|impati|imprud|pati|prud|sci)emment\b	\1amant	0	1
 \b(a|k|q|r)sort\b	\1 sortt	1	1
 \b(bios|c|diff|f|local|mk|strf|u)time\b	\1 taïme	1	1
 \b(bruyam|brutale|bête|chaotique|chaleureuse|charnelle|chimique|civile|coûteuse|commodé|communé)ment\b	\1mant	0	1
