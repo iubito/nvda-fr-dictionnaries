@@ -1,4 +1,3 @@
-
 AAH	A A H	0	2
 aave	a avé	0	2
 Aberdeen	Aberdinn	1	2
@@ -22,6 +21,7 @@ acosh	acoss h	0	2
 acosl	acoss l	1	2
 acot	acott	0	2
 acoth	acott h	0	2
+activate	activèite	0	2
 ADD	add	1	2
 Addis-Abeba	Adissabéba	1	2
 ADEME	adème	0	2
@@ -46,6 +46,7 @@ agnus	aniouss	0	2
 Aiguilhe	aiguille	1	2
 airbnb	air bi and bi	0	2
 Akai	Akail	0	2
+Albertville	Alberville	0	2
 ALEA	aléa	1	2
 alert	alertt	0	2
 ALIGN	aligne	0	2
@@ -86,6 +87,7 @@ anybody	èny body	0	2
 AnyDesk	ènidesk	0	2
 anything	èny thing	0	2
 anytime	èny taïme	0	2
+anyway	èny oueil	0	2
 anywhere	èny ouaire	0	2
 anywhereas	èny ouairazz	0	2
 AOC	A O C	1	2
@@ -118,6 +120,7 @@ args	argzz	0	2
 arkansas	arkansass	0	2
 Arlanc	Arlan	1	2
 Arlempdes	Arlemdes	1	2
+Armenia	arménia	1	2
 ARRAYTOTEXT	array tou textt	1	2
 arrows	arowzz	0	2
 arsinh	arsinn h	1	2
@@ -132,6 +135,7 @@ asm	a s m	0	2
 assert	assertt	0	2
 asset	assett	0	2
 assets	assetss	0	2
+assist	assist	0	2
 asttime	a s t taïme	1	2
 asus	azuss	0	2
 atan2	atan 2	0	2
@@ -141,9 +145,13 @@ atexit	att egzitt	0	2
 attempt	oetèmmpte	0	2
 attempts	oetèmmptse	0	2
 AUDCAD	a u d c a d	1	2
+audiodg	audio d g	1	2
+auditpol	audit pol	1	2
 AUDJPY	a u d j p igrec	1	2
 august	aowgoest	0	2
 Austin	Austinn	1	2
+autochk	auto c h k	1	2
+autofmt	auto f m t	1	2
 available	oevèiléboeul	0	2
 ave	avé	0	2
 average	averèdge	0	2
@@ -152,6 +160,7 @@ AVERAGEIF	averèdge iff	1	2
 AVERAGEIFS	averèdge iff s	1	2
 AVH	a v h	0	2
 avoid	oevoïde	0	2
+avoids	oevoïdze	0	2
 awake	oewèïke	0	2
 awakes	oewèïkse	0	2
 awaking	oewèïking	0	2
@@ -160,7 +169,9 @@ aware	oewerr	0	2
 away	oewayy	0	2
 awt	a w té	0	2
 Aya	A ya	1	2
+Azerbaijan	azerbaïdjann	1	2
 azoy	azoï	0	2
+baaupdate	b a a update	1	2
 baby	bèïby	0	2
 backbeat	backbitt	0	2
 backend	bakènndd	0	2
@@ -169,7 +180,6 @@ backepsilon	backépsilonn	1	2
 backward	backwardd	0	2
 bacon	béconn	0	2
 bad	badd	0	2
-Bahrein	Baraïnn	1	2
 baht	bahtt	0	2
 BAHTTEXT	bahtt textt	1	2
 baion	baïônn	0	2
@@ -184,7 +194,13 @@ basis	basiss	0	2
 basketball	basketbaul	0	2
 batucada	batoucada	0	2
 bağlama	baalama	0	2
+bbox	bi box	0	2
+bcdboot	b c d boott	1	2
+bcdedit	b c d éditt	1	2
+bde	b d e	0	2
 BDECARTYPEP	BD écartype p	1	2
+bdechangepin	b d e change pinn	1	2
+bdeunlock	b d e oenlock	1	2
 bdi	b d i	1	2
 BDMIN	BD minn	1	2
 BDNBVAL	BD nb val	1	2
@@ -214,6 +230,7 @@ beheld	biheldd	0	2
 behind	bihaïnndd	0	2
 behold	biholdd	0	2
 being	bihinng	0	2
+belgian	belgiann	0	2
 belize	bélize	0	2
 bells	bellzz	0	2
 below	bilow	0	2
@@ -222,6 +239,7 @@ Ben	bène	0	2
 bend	bènndd	0	2
 bendir	benndir	0	2
 bends	bènndss	0	2
+Benin	béninn	1	2
 bent	bèntt	0	2
 Benz	Bennzz	0	2
 Berlioz	Berliozz	0	2
@@ -233,13 +251,16 @@ BETAINV	béta i n v	1	2
 better	bettoer	0	2
 between	bitwine	0	2
 beware	biwerr	0	2
+Bhutan	Boutann	0	2
 BIC	béicé	1	2
 Bichkek	Biche kekk	1	2
+bicycle	baïcikoeul	0	2
 bid	bidd	0	2
 bidden	biddoen	0	2
 bigger	bigoer	0	2
 biggest	biguestt	0	2
 bike	baïke	0	2
+bikes	baïkse	0	2
 Billom	Biyon	1	2
 bin	binn	0	2
 BIN2DEC	binn 2 dec	0	2
@@ -272,6 +293,7 @@ blink	blinnkk	0	2
 blit	blitt	0	2
 blockquote	block quote	1	2
 bluegrass	blougrass	0	2
+Bluesky	blouskail	0	2
 blur	blour	0	2
 blurto	blourtou	1	2
 board	bordd	0	2
@@ -279,6 +301,7 @@ boards	bordzz	0	2
 bold	boldd	0	2
 bolder	boldoer	0	2
 boolean	booléann	0	2
+bootcfg	boott c f g	1	2
 borland	borlandd	0	2
 Borloo	borlau	0	2
 bot	bott	0	2
@@ -338,6 +361,7 @@ bump	boemmpp	0	2
 bumps	boemmpss	0	2
 bundle	boeundoeul	0	2
 bundles	boeundoeulzz	0	2
+bunzip	b oenzipp	1	2
 burn	boern	0	2
 burned	boerndd	0	2
 burning	boerning	0	2
@@ -354,6 +378,7 @@ BYD	biwail di	0	2
 bye	bail	0	2
 bytes	baïtss	0	2
 cabsl	cab s l	1	2
+cacls	c a c l s	1	2
 CADJPY	c a d j p igrec	1	2
 cakewalk	kèikwolkk	0	2
 call	caull	0	2
@@ -386,6 +411,7 @@ centered	cènntoerde	0	2
 centers	cènntoerzz	0	2
 cer	c e r	0	2
 cerr	c err	1	2
+cert	certt	1	2
 CESU	Césu	1	2
 cetera	cétéra	0	2
 cgi	c g i	0	2
@@ -394,6 +420,7 @@ chacha	tchatcha	0	2
 chain	chèinn	0	2
 chainlink	chèinnlinnkk	0	2
 chains	chèinnzz	0	2
+changepk	change p k	1	2
 Chapman	chapmann	0	2
 character	karactèrr	0	2
 characters	karactèrzz	0	2
@@ -408,9 +435,13 @@ checked	tcheckedd	0	2
 checkout	tchèckaoutt	0	2
 checks	tcheckss	0	2
 CHERCHEB	cherche b	1	2
+chglogon	c h g logonn	1	2
+chgport	c h g portt	1	2
+chgusr	c h g iouzoer	1	2
 child	tchaïldd	0	2
 childs	tchaïldss	0	2
 Chilhac	Chillac	1	2
+China	Tchaïna	1	2
 chinese	tchaïnizz	0	2
 Chisinau	Kichinau	1	2
 choice	tchoïce	0	2
@@ -418,19 +449,26 @@ choices	tchoïcizz	0	2
 chord	kordd	0	2
 chords	korddzz	0	2
 chosen	tchouzoen	0	2
+chown	c h ohouwn	1	2
 Christmas	Kristmass	1	2
 chunk	tchoennkk	0	2
 chunks	tchoennkss	0	2
 church	tchoertch	0	2
+Cid	cidd	1	2
+cipher	saïfoer	0	2
 circle	cirkoeul	0	2
 circles	cirkoeulzz	0	2
 clad	cladd	0	2
 clarinet	clarinett	0	2
 clean	clinn	0	2
+cleanmgr	clean m g r	1	2
 cleans	clinnzz	0	2
 CLI	c l i	1	2
+clicks	clickss	0	2
+cliconfg	c l i conf g	1	2
 clinging	clinnguing	0	2
 clipboard	clipbordd	0	2
+Clipperton	clippertonn	1	2
 cloneable	clonable	0	2
 closeable	clozéboeul	0	2
 closed	clozde	0	2
@@ -441,7 +479,9 @@ clung	cloengg	0	2
 cluster	cloestoer	0	2
 clusters	cloestoerzz	0	2
 cmake	cémèike	0	2
+cmdkey	c m d key	1	2
 CNUM	c num	1	2
+Coast	côstt	0	2
 cocek	tchotchèk	0	2
 COD	c o d	1	2
 COI	c o i	1	2
@@ -449,6 +489,7 @@ cold	cauldd	0	2
 collect	collectt	0	2
 collects	collectss	0	2
 coloratura	coloratoura	0	2
+colorcpl	color c p l	1	2
 colspan	colspann	0	2
 Columbia	Coloumbia	1	2
 COLUMN	column	1	2
@@ -476,17 +517,22 @@ concatenate	concattenèite	0	2
 CONCATENER	concaténer	1	2
 conjugate	conjuguète	0	2
 connecticut	connecticoeute	0	2
+consider	considoer	0	2
 contain	contèinn	0	2
 contains	contèinnzz	0	2
 context	contextt	0	2
 convert	convertt	0	2
 converter	converttoer	0	2
 converts	convertss	0	2
+convertvhd	convert v h d	1	2
+cook	coukk	0	2
 cookie	coukie	0	2
 cookies	coukizz	0	2
+cookéo	coukéo	0	2
 Cooper	Coupoer	0	2
 Copilot	copilott	0	2
 coprod	coprodd	1	2
+Corp	corpp	0	2
 corporate	corporèite	0	2
 cos	coss	0	2
 COSH	coss h	1	2
@@ -504,6 +550,7 @@ created	créèïtidd	0	2
 creates	créèïtss	0	2
 creating	créèïting	0	2
 creative	créative	0	2
+crew	crou	0	2
 CRITBINOM	critt binomm	1	2
 crossfade	crossfèide	0	2
 crosshair	cross hair	0	2
@@ -511,6 +558,8 @@ crowd	craoudd	0	2
 crowdfunding	craoudfounding	0	2
 crumble	croemmboeul	0	2
 crumbs	croemmbzz	0	2
+ctfmon	c t f monn	1	2
+cttune	c t tioune	1	2
 CUBEKPIMEMBER	cube k p i mèmmboer	1	2
 CUBEMEMBER	cube mèmmboer	1	2
 CUBEMEMBERPROPERTY	cube mèmmboer propoerty	1	2
@@ -526,11 +575,13 @@ Cunlhat	Quin ya	1	2
 cup	coeupp	0	2
 cups	coeupss	0	2
 current	currente	0	2
+cursors	cursorzz	0	2
 customer	coeustomoer	0	2
 customers	coeustomoerzz	0	2
 cut	coeutt	0	2
 cuts	coeutss	0	2
 cygwin	cygwinn	0	2
+Cyprus	Saïpruss	0	2
 DADGAD	Dadgadd	1	2
 Dalton	Daltonn	0	2
 dance	dènnce	0	2
@@ -546,14 +597,18 @@ davul	davoul	0	2
 day	dayy	0	2
 days	dayyzz	0	2
 DAYS360	dayyzz 360	1	2
+DCOM	décom	0	2
+dcomcnfg	d com cnfg	1	2
 DCOUNT	D countt	1	2
 DCOUNTA	D countt a	1	2
+ddodiag	d b o diag	1	2
 dead	dèdd	0	2
 deadline	dèdlaïne	0	2
 deadlines	dèdlaïnnze	0	2
 deaf	def	0	2
 deals	diilzz	0	2
 death	def	0	2
+debian	débiann	0	2
 debug	déboeg	0	2
 debugger	déboeugoer	0	2
 DEC2BIN	dec 2 binn	0	2
@@ -575,12 +630,16 @@ degrees	digreezz	0	2
 DEGRES	degrés	1	2
 delaware	déloewère	0	2
 delay	dilayy	0	2
+delayed	dilèidd	0	2
 delete	diléte	0	2
 deleted	dilétidd	0	2
 deletes	dilétse	0	2
 delline	dell laïne	1	2
+Denmark	dennmark	0	2
 Denver	Dennvoer	1	2
 deny	dinail	0	2
+department	diparttmènntt	0	2
+departments	diparttmènntss	0	2
 dependencies	dépendencizz	0	2
 dependency	dépendenci	0	2
 deposit	dépositt	0	2
@@ -595,10 +654,11 @@ Deutsch	doïtch	0	2
 device	divaïce	0	2
 devices	divaïcizz	0	2
 DGET	D guett	1	2
+dialer	dialoer	1	2
 diamond	daïmôndd	0	2
 diamonds	daïmôndss	0	2
 did	didd	0	2
-die	daï	1	2
+die	dail	1	2
 died	daïdd	0	2
 dies	daïzz	0	2
 diez	dièse	0	2
@@ -614,7 +674,9 @@ disables	dissèiboeulzz	0	2
 disclaimer	disclèimoer	0	2
 Discord	Discordd	0	2
 discover	discovoer	0	2
-display	displayy	0	2
+diskraid	disk raidd	1	2
+dislike	dislaïke	0	2
+display	displeil	0	2
 displayed	displayydd	0	2
 displays	displayyzz	0	2
 distort	distortt	0	2
@@ -626,8 +688,14 @@ divider	divaïdoer	0	2
 dividers	divaïdoerzz	0	2
 divides	divaïdze	0	2
 diving	daïving	0	2
-DIY	di aï waï	1	2
+DIY	di aï wail	1	2
+djoin	d djoïnn	1	2
+dllhost	dll host	1	2
 DMAX	D max	1	2
+dmcertinst	dm certt inst	1	2
+dmcfghost	d m c f g host	1	2
+dmclient	dm client	1	2
+dmesg	d m e s g	1	2
 DMIN	D minn	1	2
 does	dazz	0	2
 doesn't	dazzoentt	0	2
@@ -653,6 +721,9 @@ Dougs	dougzz	0	2
 down	daoun	0	2
 downarrow	daownarrow	1	2
 download	downlôdd	0	2
+downloaded	downlôdidd	0	2
+downloader	downlôdoer	0	2
+downloading	downlôding	0	2
 downloads	downlôdss	0	2
 downward	downwardd	0	2
 dpi	d p i	0	2
@@ -672,6 +743,7 @@ drift	driftt	0	2
 drink	drinnkk	0	2
 drinking	drinnking	0	2
 drinks	drinnkss	0	2
+driverquery	draïvoer qwèri	0	2
 driving	draïving	0	2
 DROITEB	droite b	1	2
 drum	droem	0	2
@@ -683,10 +755,13 @@ drums	droemzz	0	2
 drumset	droemsett	0	2
 drumsets	droemsetss	0	2
 drunk	droenkk	0	2
+drvinst	d r v inst	1	2
 dry	drail	0	2
 Dryrender	drail rènndoer	0	1
+dsregcmd	d s reg cmd	1	2
 DSTDEV	D s t dev	1	2
 DSTDEVP	D s t dev p	1	2
+dstokenclean	d s tokoen clinn	1	2
 DSUM	D sum	1	2
 dub	doeb	0	2
 duduk	doudouk	0	2
@@ -699,8 +774,13 @@ duo	du o	0	2
 duplicate	duplikèite	0	2
 duplicated	duplikèitidd	0	2
 duplicates	duplikèitse	0	2
+dusmtask	d u s m task	1	2
 DVAR	D var	1	2
 DVARP	D var p	1	2
+dvdplay	dvd pleil	1	2
+Dxpserver	d x p servoer	1	2
+dynamic	daïnamic	0	2
+dynamics	daïnamicss	0	2
 each	itche	0	2
 earn	oernn	0	2
 earned	oerndd	0	2
@@ -716,14 +796,18 @@ Ebm	e b m	1	2
 ebook	ibook	0	2
 ECARTYPEP	ecartype p	1	2
 ecosystème	éco système	0	2
+Ecuador	éqwador	0	2
 ecvt	e c v t	1	2
 EDATE	e date	1	2
 edf	eudéef	0	2
 edit	editt	0	2
+edpnotify	e d p notify	1	2
 Eduard	Edouardd	0	2
 eelv	e e l vé	0	2
 effect	effectt	0	2
 effects	effectss	0	2
+efsui	 e f s u i	1	2
+Egypt	idjiptt	0	2
 Egypte	égypte	1	2
 EHPAD	épadd	0	2
 eight	èïtt	0	2
@@ -737,6 +821,7 @@ EMA	e m a	1	2
 embed	èmmbedd	0	2
 embedded	èmmbèdedd	0	2
 embeds	èmmbedss	0	2
+Emirates	émirèïtse	0	2
 eml	e m l	0	1
 Emmaüs	émahüss	0	2
 empty	aimmpty	0	2
@@ -747,7 +832,7 @@ enables	énèiboeulzz	0	2
 ENCODEURL	encode U R L	0	2
 endif	ènnddif	0	2
 ending	ènndding	0	2
-endlocal	ènndd local	1	2
+endlocal	ènndd local	0	2
 endmacro	èndd macro	1	2
 ends	ènndss	0	2
 endwhile	èndd ouaïle	1	2
@@ -755,11 +840,15 @@ enedis	énédiss	0	2
 energies	énerdgizz	0	2
 energy	énerdgy	0	2
 engie	ènngie	0	2
+engine	èndgine	0	2
+engines	èndginnze	0	2
 England	innglandd	0	2
 English	innglich	0	2
 engraver	ènngravoer	0	2
 enhance	ènnhhance	0	2
 enhanced	ènnhansde	0	2
+enhancement	ènnhhancemènntt	0	2
+enhancements	ènnhhancemènntss	0	2
 enhancer	ènnhansoer	0	2
 enhancers	ènnhansoerzz	0	2
 enhances	ènnhhancizz	0	2
@@ -787,6 +876,7 @@ equalizer	ecoualizoer	0	2
 equals	icoualss	0	2
 Equateur	ékouateur	1	2
 equation	équation	0	2
+Equatorial	éqwatorial	0	2
 ERC	e r c	1	2
 Erevan	Yérévann	1	2
 ERF	E r f	1	2
@@ -815,9 +905,11 @@ EURNOK	e u r n o k	1	2
 EUROCONVERT	euro convertt	1	2
 EURSEK	e u r s e k	1	2
 EURTRY	e u r t r igrec	1	2
+Evan	évann	1	2
 even	ivoenn	0	2
 event	évenntt	0	2
 events	évènntss	0	2
+eventvwr	event vwr	1	2
 ever	évoer	0	2
 everyone	évriouane	0	2
 everywhere	évriouère	0	2
@@ -838,13 +930,14 @@ extend	extendd	0	2
 extends	extendss	0	2
 extent	extenntt	0	2
 extract	extractt	0	2
-eye	aï	0	2
+eye	ail	0	2
 eyes	aïzz	0	2
 Eytan	Eythann	1	2
 fabs	f a b s	1	2
 fabsl	f a b s l	1	2
 facebook	fèicebook	0	2
-fact	factt	1	2
+fact	factt	0	2
+facts	factss	0	2
 fader	fèidoer	0	2
 faders	fèidoerzz	0	2
 fading	fèiding	0	2
@@ -861,6 +954,8 @@ Farid	Faridd	1	2
 fashion	fashionn	0	2
 faster	fastoer	0	2
 fat	fatt	0	2
+fault	faulltt	0	2
+fclip	f clip	1	2
 fclose	èfclose	1	2
 fcloseall	èfclozaul	1	2
 fcolorbox	èfcolorbox	1	2
@@ -874,6 +969,7 @@ feof	f e o f	1	2
 few	fiou	0	2
 fflush	f floesh	1	2
 fgetpos	f guettpauss	1	2
+fhmanagew	f h manage w	1	2
 fiddle	fidoeul	0	2
 fiddler	fidloer	0	2
 fiddlers	fidloerzz	0	2
@@ -887,12 +983,14 @@ fighter	faïtoer	0	2
 fighters	faïtoerzz	0	2
 fighting	faïting	0	2
 fights	faïtss	0	2
+Fiji	Fidji	0	2
 filename	faïlenèime	0	2
 fill	filhl	0	2
 fills	filhlze	0	2
 filter	filtoer	0	2
 filters	filtoerzz	0	2
 FILTERXML	filtoer x m l	1	2
+finally	faïneuly	0	2
 find	faïnndd	0	2
 FINDB	faïnndd b	1	2
 finder	faïnndoer	0	2
@@ -900,11 +998,12 @@ findfirst	faïnndd foerstt	1	2
 finding	faïnnding	0	2
 findnext	faïnndd next	1	2
 finds	faïnndzz	0	2
-findstr	faïnndd s t r	1	2
+findstr	faïnndd s t r	0	2
 finger	finngoerr	0	2
 fingers	finngoerzz	0	2
 finish	finiche	0	2
 finished	finichde	0	2
+Finland	Finnlandd	0	2
 fire	faïoer	0	2
 firefox	faïoerfox	0	2
 fires	faïoerzz	0	2
@@ -922,6 +1021,7 @@ flight	flaïtt	0	2
 flights	flaïtss	0	2
 flirt	floertt	0	2
 flirter	floerter	0	2
+flixbus	flixbuss	0	2
 float	flautt	0	2
 floating	flauting	0	2
 floorl	flour l	1	2
@@ -940,10 +1040,12 @@ fmodl	f modd l	1	2
 fnnmerge	fn merge	1	2
 fnsplit	fn splitt	1	2
 focus	focuss	0	2
+fodhelper	f o d helpoer	1	2
 foetus	fétuss	0	2
 fold	foldd	0	2
 folder	foldoer	0	2
 folders	foldoerzz	0	2
+fontdrvhost	fontt drv host	1	2
 fonts	fontss	0	2
 footer	footoer	0	2
 footers	footoerzz	0	2
@@ -987,7 +1089,9 @@ frozen	frozoen	0	2
 fryer	fraïoer	0	2
 Frèd	Frèdd	1	2
 fsetpos	f settpauss	1	2
+fsquirt	f squirt	1	2
 fstat	f statt	1	2
+fsutil	fs util	1	2
 ftell	f tell	1	2
 fujara	fouyara	0	2
 Fuji	Fouji	1	2
@@ -997,6 +1101,8 @@ fund	foundd	0	2
 funding	founding	0	2
 funds	foundzz	0	2
 funk	foenkk	0	2
+fvenotify	f v e notify	1	2
+fveprompt	f v e promptt	1	2
 FVSCHEDULE	F V skédiule	1	2
 fwrite	f vraïtt	1	2
 FYI	F Y I	1	2
@@ -1007,6 +1113,8 @@ games	guèimmze	0	2
 gaming	guèiming	0	2
 GAMMAINV	Gamma i n v	1	2
 GAMMALN	Gamma l n	1	2
+gate	guèïte	0	2
+gates	guèïtse	0	2
 GAUCHEB	gauche b	1	2
 Gayard	Gaillard	0	2
 ged	gedd	0	2
@@ -1018,10 +1126,13 @@ generated	générèitidd	0	2
 generates	générèitss	0	2
 geo	géo	0	2
 GEOMEAN	Géo minn	1	2
+Georgia	Djiaurdjia	0	2
 German	germann	0	2
 Gers	Gerss	0	2
 Gershwin	Guerchouinn	0	2
 GES	g e s	1	2
+gesture	djesture	0	2
+gestures	djesturze	0	2
 get	guètt	0	2
 getarccoords	guett arc coordzz	1	2
 getdropfile	guett dropp faïle	1	2
@@ -1068,7 +1179,10 @@ got	gott	0	2
 goto	gau tou	0	2
 gotoxy	gau tou x igrec	1	2
 gotten	gottoen	0	2
-gpresult	g p rezultt	1	2
+gpedit	g p éditt	1	2
+gpresult	g p rizoeultt	1	2
+gpscript	g p script	1	2
+gpupdate	g p oepdèite	1	2
 grace	grèice	0	2
 graces	grèicizz	0	2
 grad	gradd	0	2
@@ -1089,10 +1203,13 @@ GROUPBY	groupp bail	1	2
 groups	groupss	0	2
 grows	growzz	0	2
 GROWTH	growth	1	2
+grpconv	g r p conv	1	2
 grunge	groendge	0	2
 grupetto	groupetto	0	2
+guard	gwardd	0	2
 Guatemala	Gouatémala	1	2
 GUI	g u i	1	2
+gunzip	g oenzipp	1	2
 guys	gaïzz	0	2
 Gwendal	Gwenndal	1	2
 gypsies	djipsizz	0	2
@@ -1101,6 +1218,9 @@ gzip	gézipp	0	2
 HAD	h a d	1	2
 had	hadd	0	2
 haendel	henndèl	0	2
+haha	ha ha	0	2
+hahaha	ha ha ha	0	2
+Haiti	Haïti	0	2
 halay	halail	0	2
 hammer	hamoer	0	2
 Hammond	hamonndd	0	2
@@ -1128,6 +1248,7 @@ Hauÿ	Hahuhi	0	2
 Haydn	Haïdoen	0	2
 Haüy	Hahuhi	0	2
 hbar	h bar	1	2
+hdwwiz	h d w wiz	1	2
 head	hède	0	2
 header	hèdoer	0	2
 headers	hèdoerss	0	2
@@ -1137,9 +1258,12 @@ heard	hoerdd	0	2
 hears	hearzz	0	2
 heart	hoertt	0	2
 HEC	h e c	1	2
+hehe	hé hé	0	2
+hehehe	hé hé hé	0	2
 height	hèîtt	0	2
 held	hèldd	0	2
 Helena	Héléna	1	2
+help	helpp	0	2
 helper	helpoer	0	2
 helpers	helpoerzz	0	2
 helps	helpss	0	2
@@ -1171,7 +1295,9 @@ holds	holdzz	0	2
 holes	holze	0	2
 honduras	hondurass	0	2
 hornpipe	hornpaïpe	0	2
+hostname	hostnèime	1	2
 hot	hott	0	2
+hotmail	hotmèïl	0	2
 hotspot	hottspott	0	2
 hour	haouoer	0	2
 hours	haouoerzz	0	2
@@ -1181,12 +1307,14 @@ how	haow	0	2
 href	h rèf	0	2
 htaccess	ht access	0	2
 html	ache t m èl	0	2
+htop	h top	1	2
 Huawei	Houawei	0	2
 huer	hu ai	0	2
 human	hyoumann	0	2
 hundred	hoendredd	0	2
 hundreds	hoendredzz	0	2
 hung	hoengg	0	2
+Hungary	Hoenngary	0	2
 hurt	hoertt	0	2
 hurting	hoerting	0	2
 hurts	hoertss	0	2
@@ -1202,9 +1330,13 @@ I'll	aïle	0	2
 I'm	aïmm	0	2
 I've	aïlve	0	2
 IBAN	ibane	0	2
+icacls	i c a c l s	1	2
+Iceland	Aïslandd	0	2
 icon	iconn	0	2
 icons	iconnzz	0	2
 IDE	I D E	1	2
+idea	aïdi	0	2
+ideas	aïdizz	0	2
 idle	idoeul	0	2
 ids	aïdizz	1	2
 idx	i d x	0	2
@@ -1229,13 +1361,14 @@ IMCOSH	imm causs h	1	2
 IMCOT	imm cott	1	2
 IMCOTH	imm cott h	1	2
 IMCSCH	imm c s c h	1	2
+imdisk	imm disk	1	2
 IMEXP	imm exp	1	2
 img	ièmgé	0	2
 implied	immplaïdd	0	2
 implies	immplaïzz	0	2
 implies	immplaïzz	0	2
 implode	immplode	0	2
-imply	immplaï	0	2
+imply	immplail	0	2
 importb	import b	1	2
 IMPORTFEED	import feedd	1	2
 IMPOWER	imm powoer	1	2
@@ -1255,6 +1388,7 @@ IMSUM	imm sum	1	2
 IMTAN	imm tan	1	2
 IMTANH	imm tan h	1	2
 inbound	innboundd	0	2
+inbox	innbox	0	2
 include	inncloude	0	2
 includes	inncloudze	0	2
 including	innclouding	0	2
@@ -1266,10 +1400,14 @@ indent	indantt	0	2
 india	inndia	0	2
 indian	inndiann	0	2
 Indiana	Inndiana	1	2
+Indonesia	Inndonésia	0	2
 indoor	inntdor	0	2
 ING	i n gé	0	2
 inherit	inhéritt	0	2
 init	initt	0	2
+inject	innject	0	2
+injected	innjectidd	0	2
+injects	innjectss	0	2
 inline	innlaïne	0	2
 inner	innoer	0	2
 innodb	innodébé	0	2
@@ -1302,11 +1440,17 @@ invest	innvest	0	2
 invoice	innvoïce	0	2
 invoices	innvoïcizz	0	2
 invoicing	innvoïcing	0	2
+invoke	innvoke	0	2
+invoker	innvokoer	0	2
+invokers	innvokoerzz	0	2
 invsqrt	i n v sqrt	1	2
 iomicron	i omicronn	0	2
+iostat	i o statt	1	2
+iotstartup	i o t startoep	1	2
 iowa	aïowa	0	2
 IPA	ipéa	1	2
 ipconfig	ipéconfigg	1	2
+IPO	i p o	1	2
 Ireland	aïoerlandd	0	2
 irish	aïrish	0	2
 iron	aïronn	0	2
@@ -1319,9 +1463,12 @@ ISERR	izz e r r	1	2
 ISEVEN	izzivoenn	1	2
 ISIN	izine	0	2
 Islamabad	Islamabadd	1	2
+island	aïlandd	0	2
+islands	aïlandzz	0	2
 ISNA	izz n a	1	2
 isNaN	izz N a N	1	2
 ISNUMBER	izznoemboer	0	2
+isoburn	iso boern	1	2
 ISODD	izzodd	1	2
 isprint	izz prinntt	1	2
 ISS	i s s	1	2
@@ -1334,6 +1481,7 @@ its	itss	0	2
 iupsilon	i upsilonn	0	2
 iut	i u t	0	2
 ivarepsilon	i varepsilonn	1	2
+Jamaica	Djamaïca	0	2
 january	djanouary	0	2
 Japan	Djapann	0	2
 jaws	djawze	0	2
@@ -1344,8 +1492,10 @@ jingles	djinnggoeulzz	0	2
 jitter	djittoer	0	2
 Johannes	Yoanèss	0	2
 join	djoÏnn	0	2
+joined	djoÏnndd	0	2
 Jordan	Jordann	0	2
 Joris	Joriss	0	2
+journalctl	journal ctl	1	2
 JPMorgan	J p Morgann	0	2
 jquery	jicouèri	0	2
 jre	j r e	0	2
@@ -1364,17 +1514,24 @@ kentucky	kenntucky	0	2
 Kenya	Kénia	1	2
 keyboard	kibordd	0	2
 keyboards	kibordzz	0	2
+keygen	keygenn	0	2
+keyscan	keyscann	1	2
+keyword	kiwordd	0	2
+keywords	kiwordzz	0	2
 khosidle	hrossidoeul	0	2
 kid	kidd	0	2
 kids	kidzz	0	2
 kijun	kidjounn	0	2
-kill	kilhl	0	2
+kill	kil	0	2
+killall	kil oll	1	2
 kind	kaïnndd	0	2
 kindle	kinndoeul	0	2
 kinds	kaïnndzz	0	2
+Kingdom	king domm	0	2
 Kingston	Kinngstonn	1	2
 Kingstown	Kinngstahouwn	1	2
 klezmer	klezmèr	0	2
+klist	k list	1	2
 knew	hnouw	0	2
 knife	naïfe	0	2
 knight	naïtt	0	2
@@ -1384,12 +1541,17 @@ known	hnownn	0	2
 knows	hnowzz	0	2
 Komplete	caummplite	0	2
 kontakt	kontaktt	0	2
+Korea	Koriha	0	2
 korg	korgg	0	2
 Kosovo	kossovo	1	2
 Koweït	kowèïtt	1	2
 kraken	krakoenn	0	2
+ksetup	k sètoep	1	2
+ktmutil	ktm util	1	2
 Kuala	Kouala	1	2
 Kurt	Koertt	0	2
+Kuwait	kuwèïtt	1	2
+kway	kaway	0	2
 KYC	kawaïci	1	2
 Kylian	Kyliann	1	2
 kyrie	kyryé	0	2
@@ -1410,6 +1572,9 @@ language	langwèdge	0	2
 languages	langwèdgizz	0	2
 laos	laoss	0	2
 later	lèïtoer	0	2
+launch	launtch	0	2
+launcher	launtchoer	0	2
+launchers	launtchoerzz	0	2
 layer	layoer	0	2
 layers	layoerss	0	2
 layout	lèï out	0	2
@@ -1429,6 +1594,7 @@ learning	loerning	0	2
 learns	loernzz	0	2
 learnt	loerntt	0	2
 leaves	leavzz	0	2
+Lebanon	lébanonn	0	2
 led	ledd	0	2
 ledger	ledjoer	0	2
 left	leftt	0	2
@@ -1454,6 +1620,8 @@ letters	lettoerzz	0	2
 lexicon	lexiconn	0	2
 lexicons	lexiconnzz	0	2
 León	Léonn	0	2
+LGBTQIA	l g b t q i a	1	2
+licensingdiag	licensing diag	1	2
 lidl	lidoeul	0	2
 life	laïfe	0	2
 lifetime	laïfe taïmm	0	2
@@ -1500,16 +1668,21 @@ loadimg	laudd i m g	1	2
 loading	lôdding	0	2
 loads	lôdzz	0	2
 LocalSend	localsenndd	1	2
+locate	lokèite	0	2
 locked	lockedd	0	2
 locker	lockoer	0	2
 locks	lockss	0	2
+lodctr	l o d c t r	1	2
+logagent	log agent	1	2
 LOGEST	loguestt	1	2
 logger	loggoer	0	2
 login	loguinn	0	2
 LOGINV	log i n v	1	2
 logl	log l	1	2
+logman	logmann	1	2
 LOGNORM	log norm	1	2
 LOGNORMDIST	log norm distt	1	2
+logon	logonn	0	2
 logout	logaoutt	0	2
 London	Lonndonn	0	2
 lookup	lookoep	0	2
@@ -1524,13 +1697,20 @@ lounge	laoundge	0	2
 Lowen	lowène	0	2
 lower	lowoerr	0	2
 lowercase	lowoerrkèize	0	2
+lpkinstall	lpk install	1	2
+lpksetup	lpk sètoep	1	2
+lpremove	lp rimouve	1	2
+lsass	l s a s s	1	2
 ltoa	l tou a	1	2
 Luanda	Louanda	1	2
 Luberon	Lubeuron	0	2
+luck	loeck	0	2
+lucky	loeky	0	2
 Ludwig	Loudvigg	0	2
 Lumpur	Loumpour	1	2
 lyrics	lyrixx	0	2
 Länder	Lènndoer	0	2
+Macedonia	macédonia	0	2
 MacOS	Mac o s	0	2
 MacOSX	Mac o s x	0	2
 made	mèïde	0	2
@@ -1544,6 +1724,7 @@ MAJ	m a j	1	2
 Majorque	Maïorque	0	2
 make	mèïke	0	2
 MAKEARRAY	mèikarray	1	2
+makecab	mèike cabb	1	2
 makes	mèïkse	0	2
 making	mèïking	0	2
 mallet	mallett	0	2
@@ -1577,10 +1758,12 @@ Mathis	Mathiss	1	2
 matos	matauss	0	2
 Matthias	Matiass	1	2
 maven	mavène	0	2
+mavinject	mav innject	1	2
 MAXIFS	max if s	1	2
 maxlength	maxlenngth	0	2
 may	mèï	0	2
 maybe	mèïbi	0	2
+mcbuilder	m c buildoer	1	2
 mean	minn	0	2
 means	minnss	0	2
 meant	minntt	0	2
@@ -1604,6 +1787,7 @@ memset	mèmsett	1	2
 merengue	mérénngué	0	2
 Mermoz	Mermause	1	2
 Mesnil	Ménil	1	2
+messenger	messenndjoer	0	2
 meta	méta	0	2
 meter	métoer	0	2
 meters	métoerzz	0	2
@@ -1611,13 +1795,14 @@ method	methodd	0	2
 methods	methodss	0	2
 metric	mettrikk	0	2
 metrics	mettrixx	0	2
-Mib	Mi bémol	1	2
 mib	mi bémol	1	2
+Mib	Mi bémol	1	2
 Mibm	Mi bémol m	1	2
 mid	midd	0	2
 MIDB	midd b	1	2
 middle	midoeul	0	2
 Midlands	Midlandss	1	2
+might	maïtt	0	2
 min	minn	0	2
 mind	maïnndd	0	2
 MINIFS	minn if s	1	2
@@ -1634,6 +1819,7 @@ mklink	m k linnkk	1	2
 mktemp	m k tèmmpp	1	2
 Mlle	Mademoiselle	0	2
 Mme	Madame	0	2
+mmgaserver	m m g a servoer	1	2
 mod	modd	0	2
 moderato	modérato	0	2
 Mohamed	Mohamedd	1	2
@@ -1641,6 +1827,8 @@ monero	monéro	0	2
 MongoDB	Mongo d b	0	2
 Monroe	Monnro	1	2
 Mons	Monss	1	2
+Montenegro	monténégro	0	2
+Monteverdi	Montéverdi	1	2
 Montevideo	Montévidéo	1	2
 MONTH	month	1	2
 Montregard	Mont regard	1	2
@@ -1659,7 +1847,15 @@ movies	moovize	0	2
 moving	mouving	0	2
 moz	mozz	0	2
 mpeg	m peg	0	2
+mpnotify	m p notify	1	2
+msconfig	ms configg	1	2
+msfeedssync	m s feedzz sync	1	2
+mshta	m s h t a	1	2
 msi	m s i	0	2
+msiexec	m s i egzek	1	2
+msinfo	m s info	1	2
+mspaint	ms pèinntt	1	2
+msra	msr a	1	2
 much	moetch	0	2
 multiband	multibandd	0	2
 multimedia	multi média	0	2
@@ -1686,7 +1882,9 @@ Nauru	Naourou	1	2
 navy	nèvy	0	2
 Naïm	Naïmm	1	2
 nbold	n boldd	1	2
+nbtstat	nbt statt	1	2
 NBVAL	NB val	1	2
+ndadmin	nd adminn	1	2
 ndivides	n divaïdes	1	2
 need	needd	0	2
 needed	needidd	0	2
@@ -1694,6 +1892,13 @@ needs	needzz	0	2
 NEGBINOM	negg binomm	1	2
 NEGBINOMDIST	negg binomm distt	1	2
 Nepal	népal	0	2
+netbtugc	nett bt u g c	1	2
+netcfg	nett c f g	1	2
+Netherlands	Netherlandzz	0	2
+netiougc	nett i o u g c	1	2
+Netplwiz	Nett pl wiz	1	2
+netsh	nett s h	1	2
+NETSTAT	nett statt	0	2
 nevada	névada	0	2
 never	névoer	0	2
 new	niou	0	2
@@ -1701,6 +1906,7 @@ newbie	nioubi	0	2
 newbies	nioubizz	0	2
 Newcastle	Nioucastoeul	1	2
 newcommand	nioucommandd	1	2
+newdev	nioudev	1	2
 newenvironment	niouenvironnment	1	2
 newer	niou-oer	0	2
 newline	nioulaïne	1	2
@@ -1722,6 +1928,7 @@ Nissan	Nissann	0	2
 nitalic	n italic	1	2
 nki	n k i	0	2
 nkoda	n koda	0	2
+nltest	nl test	1	2
 nobr	no b r	0	2
 noise	noïze	0	2
 Nolan	Nolann	1	2
@@ -1731,6 +1938,7 @@ NORMINV	norm i n v	1	2
 NORMSDIST	norm s distt	1	2
 NORMSINV	norm s i n v	1	2
 Norton	Nortonn	0	2
+Norway	Norweil	0	2
 nosound	no soundd	1	2
 noster	nostèrr	0	2
 not	nott	0	2
@@ -1742,12 +1950,15 @@ now	nahôw	0	2
 NPER	N per	1	2
 nprec	n prec	1	2
 nroot	n root	1	2
+nslookup	n s lookoep	1	2
 nsubset	n subsett	1	2
 nsubseteq	n subsetteq	1	2
 nsucc	n suxx	1	2
 nsupset	n supsett	1	2
 nsupseteq	n supsetteq	1	2
 nthroot	èntéache routt	1	2
+ntoskrnl	nt o s krnl	1	2
+ntprint	nt prinntt	1	2
 number	noeummboer	0	2
 numbers	noeummboerzz	0	2
 NUMBERVALUE	noemboer valiou	1	2
@@ -1763,11 +1974,14 @@ OACI	o a c i	1	2
 OAT	o a t	1	2
 object	objectt	0	2
 objects	objectss	0	2
+occaz	occaze	0	2
 OCT2BIN	octt 2 binn	0	2
 OCT2DEC	octt 2 dec	0	2
 OCT2HEX	octt 2 hex	0	2
 october	octoboer	0	2
 octopus	octopuss	0	2
+odbcad	o d b cadd	1	2
+odbcconf	o d b cconf	1	2
 ODD	odd	0	2
 Offenbach	Offoenbak	1	2
 often	offoen	0	2
@@ -1777,6 +1991,8 @@ Okeenea	okinéa	0	2
 old	oldd	0	2
 older	oldoer	0	2
 OLE	o l e	1	2
+omadmclient	om a dm client	1	2
+omadmprc	om a dm prc	1	2
 oman	omann	0	2
 omega	oméga	0	2
 ominus	ominuss	1	2
@@ -1789,6 +2005,7 @@ OpenAI	opoenèail	0	2
 opendir	opoendir	1	2
 opened	opoenndd	0	2
 openfile	opoenfaïle	1	2
+openfiles	opoenfaïle	1	2
 opens	opoenzz	0	2
 OpenSSL	opoen ssl	0	2
 opera	opéra	0	2
@@ -1807,17 +2024,20 @@ Orleans	Orlinnss	1	2
 ornament	ôrnamoentt	0	2
 ornaments	ôrnamoentss	0	2
 osc	o s c	0	2
+osk	o s k	1	2
 other	odoer	0	2
 others	odoerzz	0	2
 otherwise	odoeurwaïzz	0	2
 otimes	otaïmmzz	1	2
 oud	oudd	0	2
 Oulan	Oulann	1	2
+our	aour	0	2
 out	aoutt	0	2
 outdoor	aoutdor	0	2
 outer	aoutoer	0	2
 outline	aoutlaïne	0	2
 outlined	aoutlaïnnde	0	2
+outlook	aoutlouk	0	2
 output	 aouttpoutt	0	2
 outputs	 aouttpoutss	0	2
 outside	aoutsaïdd	0	2
@@ -1834,6 +2054,7 @@ overlay	ovoerlayy	0	2
 overline	ovoerlaïne	0	2
 overload	ovoerlaudd	0	2
 override	ovoe raïde	0	2
+oversize	ovoersaïze	0	2
 overstrike	ovoerstraïke	1	2
 overwrite	ovoervraïtt	0	2
 ovh	au v h	0	2
@@ -1843,9 +2064,13 @@ owned	ohouwndd	0	2
 owner	ohouwnoer	0	2
 owners	ohouwnoerzz	0	2
 owns	ohouwnzz	0	2
+oyez	o yé	0	2
+Oyonnax	oïonna	0	2
 Oùra	Oura	0	2
+pacjsworker	pac js workoer	1	2
 packed	packedd	0	2
 packet	packett	0	2
+pacman	pacmann	0	2
 Pacs	pacss	0	2
 pad	padd	0	2
 padEnd	paddènndd	1	2
@@ -1855,10 +2080,12 @@ padStart	paddstartt	1	2
 pagebreak	pajbrèk	0	2
 paid	pèïdd	0	2
 paint	pèinntt	0	2
+Palau	palaou	0	2
 PAMP	p a m p	1	2
 Panasonic	Panassonic	0	2
 paper	pèipoer	0	2
 papers	pèipoerzz	0	2
+Papua	papoua	0	2
 paraddidle	paradidoeul	0	2
 parameter	paramètoer	0	2
 parameters	paramètoerzz	0	2
@@ -1874,10 +2101,15 @@ partakes	partèïkss	0	2
 partaking	partèïking	0	2
 partner	partnoer	0	2
 partners	partnoerzz	0	2
+passwd	pass wd	1	2
 password	passwordd	0	2
 pat	patt	0	2
 pater	patèrr	0	2
 pay	pèÏ	0	2
+payout	payaoutt	0	2
+pcalua	p c a lua	1	2
+pcaui	p c a u i	1	2
+pcwrun	pcw roen	1	2
 pdftomusic	p d f tou music	0	2
 PDURATION	P duration	1	2
 PDUREE	p durée	1	2
@@ -1887,12 +2119,15 @@ peekb	peek b	1	2
 PEL	P E L	1	2
 pending	pennding	0	2
 people	pipol	0	2
+pepsup	pepsoep	0	1
 percs	percss	0	2
+perfmon	perf monn	1	2
 perhaps	poerhapss	0	2
 period	périodd	0	2
 periods	périaudss	0	2
 permalink	permalinnkk	0	2
 PERMUT	permutt	1	2
+Peru	Pérou	0	2
 Philips	Filipss	0	2
 phishing	fiching	0	2
 php	péachpé	0	2
@@ -1908,7 +2143,10 @@ PIN	pinn	1	2
 ping	pinngg	0	2
 pink	pinnkk	0	2
 PIVOTBY	pivott bail	1	2
-play	playy	0	2
+pkill	p kil	1	2
+PktMon	Pkt Monn	1	2
+plasrv	p l a srv	1	2
+play	pleil	0	2
 played	playydd	0	2
 player	playoer	0	2
 players	playoerzz	0	2
@@ -1918,21 +2156,30 @@ pled	pledd	0	2
 PLU	p l u	1	2
 pluck	ploeck	0	2
 plusminus	plussminuss	1	2
+pnputil	pnp util	1	2
 pocket	pockett	0	2
 Podgorica	Podgoritsa	1	2
+poet	poètt	0	2
+poetries	poètrizz	0	2
+poetry	poètri	0	2
+poets	poètss	0	2
 pokeb	poke b	1	2
+Poland	Polandd	0	2
 polygon	polygonn	0	2
 polygons	polygonnzz	0	2
 pong	pongg	0	2
 pop-ups	popoepss	0	2
+popd	popdé	0	2
 popup	popoep	0	2
 popups	popoepss	0	2
+poqexec	poqègzek	1	2
 pos	pôss	0	2
 Potter	Pottoer	1	2
 pow	pohouv	0	2
 pow10	pohouv 10	1	2
 pow10l	pohouv diss l	1	2
 power	powoer	0	2
+powercfg	powoer cfg	1	2
 powershell	powoerchell	0	2
 powl	pohouv l	1	2
 powned	powndd	0	2
@@ -1940,6 +2187,7 @@ pre	pré	0	2
 preccurlyeq	prek curly eq	1	2
 predefined	prédifahinndd	0	2
 preload	prélaudd	0	2
+premium	prémium	0	2
 Pretoria	Prétoria	1	2
 pretup	prètoep	0	2
 previous	préviouss	0	2
@@ -1947,11 +2195,15 @@ price	praïsse	0	2
 PRICEDISC	praïce discc	1	2
 PRICEMAT	praïce matt	1	2
 prices	praïssizz	0	2
+pricing	praïcing	0	2
+pride	praïde	0	2
 PRINCPER	prinss	pèr	1	2
 print	prinntt	0	2
 printed	prinntidd	0	2
+printfilterpipelinesvc	prinntt filtoer païpelaïne svc	1	2
 printing	prinnting	0	2
 prints	prinntss	0	2
+printui	print u i	1	2
 private	privèite	0	2
 proceed	procidd	0	2
 processors	processorzz	0	2
@@ -1973,6 +2225,7 @@ provided	provaïdidd	0	2
 provider	provaïdoer	0	2
 providers	provaïdoerzz	0	2
 provides	provaïdze	0	2
+prproc	pr prok	1	2
 puant	pu an	0	2
 puer	pu ai	0	2
 pulling	poulling	0	2
@@ -1982,9 +2235,13 @@ punk	poenk	0	2
 purple	poerpoeul	0	2
 purpose	poerpose	0	2
 push	pouche	0	2
+pushd	pouche dé	0	2
 put	poutt	0	2
+pwlauncher	pw launtchoer	1	2
 pwn	pown	0	2
 Pyongyang	Pyongyangg	1	2
+qappsrv	q app srv	1	2
+qprocess	q process	1	2
 qry	q r y	1	2
 qte	q t e 	0	2
 qté	quantité	0	2
@@ -1993,9 +2250,12 @@ quality	qwality	0	2
 quantalys	quantalyss	0	2
 quartet	qouartett	0	2
 queen	qwinn	0	2
+queens	qwinnzz	0	2
 queer	qwir	0	2
+queers	qwirzz	0	2
 queries	qwérizz	0	2
 query	qwéry	0	2
+quickassist	qwik assistt	1	2
 quicker	couikoer	0	2
 quickly	couikly	0	2
 quickstep	couikstep	0	2
@@ -2003,6 +2263,7 @@ quirtet	quintett	0	2
 quit	quitt	0	2
 quits	quitss	0	2
 quorum	korum	0	2
+quser	q iouzoer	1	2
 qwice	qwaïce	0	2
 R&B	arènbi	0	2
 rad	radd	0	2
@@ -2012,10 +2273,18 @@ rand	randd	0	2
 RANDBETWEEN	randd bitwine	1	2
 randomly	randommly	0	2
 RANK	rankk	1	2
+rasautou	rass auto u	1	2
 RASED	rasedd	0	2
+raserver	rass servoer	1	2
 RATP	r a t p	0	2
 Rayan	Raïann	1	2
 RAZ	R A Z	1	2
+rdpclip	rdp clip	1	2
+rdpinit	rdp initt	1	2
+rdpinput	rdp innpoutt	1	2
+rdpshell	rdp chell	1	2
+rdpsign	rdp sign	1	2
+rdrleakdiag	rdr likk diag	1	2
 read	riidd	0	2
 readable	riidèboeul	0	2
 readdir	riidd dir	1	2
@@ -2025,6 +2294,7 @@ reading	riiding	0	2
 readme	riidmi	0	2
 readonly	riidonnly	0	2
 reads	riidzz	0	2
+realtime	réaltaïme	0	2
 Reaper	Riipoer	0	2
 rear	riir	0	2
 reason	riizonn	0	2
@@ -2032,12 +2302,18 @@ rec	rèk	0	2
 recall	ricaull	0	2
 recalled	ricauldd	0	2
 recalls	ricaulzz	0	2
+recdisc	rec disk	1	2
 receive	riciive	0	2
 received	riciivde	0	2
 receives	riciivze	0	2
 recorded	ricordidd	0	2
 recorder	ricordoer	0	2
 recording	ricording	0	2
+recover	ricovoer	0	2
+recovered	ricovoerde	0	2
+recovering	ricovoering	0	2
+recovers	ricovoerzz	0	2
+recovery	ricovoery	0	2
 rect	rectt	0	2
 rectto	rectt tou	1	2
 recv	rèkvé	1	2
@@ -2048,11 +2324,20 @@ reed	riiidd	0	2
 reeds	riiidzz	0	2
 reel	riil	0	2
 ref	rèf	0	2
+refer	rifoer	0	2
+refers	rifoerzz	0	2
+refsutil	ref s util	1	2
 reg	règue	0	2
+regedit	règg éditt	1	2
+regedt	règg e d t	1	2
 regex	règuex	0	2
 regexp	règuexp	0	2
+regini	règg ini	1	2
 register	registoer	0	2
-rel	rèl	1	2
+regsvr	règg svr	1	2
+rehearsal	ri èrsol	0	2
+rehearsals	ri èrsolzz	0	2
+rel	rèl	0	2
 released	rilizde	0	2
 reload	rilôdd	0	2
 remain	rimèïnn	0	2
@@ -2061,21 +2346,24 @@ remember	ri mèmmboer	0	2
 remind	rimaïnndd	0	2
 reminder	rimaïnndoer	0	2
 reminds	rimaïnndzz	0	2
+remote	rimote	0	2
 removable	rimouvèiboeul	0	2
 remove	ri mouve	0	2
 removed	ri mouvde	0	2
 removes	ri mouvze	0	2
 removing	ri mouving	0	2
 REMPLACERB	remplacer b	1	2
-ren	rènn	1	2
+ren	rènn	0	2
 rename	renèime	0	2
 renamed	renèimmde	0	2
 render	rènndoer	0	2
 rendered	rènndoerde	0	2
 rendering	rènndoering	0	2
+renew	reniou	0	2
 renewcommand	renioucommandd	1	2
 Renfe	rennfé	0	2
 rent	rènntt	0	2
+repair	ripair	0	2
 repeat	ripeett	0	2
 repeats	ripeetss	0	2
 REPLACEB	replace b	1	2
@@ -2093,6 +2381,7 @@ reset	rizett	0	2
 resize	roessaïze	0	2
 resizes	roessaïzizz	0	2
 resizing	roessaïzinngg	1	2
+resmon	rèssmonn	1	2
 restake	re stèke	0	2
 restaker	re stèker	0	2
 restaking	re stèking	0	2
@@ -2113,6 +2402,7 @@ rewards	riwardzz	0	2
 rewind	riwaïnndd	0	2
 rewinddir	riwaïnndd dir	1	2
 Rex	rèxe	0	2
+rgnupdt	rgn u pdt	1	2
 rich	ritch	0	2
 rid	ridd	0	2
 ridden	riddoen	0	2
@@ -2123,6 +2413,7 @@ rights	raïtss	0	2
 rightwards	raïtt wardss	0	2
 rimclick	rimmclick	0	2
 rimshot	rimmchott	0	2
+rimshots	rimmchotss	0	2
 ring	rinngg	0	2
 ringing	rinnguing	0	2
 Rio	riho	0	2
@@ -2141,6 +2432,7 @@ rod	rodd	0	2
 rods	rodzz	0	2
 ROE	r o e	1	2
 Roentgen	Roennttguènn	0	2
+Romania	Romèinia	0	2
 Ron	Ronn	1	2
 root	roote	0	2
 roots	rootss	0	2
@@ -2149,6 +2441,8 @@ ROUNDDOWN	roundd daoun	1	2
 ROUNDUP	rounddoep	0	2
 rows	rowzz	0	2
 rowspan	rowspann	0	2
+rrinstaller	rr innstalloer	1	2
+rstrui	rstr u i	1	2
 rte	r t e	0	2
 rub	roeb	0	2
 rubato	roubato	0	2
@@ -2156,12 +2450,19 @@ Ruben	Rubèn	1	2
 rugbyman	rugbymann	0	2
 rumba	roumba	0	2
 run	roenn	0	2
+runas	roen azz	1	2
+rundll	roen dll	1	2
 rundll32	roenn dll 32	1	2
+runexehelper	roen égzé helpoer	1	2
 rung	roenngg	0	2
 runloop	roen loopp	1	2
+runner	roennoer	0	2
+runners	roennoerzz	0	2
 running	roenninngg	0	2
+runonce	roen onnce	1	2
 runs	roenzz	0	2
 runtime	roen taïme	0	2
+Russia	Roechia	0	2
 rust	roest	0	2
 Réb	Ré bémol	1	2
 Rébm	Ré bémol m	1	2
@@ -2175,6 +2476,7 @@ said	saidd	0	2
 samp	sampp	1	2
 SAMSAH	sammsah	1	2
 Samsung	Sammsoungg	0	2
+San	sann	0	2
 sanctus	sanctouss	0	2
 sand	sandd	0	2
 santur	santour	0	2
@@ -2184,6 +2486,7 @@ SARCHB	soertch b	1	2
 SARL	s a r l	0	2
 SAS	s a s	1	2
 sat	satt	0	2
+Saudi	saoudi	1	2
 SAV	s a v	1	2
 save	sèive	0	2
 saveback	sèive bak	0	2
@@ -2201,10 +2504,13 @@ scan	scann	0	2
 scanf	scanef	1	2
 scans	scannzz	0	2
 scansoft	scannsoftt	0	2
+sched	skédd	0	2
 schedule	skédiule	0	2
+scheduler	skédiuloer	0	2
 Schengen	chènnguène	0	2
 school	skoul	0	2
 schools	skoulzz	0	2
+schtasks	sch taskss	1	2
 Schubert	Choubert	0	2
 Schumann	Choumann	0	2
 Schönberg	Choennbergg	0	2
@@ -2214,10 +2520,17 @@ screens	scrinnzz	0	2
 screenshot	scrinnchott	0	2
 screenshots	scrinnchotss	0	2
 scrub	scroeb	0	2
+sdbinst	sdb instt	1	2
+sdchange	sd change	1	2
+sdiagnhost	s diag nhost	1	2
 search	soertch	0	2
 seas	seazz	0	2
 Seattle	sihatoeul	0	2
 SECH	sec h	1	2
+secinit	sec initt	1	2
+secure	sékioure	0	2
+security	sékiourity	0	2
+sed	sedd	0	2
 seed	sidd	0	2
 seeds	sidzz	0	2
 seeing	si inng	0	2
@@ -2235,6 +2548,7 @@ selection	sélection	0	2
 selects	sélectss	0	2
 sells	sellzz	0	2
 sender	sènndoer	0	2
+Senegal	sénégal	0	2
 Sennheiser	Sennhèizoer	0	2
 SEPA	sépa	1	2
 september	septèmmboer	0	2
@@ -2243,18 +2557,23 @@ Sergueï	Serguèye	0	2
 SERIESSUM	séries sum	1	2
 server	servoer	0	2
 servers	servoerzz	0	2
+sessionmsg	session msg	1	2
 set	sètt	0	2
 setfont	sett fontt	1	2
 setftime	sett f taïme	1	2
+sethc	sett hc	1	2
 setimgdim	sett i m g dimm	1	2
 setlength	settlenngth	1	2
 setminus	setminuss	1	2
 sets	setss	0	2
+setspn	sett spn	1	2
 settag	sett tagg	1	2
 setter	settoer	0	2
 setters	settoerzz	0	2
 settime	sett taïme	1	2
 settings	settinngss	0	2
+setupcl	sètoep cl	1	2
+setupugc	sètoep u g c	1	2
 setwritemode	sett vraïte mode	1	2
 setx	sett x	1	2
 seum	soem	0	2
@@ -2280,6 +2599,7 @@ sheding	shedding	0	2
 sheds	shedzz	0	2
 sheet	shite	0	2
 sheets	shitss	0	2
+shell	chell	0	2
 sher	cher	0	2
 shift	chiftt	0	2
 shine	chaïne	0	2
@@ -2298,13 +2618,14 @@ shoyu	choïou	0	2
 shrink	shrinnk	0	2
 shrinking	shrinnking	0	2
 shrinks	shrinnkss	0	2
+shrpubw	shrp u bw	1	2
 shrunk	shroenkk	0	2
 shuffle	shoeffoeul	0	2
 shut	choett	0	2
 shutdown	shoetdaouwn	0	2
 shuts	choetss	0	2
-Sib	si bémol	1	2
 sib	si bémol	1	2
+Sib	si bémol	1	2
 Sibelius	Sibélius	0	2
 Sibm	si bémol m	1	2
 side	saïdd	0	2
@@ -2317,12 +2638,14 @@ SIERREUR	si erreur	1	2
 Sievert	Sievertt	0	2
 SIGN	signe	1	2
 signed	signedd	0	2
+sigverif	siggvérif	1	2
 silent	saïlenntt	0	2
 silver	silvoer	0	2
 simplified	simplifaïdd	0	2
 sin	sinn	0	2
 since	sinnce	0	2
 sing	sinngg	0	2
+Singapore	Sinngapore	0	2
 singer	sinnguoer	0	2
 singers	sinnguoerzz	0	2
 singing	sinnginngg	0	2
@@ -2357,17 +2680,21 @@ slides	slaïdes	0	2
 sliding	slaïding	0	2
 slink	slinnkk	0	2
 slit	slitt	0	2
+Slovenia	Slovénia	0	2
 slower	slowoer	0	2
+slui	s l u i	1	2
 slunk	sloenkk	0	2
 SMA	S m a	1	2
 small	smaull	0	2
 smaller	smaulloer	0	2
 smallest	smaullest	0	2
 smart	smartt	0	2
+smartscreen	smartscrinn	1	2
 snapshot	snapchott	0	2
 snapshots	snapchotss	0	2
 snare	snère	0	2
 snares	snèrze	0	2
+snmptrap	snmp trap	1	2
 society	sossaïty	0	2
 socket	sockett	0	2
 sockets	socketss	0	2
@@ -2396,12 +2723,14 @@ sound	soundd	0	2
 sounds	soundzz	0	2
 Soyouz	soïouzz	1	2
 space	spèïce	0	2
+spaceman	spèismann	1	2
 Spain	spèinn	0	2
 span	spann	0	2
 SPARKLINE	spark laïne	1	2
 speaker	speakoer	0	2
 speakers	speakoerzz	0	2
 sped	spedd	0	2
+speech	spitch	0	2
 speed	speedd	0	2
 speeds	speedzz	0	2
 spend	spènndd	0	2
@@ -2422,6 +2751,7 @@ spoiling	spoïling	0	2
 spoilt	spoïltt	0	2
 spois	spoïlzz	0	2
 spoken	spokoen	0	2
+spoolsv	spool sv	1	2
 Spotify	spotifail	0	2
 sprang	sprangg	0	2
 spread	sprède	0	2
@@ -2436,6 +2766,7 @@ SQRTPI	sqrt pi	1	2
 squirt	sqwoertt	0	2
 srand	s randd	1	2
 srcset	essercéssett	1	2
+srdelayed	sr dilèidd	1	2
 ssl	èçèçèl	0	2
 Stael	Stal	1	2
 stake	stèke	0	2
@@ -2450,6 +2781,8 @@ statement	stèitmoentt	0	2
 statements	stèitmoentss	0	2
 states	stèitse	0	2
 stats	stattss	0	2
+status	stèituss	0	2
+staves	stèivze	0	2
 stdcall	std caull	1	2
 stderr	s t d err	0	2
 STDEV	s t dev	1	2
@@ -2522,9 +2855,12 @@ submit	soebmitt	0	2
 subset	subsett	0	2
 subseteq	subsetteq	1	2
 substr	subb str	1	2
+subtitle	soeb titoeul	0	2
+subtitles	soeb titoeulss	0	2
 succ	suxx	1	2
 succcurlyeq	sukscurly eq	1	2
 such	soetch	0	2
+Sudan	soudann	0	2
 suer	su ai	0	2
 SUMIF	sum if	1	2
 SUMIFS	sum if s	1	2
@@ -2534,16 +2870,19 @@ sung	soengg	0	2
 sunk	soenkk	0	2
 sunrise	soenraïze	0	2
 sunset	soensett	0	2
+sunshine	soenchaïnn	0	2
+superpdp	super pdp	0	2
 supply	supplail	0	2
 supset	supsett	1	2
 supseteq	supsetteq	1	2
-surf	soerf	0	2
 sustain	soestèinn	0	2
+svchost	svc host	1	2
 swaziland	swazilande	0	2
 swear	swèr	0	2
 swearing	swèrring	0	2
 swears	swèrzz	0	2
 sweats	sweatss	0	2
+Sweden	swidoen	0	2
 sweeps	sweepss	0	2
 sweet	sweet	0	2
 swelled	swellde	0	2
@@ -2553,9 +2892,15 @@ swinging	swinnguing	0	2
 swings	swinngzz	0	2
 swisslife	Suisse laïf	0	2
 switches	switchizz	0	2
+Switzerland	Switzoerlandd	0	2
 swollen	swolloen	0	2
 swung	swoengg	0	2
+sxstrace	sxs trace	1	2
 SYD	s igrec d	1	2
+symbols	symbolzz	0	2
+sys	syss	0	2
+systemreset	système rizett	1	2
+systray	systreil	0	2
 Tachkent	Tache kenntt	1	2
 tacos	tacauss	0	2
 tail	tèïl	0	2
@@ -2563,8 +2908,10 @@ Tailhac	Taillac	1	2
 tails	tèïlzz	0	2
 Taina	Taïna	0	2
 Taipei	Taïpey	1	2
+Tajikistan	Tadjikistann	0	2
 take	tèïke	0	2
 taken	tèïkoen	0	2
+takeown	tèike ohouwn	1	2
 takes	tèïkss	0	2
 taking	tèïking	0	2
 talk	tollk	0	2
@@ -2574,17 +2921,22 @@ tamburica	tambouritsa	0	2
 Tanguy	Tangui	1	2
 TANH	tan h	1	2
 tants	tanttss	0	2
+Tanzania	Tannzènia	0	2
 tapan	tapann	0	2
 target	targuett	0	2
 targets	targuetss	0	2
 Tartas	Tarta	1	2
 Tashkent	Tache kenntt	1	2
+taskhostw	task host w	1	2
 taskkill	task kilhl	1	2
+Taskmgr	Task mgr	1	2
 Taulhac	tauïac	1	2
 TBILLEQ	t bill e q	1	2
 TBILLPRICE	t bill praïce	1	2
 TBILLYIELD	t bill yildd	1	2
 tbody	t body	1	2
+tcblaunch	tcb launtch	1	2
+tcmsetup	tcm sètoep	1	2
 tconst	t constt	1	2
 TDIST	T distt	1	2
 teach	teatch	0	2
@@ -2623,7 +2975,8 @@ texts	textss	0	2
 TEXTSPLIT	textt splitt	1	2
 tfoot	t foutt	1	2
 tga	t g a	0	2
-thai	thaï	0	2
+thai	thail	0	2
+Thailand	Thaïlandd	0	2
 Thales	Thalèss	1	2
 Thalès	Thalèss	1	2
 than	dann	0	2
@@ -2654,7 +3007,7 @@ thumbs	toembzz	0	2
 Thunderbird	thundoerboerd	0	2
 ticker	tikoer	0	2
 tickers	tikoerzz	0	2
-tie	taï	0	2
+tie	thail	0	2
 tied	taïdd	0	2
 ties	taïzz	0	2
 timeframe	taïmmfrèime	0	2
@@ -2666,19 +3019,23 @@ timestamp	taïme stampp	0	2
 timestr	taïme s t r	1	2
 TIMEVALUE	taïme valiou	1	2
 tin	tinn	0	2
+tinsert	t innsertt	1	2
 title	titoeul	0	2
 titles	titoeulss	0	2
 tmpfile	tmp faïle	1	2
 tmpnam	tmp nèime	1	2
 toascii	tou askii	1	2
 today	toudayy	0	2
+together	touguézoer	0	2
 told	toldd	0	2
+Tolkien	Tolkienn	1	2
 tolower	toulowoer	0	2
 tomcat	tommcatt	0	2
 tonumber	tou noemboer	1	2
 toolkit	toolkitt	0	2
 tools	toolzz	0	2
 tostring	tou strinngg	1	2
+touch	toetche	0	2
 toupper	tou oeppoer	0	2
 toward	towardd	0	2
 town	tahoun	0	2
@@ -2686,18 +3043,23 @@ towns	tahounzz	0	2
 toy	toï	0	2
 toys	toïzz	0	2
 tparam	t param	1	2
+tracerpt	trace rpt	1	2
+tracert	trace rt	0	2
 trad	tradd	0	2
 trading	trèdinngg	0	2
 trailer	trèiloer	0	2
 trailers	trèiloerzz	0	2
+tramways	trammway	0	2
 trans	transs	0	2
 transfer	transfoer	0	2
 transient	transiantt	0	2
 traveler	traveloer	0	2
 traveler	tstraveloerzz	0	2
+tray	treil	0	2
 tread	treadd	0	2
 treads	treadzz	0	2
 treble	trébeul	0	2
+tremove	t ri mouve	1	2
 trend	trènndd	0	2
 treturn	t ritoern	1	2
 TRI	t r i	1	2
@@ -2718,10 +3080,19 @@ TRUNC	troenk	1	2
 truncate	troenkèite	1	2
 trunk	troenk	0	2
 trusted	troestidd	0	2
+trusts	troestss	0	2
 try	traille	0	2
 trying	traïinngg	0	2
+tscon	ts conn	1	2
+tsdiscon	ts disconn	1	2
+tskill	ts kilh	1	2
+ttdinject	ttd innjectt	1	2
+tttracer	tt trassoer	1	2
 tuned	tioundd	0	2
 Tunis	Tuniss	1	2
+Turkey	Toerki	0	2
+Turkmenistan	Toerkménistann	0	2
+turnover	toernovoer	0	2
 tutti	toutti	0	2
 Tuvalu	Touvalou	1	2
 twain	twèinn	0	2
@@ -2732,11 +3103,17 @@ twitter	twittoer	0	2
 typeset	taïpsett	0	2
 typesets	taïpsetss	0	2
 typewriter	taïpvraïtoer	0	2
+tzsync	tz sync	1	2
+tzutil	tz util	1	2
+ubuntu	oubounntou	0	2
+ucsvc	u c svc	1	2
+Uganda	Ouganda	0	2
 ultoa	u l tou a	1	2
 UMINUS	u minuss	1	2
 umlaut	oumlaautt	0	2
 unable	oenèiboeul	0	2
 unbeam	oenbimm	0	2
+unbound	oenboundd	0	2
 unbreakable	oenbrèkèbeul	0	2
 uncheck	oentcheck	0	2
 unchecked	oentcheckedd	0	2
@@ -2768,8 +3145,11 @@ unlink	oenlinnkk	1	2
 unlock	oenlock	0	2
 unlocked	oenlockedd	0	2
 unlocks	oenlockss	0	2
+unlodctr	oen lodd ctr	1	2
 Uno	Ouno	1	2
 unpack	oennpack	0	2
+unrar	oenrar	1	2
+unregmp	oen règg mp	1	2
 unsaved	oensèivdd	0	2
 unselect	oensélectt	0	2
 unselected	oensélectedd	0	2
@@ -2780,21 +3160,30 @@ unstaking	oenstèking	0	2
 until	oentilhl	0	2
 unused	oeniouzdd	0	2
 unwanted	oenwantidd	0	2
+unzip	oenzipp	0	2
 uparrow	oeparrow	1	2
 upbeat	oepbitt	0	2
 upbeats	oepbitss	0	2
 update	oepdèitt	0	2
+updated	oepdèitidd	0	2
+updater	oepdèitoer	0	2
 updates	oepdèitss	0	2
+updating	oepdèiting	0	2
+upfc	u pfc	1	2
 upload	oeplôdd	0	2
+uploaded	oeplôdidd	0	2
 uploader	oeplôder	0	2
+uploading	oeplôding	0	2
 uploads	oeplôdss	0	2
 UPLUS	u pluss	1	2
+upnpcont	u pnp contt	1	2
 upper	oeuppoer	0	2
 uppercase	oeuppoerkèize	0	2
 upright	oepraïtt	0	2
 UPS	u p s	0	2
 upside	oepsaïdd	0	2
 upsilon	upsilonn	0	2
+uptime	oeptaïme	0	2
 upward	oepwardd	0	2
 URI	u r i	1	2
 URL	u r l	0	2
@@ -2806,10 +3195,16 @@ USDSEK	u s d s e k	1	2
 USDTRY	u s d t r igrec	1	2
 USDZAR	u s d z a r	1	2
 used	iouzdd	0	2
+useradd	iouzoer add	1	2
+userdel	iouzoer del	1	2
+userinit	iouzoer initt	1	2
 users	youzoerss	0	2
 using	youzinngg	0	2
 utf	utéèf	0	2
+Utilman	Utilmann	1	2
+utils	utilzz	0	2
 UUID	u u i d	1	2
+Uzbekistan	Ouzbékistann	0	2
 VAD	v a d	1	2
 Vaduz	Vaduzz	1	2
 Valamas	Valamass	1	2
@@ -2830,9 +3225,14 @@ vartheta	varthêta	1	2
 vault	vaultte	0	2
 Vaulx	vau	0	2
 vegan	végane	0	2
+velocities	vélocitizz	0	2
+velocity	vélocity	0	2
 venezuela	vénézuella	0	2
+verclsid	ver cls i d	1	2
 Vergongheon	Vergonjon	1	2
 Vertolaye	Vertolail	0	2
+vibe	vaïbe	0	2
+vibes	vaïbze	0	2
 viewer	viouvoer	0	2
 viewers	viouvoerzz	0	2
 vihuela	vi houèla	0	2
@@ -2842,6 +3242,7 @@ violin	vaïolinn	0	2
 violins	vaïolinnss	0	2
 visit	visitt	0	2
 Viêt-Nam	Vietnam	1	2
+vmstat	vm statt	1	2
 Vogüé	Voguhé	1	2
 voice	voïce	0	2
 voices	voïcizz	0	2
@@ -2849,11 +3250,14 @@ void	voïde	0	2
 volleyball	volleybaul	0	2
 von	vonn	0	2
 VOST	v o s t	1	2
+vscode	v s code	0	2
+vssadmin	vss adminn	1	2
 VSTi	v s t i	0	2
 Vstplugins	v s t ploeguinnss	0	2
 Wagner	vaghnèr	0	2
 wagnerien	Vaghnèrien	0	2
 wait	ouèïtt	0	2
+waitfor	wèitfor	1	2
 waits	ouèïtss	0	2
 wake	wèïke	0	2
 wakes	wèïkse	0	2
@@ -2872,11 +3276,16 @@ wasn't	wazoentt	0	2
 Watson	Watsonn	1	2
 wave	wèïve	0	2
 waves	wèïvze	0	2
+way	oueil	0	2
+ways	oueilze	0	2
+wbadmin	wb adminn	1	2
+wbengine	wb èndgine	1	2
 wear	wèr	0	2
 wearing	wèring	0	2
 wears	wèrzz	0	2
 Weber	Wébèrr	0	2
 webkit	webkitt	0	2
+webmaster	webmastoer	0	2
 website	websaïtt	0	2
 websites	websaïtss	0	2
 weight	wèïtt	0	2
@@ -2884,8 +3293,12 @@ weights	wèïtss	0	2
 Weimar	Vaïmar	1	2
 Wellington	wè linngtonn	1	2
 went	wènntt	0	2
+wermgr	w e rmgr	1	2
 wet	wett	0	2
 wets	wetss	0	2
+wevtutil	w e vt util	1	2
+wextract	w extractt	1	2
+wget	w guètt	0	2
 whale	wèile	0	2
 whales	wèilze	0	2
 whart	wartt	0	2
@@ -2897,6 +3310,7 @@ wheels	vouhïllzz	0	2
 when	ouenn	0	2
 whenever	ouenn évoer	0	2
 where	ouère	0	2
+wherein	ouairinn	0	2
 wherever	ouèrévoer	0	2
 wherex	ouère x	1	2
 wherey	ouère y	1	2
@@ -2909,12 +3323,14 @@ whip	wipp	0	2
 whisper	wispoer	0	2
 white	ouaïte	0	2
 who	wou	0	2
+whoami	wou am ail	1	2
 whois	whoo izz	0	2
 whole	wole	0	2
 whom	woum	0	2
 whose	wouse	0	2
 why	ouail	0	2
 whyever	ouaïévoer	0	2
+wiaacmgr	w i a a c mgr	1	2
 widebslash	waïde b slash	1	2
 wideharpoon	waïde harpoon	1	2
 widehat	waïde hatt	1	2
@@ -2925,13 +3341,21 @@ widevec	waïdevec	1	2
 Wiesbaden	Vièsbadoen	1	2
 wild	waïldd	0	2
 will	wilhl	0	2
+wimserv	winnserv	1	2
 win	winn	0	2
 winamp	winampe	0	2
 wind	winndd	0	2
 winding	winnding	0	2
 window	ouinndow	0	2
 winds	winndzz	0	2
+winhlp	winn hlp	1	2
+winload	winnlôdd	1	2
+winlogon	winnlogonn	1	2
+winresume	winnréziume	1	2
+winrs	winn rs	1	2
+winrshost	winn rs hostt	1	2
 winter	winntoer	0	2
+winver	winnverr	1	2
 wisconsin	wisconsinn	0	2
 Wise	Waïze	0	2
 wishes	wichizz	0	2
@@ -2943,6 +3367,9 @@ without	withaoutt	0	2
 withstand	withstandd	0	2
 withstands	withstandss	0	2
 withstood	withstoodd	0	2
+wizard	wizardd	0	2
+wkspbroker	wksp brokoer	1	2
+wlanext	wl a nextt	1	2
 wma	w m a	0	2
 Wolfgang	Volfgangg	0	2
 won	wonn	0	2
@@ -2951,8 +3378,12 @@ woods	woodzz	0	2
 woodwind	woodwinndd	0	2
 woodwinds	woodwinndzz	0	2
 words	woerdzz	0	2
+worked	workde	0	2
+worker	workoer	0	2
+workers	workoerzz	0	2
 works	workss	0	2
 would	wouldd	0	2
+wpnpinst	wpnp inst	1	2
 wrap	vrapp	0	2
 WRAPCOLS	vrap colzz	1	2
 wrapped	vrapde	0	2
@@ -2971,6 +3402,11 @@ writing	vraïting	0	2
 written	vrittoen	0	2
 wrong	vrongg	0	2
 wrung	vroengg	0	2
+wscadminui	wsc admin u i	1	2
+wsmprovhost	wsm prov hostt	1	2
+wsqmcons	wsqm conss	1	2
+wuapihost	w u a p i hostt	1	2
+wuauclt	w u a u clt	1	2
 www	3w	0	2
 wyoming	waillominngg	0	2
 xaml	xamel	0	2
@@ -2979,6 +3415,7 @@ Xfer	X fer	1	2
 XMATCH	x match	1	2
 xml	iksèmèl	0	2
 XOR	x or	0	2
+xwizard	x wizardd	1	2
 y'en	yan	0	2
 yang	yangg	0	2
 yeah	yèèh	0	2
@@ -2994,8 +3431,11 @@ YIELDMAT	yildd matt	1	2
 yin	yinn	0	2
 Yorkshire	Yorkshaïoer	1	2
 Younès	Younèss	1	2
+Yuka	youka	1	2
 yémen	yèmène	0	2
 zcash	zedcach	0	2
+Zealand	Zealandd	0	2
+zendesk	zenndesk	0	2
 zeta	zéta	0	2
 zeybek	zèïbek	0	2
 zimbabwe	Zimmbabwé	0	2
@@ -3010,7 +3450,7 @@ zumba	zoumba	0	2
 \b(b|p)matrix\b	\1 ématrix	1	1
 \b(b|u)oper\b	\1 opèr	1	1
 \b(ch|f)mod	\1 modd	1	1
-\b(ch|mk|rm)dir\b	\1 dir	1	1
+\b(ch|mk|rm)dir\b	\1 dir	0	1
 \b(complète|concrète|confuse|consciencieuse|constam|continuelle|convenable|correcte)ment\b	\1mant	0	1
 \b(courageuse|courtoise|cruelle|curieuse|dangereuse|débile|délicate|délicieuse)ment\b	\1mant	0	1
 \b(c|d|dd|o)dot\b	\1 dott	1	1
@@ -3022,6 +3462,7 @@ zumba	zoumba	0	2
 \b(c|g|l|r|str)sub\b	\1 subb	1	1
 \b(c|l|r)sup\b	\1 supp	1	1
 \b(c|m)alloc\b	\1 alloc	1	1
+\b(c|w)script\b	\1 script	1	1
 \b(dl|dlr|dr)arrow\b	\1 arrow	1	1
 \b(drole|durable|éblouissam|efficace|égoïste|élégam|énergique|énormé|entière|enthousiasté|équitable)ment\b	\1mant	0	1
 \b(démocratique|désespéré|difficile|digne|directe|discrète|distincte|divine|douloureuse)ment\b	\1mant	0	1
@@ -3060,6 +3501,7 @@ zumba	zoumba	0	2
 \b(pax|z[aá]kynth|por|gavd|al[oó]niss?|ski[aá]th|sk[oó]pel|skyr|thass?|l[eií]mn|l[eé]s[bv]|chi|sam)[oó]s\b	\1auss	0	1
 \b(positive|possible|précisé|présomptueuse|probable|propre|pudique|puissam|pure)ment\b	\1mant	0	1
 \b(pénible|périodique|personnelle|physique|piètre|pittoresque|placide|plaisam|plate)ment\b	\1mant	0	1
+\b(q|r)winsta\b	\1 winn sta	1	1
 \b(rare|relative|religieuse|résolu|respectueuse|rigoureuse|ronde|royale|rude|sadique|sainte|sale)ment\b	\1mant	0	1
 \b(savam|savoureuse|scrupuleuse|secrète|séduisam|sensible|sérieuse|sévère|singulière|sourde|souveraine|spéciale|spontané)ment\b	\1mant	0	1
 \b(stricte|stupéfiam|subtile|suffisam|sûre|tendre|ténébreuse|terne|timide|tragique|traîtreuse|tranquille)ment\b	\1mant	0	1
@@ -3069,7 +3511,9 @@ zumba	zoumba	0	2
 \balign(c|l|r)\b	align \1	1	1
 \bato(f|i)\b	atou \1	1	1
 \bautoit([0-9]*)\b	autoïtt \1	0	1
+\bB(e|é)larus\b	bélaruss	0	1
 \bbackups?\b	backoep	0	1
+\bBahr(ei|eï|ai)n\b	Baraïnn	0	1
 \bbanjos?\b	bandjo	0	1
 \bBD(ECARTYPE|LIRE|MAX|MOYENNE|PRODUIT|SOMME|VAR)\b	BD \1	1	1
 \bbehaviou?rs\b	bihèiviorzz	0	1
@@ -3100,8 +3544,8 @@ zumba	zoumba	0	2
 \bdashboards?\b	dashborde	0	1
 \bdealers?\b	diiloer	0	1
 \bdecrescendos?\b	décréchènndo	0	1
-\bDISTILL([A-ZÉÈ]+)\b	DISTIL\1	1	1
 \bdistill([a-zéè]+)\b	distil\1	1	1
+\bDISTILL([A-ZÉÈ]+)\b	DISTIL\1	1	1
 \bdjemb[eé]s?\b	djoembé	0	1
 \bdll(export2?|import2?)\b	d l l \1	1	1
 \bdoigtés?\b	doité	0	1
@@ -3113,6 +3557,7 @@ zumba	zoumba	0	2
 \bEST(ERREUR|LOGIQUE|NONTEXTE|NUM|REF|TEXTE|VIDE)\b	est \1	1	1
 \bexec(l|le|lp|lpe|v|ve|vp|vpe)\b	egzec \1	1	1
 \be\-?mails?\b	imèil	0	1
+\bfachos?\b	facheau	0	1
 \bfile(length|no)\b	faïle \1	1	1
 \bfintechs?\b	finntek	0	1
 \bfirsts?\b	foerstt	0	1
@@ -3129,6 +3574,7 @@ zumba	zoumba	0	2
 \bguiros?\b	gouïro	0	1
 \bh?all?[ée]lo?u[ijy]ah?\b	allélouia	0	1
 \bhamburgers?\b	hambeurgoer	0	1
+\bhobbits?\b	hobbitt	0	1
 \bhubs?\b	heub	0	1
 \bIM(CSC|DIV|LN|LOG|SQRT)\b	imm \1	1	1
 \bIMPORT(HTML|XML)\b	import \1	1	1
@@ -3193,10 +3639,12 @@ zumba	zoumba	0	2
 \bsamplers?\b	samploer	0	1
 \bsends?\b	sènnde	0	1
 \bset(aspectratio|cbrk|jmp|linestyle|textjustify|textstyle|usercharsize)\b	sett \1	1	1
-\bsetlocale?\b	sett local	1	1
+\bsetlocale?\b	sett local	0	1
 \bsetups?\b	sètoepp	0	1
 \bshakers?\b	chèkoer	0	1
 \bsin(h|l|hl)\b	sinn \1	1	1
+\bskateboards?\b	skèïtbordd	0	1
+\bskates?\b	skèïte	0	1
 \bskieurs?\b	skiieur	0	1
 \bslots?\b	slott	0	1
 \bsmileys?\b	smaÏley	0	1
@@ -3209,6 +3657,8 @@ zumba	zoumba	0	2
 \bstr(coll|dup|error|rev)\b	str \1	1	1
 \bstrto(d|k|l|ul)\b	str tou \1	1	1
 \bSUM(PRODUCT|SQ|X2MY2|X2PY2|XMY2)\b	sum \1	1	1
+\bsurf(eurs?|ant|i?ons|i?ez|ais|ait|aient|a|èrent|é|er|erai?s?|erons|erez|eront)\b	soerf\1	0	1
+\bsurfe?(s|nt)?\b	soerf	0	1
 \bsushis?\b	souchis	0	1
 \btamtams?\b	tammtamm	0	1
 \btan(h|l|hl)\b	tan \1	1	1
@@ -3224,6 +3674,7 @@ zumba	zoumba	0	2
 \btrades?\b	trède	0	1
 \btrails?\b	trèile	0	1
 \btrans(l|r)\b	transs \1	1	1
+\btransats?\b	tranzatt	0	1
 \btrépieds?\b	tré pied	0	1
 \bukul[eé]l[eé]s?\b	youkoulélé	0	1
 \bwallets?\b	wallett	0	1
