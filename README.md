@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 # nvda-fr-dictionnaries
 NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
 
@@ -30,7 +19,7 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
   * Le point d'exclamation est utilisé pour la négation, le double esperluette pour le "et" logique (and), le double barre verticale pour le "ou" logique (or), le double égal pour le teste d'égalité entre 2 valeurs, le triple égal pour l'égalité stricte en PHP... la prononciation de symboles et une regexp bien placée permettent d'entendre convenablement : `if (!expression)`, `if (!(a && b))`, `if (!a || !b)`, `if (a >= b)`...
   * J'ai mis aussi les noms de fonctions et constantes en langages dérivés du C, les noms de balises HTML, de propriétés CSS. Exemple : `sprintf()`, `ksort()`, `memcpy()`, `<title>`, `<textarea>`, `background`, `1.5em`...
   * Liste des langages pleinement supportés : Batch, C, HTML, Java, LaTeX, LibreOffice Math, Lua 4.0, [Harmony Assistant](https://www.myriad-online.com/en/products/harmony.htm) MyrScript, SQL ;
-  * Langages partiellement supportés / non vérifiés en intégralité : PHP et dérivés du C, [Reaper](https://www.reaper.fm/download.php) API ;
+  * Langages partiellement supportés / non vérifiés en intégralité : Linux Bash, PHP et dérivés du C, [Reaper](https://www.reaper.fm/download.php) API ;
   * Tableur, fonctions en français et anglais : Excel 2024, Google Sheets, Libre Office Calc ;
 * Musique :
   * Je suis musicien, j'utilise des logiciels en anglais et en français, sur des partitions je peux avoir des noms d'instruments dans les 2 langues. J'ai donc ajouté des termes techniques et des noms d'instruments dans le dictionnaire : quarter (une noire), take (une prise), violin (violon), snare (caisse claire), hi-hats (cymbales Charleston), Hohner (une marque d'accordéon), Xfer (nom d'un VST)... ainsi que la prononciation d'instruments du monde : bağlama, banjo, cavaquinho, cheng, çura, marimba...
@@ -52,8 +41,10 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
 	* Le cyrillique concerne trop de langues pour que je puisse le faire prononcer, donc cela restera toujours épelé.
 * Noms propres :
   * pays et capitales : Bahrein, London ;
+  * noms des pays en anglais
   * états américains : Iowa, Maryland, Ohio ;
   * régions et villes de France, Allemagne, Grande-Bretagne, USA ;
+  * îles grecques
   * quelques villages imprononçables d'Auvergne ! Arlempdes, Cunlhat, Mézenc ;
   * Prénoms : Aya, Kylian, Owen...
   * physiciens, chimistes qui ont donné leur nom à des unités de mesure : Newton, Fahrenheit, Kelvin, Siemens...
@@ -106,6 +97,8 @@ Instructions pour télécharger, installer et utiliser IBMTTS :
 ## Liste des fichiers speechdicts
 
 J'ai découpé mon fichier `default.dic` en plusieurs sections, ainsi vous pouvez ne prendre que celle qui vous intéressent. Au final, toutes doivent être copiées dans un même fichier.
+
+Vous pouvez aussi télécharger directement mon fichier [default.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/default.dic) pour vous simplifier la vie. Attention, si vous avez corrigé des prononciations, vous devrez les remettre dans le fichier téléchargé, idéalement au tout début.
 
 |Fichier|Contenu|
 |-|-|
