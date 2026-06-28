@@ -6,3 +6,8 @@
 \bY(\d+)\b	 igrec \1	1	1
 \bYY(\d+)\b	igrec igrec \1	0	1
 \b[Yy]([A-XZa-xz])(\d+)\b	igrec \1 \2	1	1
+
+#Version semestrielle : 25H2 prononcé trompeusement 25 heure 2
+\b([0-9]+)(H|h)([0-9])\b	\1 H \3	1	1
+
+#@todo cases déclaration d'impôts : chiffre(s) + lettre(s)
