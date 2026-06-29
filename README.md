@@ -1,3 +1,5 @@
+Explications en français juste après une courte introduction en anglais.
+
 # nvda-fr-dictionnaries
 NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
 
@@ -11,6 +13,17 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
   * replacements of Unicode letters and numbers.
 
 # Dictionnaire de prononciation des mots et symboles pour NVDA
+
+## Mode d'emploi rapide
+Je vous conseille de lire l'entièreté des explications ci-après, mais voici des instructions qui conviendront à ceux qui n'ont pas de dictionnaire de prononciation, et qui se perdent sur GitHub.
+
+1. Avec la touche NVDA+F7, cherchez default.dic (file) puis appuyez sur Entrée.
+2. En tabulant, cherchez Download raw file et enregistrez-le dans %appdata%\NVDA\speechDicts\default.dic. (%APPDATA% est un alias qui envoie dans le répertoire des données utilisateurs).
+3. Revenez sur la page précédente.
+4. Avec NVDA+F7, cherchez symbols-fr.dic (file) puis appuyez sur Entrée.
+5. En tabulant, cherchez Download raw file et enregistrez-le dans %APPDATA%\NVDA\symbols-fr.dic.
+6. Relancez NVDA.
+
 
 ## Thématiques du dictionnaire
 * Programmation :
@@ -44,7 +57,7 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS.
   * noms des pays en anglais
   * états américains : Iowa, Maryland, Ohio ;
   * régions et villes de France, Allemagne, Grande-Bretagne, USA ;
-  * îles grecques
+  * îles grecques ;
   * quelques villages imprononçables d'Auvergne ! Arlempdes, Cunlhat, Mézenc ;
   * Prénoms : Aya, Kylian, Owen...
   * physiciens, chimistes qui ont donné leur nom à des unités de mesure : Newton, Fahrenheit, Kelvin, Siemens...
@@ -84,21 +97,20 @@ Instructions pour télécharger, installer et utiliser IBMTTS :
 ### Prononciation des symboles
 
 2. Si le fichier `symbols-fr.dic` existe, renommez-le.
-3. Téléchargez [symbols-fr.dic](https://github.com/iubito/nvda-fr-dictionnaries/raw/refs/heads/main/symbols-fr.dic) dans ce répertoire.
+3. Téléchargez symbols-fr.dic dans ce répertoire.
 4. Si vous aviez personnalisé ou ajouté la prononciation de symboles, éditez le fichier `symbols-fr.dic` avec un éditeur de texte (Notepad++ recommandé), remplacez ou ajoutez vos lignes personnalisées.
 
 ### Dictionnaire
 
 5. Allez dans le répertoire `speechdicts` (donc `%APPDATA%\NVDA\speechdicts`).
-6. Si vous avez déjà ajouté des prononciations, repérez le fichier `.dic` récemment modifié  Sinon, créez un fichier `default.dic`.
-7. Éditez-le, idéalement avec Notepad++.
-8. Téléchargez ou copiez-collez le contenu mes fichiers présents dans [speechdicts](https://github.com/iubito/nvda-fr-dictionnaries/tree/main/speechdicts), en les prenant dans l'ordre numérique puis alphabétique : 01, 02... et terminez par fr
+6. Si vous avez déjà ajouté des prononciations, repérez le fichier `.dic` récemment modifié, faites-en une sauvegarde.
+  a. Télécharger default.dic dans ce répertoire
+  b. Insérez au début du fichier vos corrections grâce à un éditeur de texte, idéalement Notepad++.
+8. Les utilisateurs plus expérimentés peuvent reconstituer le fichier default.dic en téléchargeant des portions disponibles [ici](https://github.com/iubito/nvda-fr-dictionnaries/tree/main/speechdicts) et détaillées ci-dessous, en les prenant dans l'ordre numérique puis alphabétique : 01, 02... et terminez par fr
 
 ## Liste des fichiers speechdicts
 
 J'ai découpé mon fichier `default.dic` en plusieurs sections, ainsi vous pouvez ne prendre que celle qui vous intéressent. Au final, toutes doivent être copiées dans un même fichier.
-
-Vous pouvez aussi télécharger directement mon fichier [default.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/default.dic) pour vous simplifier la vie. Attention, si vous avez corrigé des prononciations, vous devrez les remettre dans le fichier téléchargé, idéalement au tout début.
 
 |Fichier|Contenu|
 |-|-|
