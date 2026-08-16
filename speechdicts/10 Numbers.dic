@@ -18,8 +18,78 @@
 [❿➉➓]	10 	1	1
 # @todo https://www.fileformat.info/info/unicode/category/Nd/list.htm
 
-# counter download01, download02...
+
+# N° de téléphone français : 0601020304
+\b(0[1-9])(\d\d)(\d\d)(\d\d)(\d\d)\b	\1 \2 \3 \4 \5	1	1
+
+# N° sécurité sociale français: 182091122233344
+\b(1|2)(\d{2})(0[0-9]|1[0-2])(\d{2})(\d{3})(\d{3})(\d{2})\b	\1, \2, \3, \4, \5, \6, \7	1	1
+
+
+#soustraction: le tiret n'est pas toujours prononcé.,
+# tentative de correction pour rendre des formules et du code plus compréhensibles.
+# limite à 2 nombres  et/ou variables sans parenthèses
+# 5 - 3, 5 - 3.14, 3.14 - 5, 5.67 - 3.14 - 2.01, 5 - (3.14 - 2.01)
+# J-7, J - 7, x-2, x - 2, variable-0.05, variable - 0.05, var-0.123, var - 0.123, var-4,56, var - 4,56
+# 1-x, 1 - x, 3.14-pi, 3.14 - pi, 0.123-variable, 0.123 - variable, 4,56-var, 4,56 - var
+# 1 - x - 5, 1 - (5 - x), var2 - 3, var2 - ((5 - x) - 5)
+\b(\d{1,12})\.(\d{1,12}\)*) ?\- ?(\(*\d{1,12})\.(\d{1,12})\b	\1 point \2 moins \3 point \4	1	1
+\b(\d{1,12}\)*) ?\- ?(\(*\d{1,12})\.(\d{1,12})\b	\1 moins \2 point \3	1	1
+\b(\d{1,12})\.(\d{1,12}\)*) ?\- ?(\(*\d{1,12})\b	\1 point \2 moins \3	1	1
+\b(\d{1,12}\)*) ?\- ?(\(*\d{1,12})\b	\1 moins \2	1	1
+\b([A-Za-z_][A-Za-z_0-9]*\)*) ?\- ?(\(*\d{1,12})\.(\d{1,12})\b	\1 moins \2 point \3	1	1
+\b([A-Za-z_][A-Za-z_0-9]*\)*) ?\- ?(\(*\d{1,12})\b	\1 moins \2	1	1
+\b(\d{1,12})\.(\d{1,12}\)*) ?\- ?(\(*[A-Za-z_][A-Za-z_0-9]*)\b	\1 point \2 moins \3	1	1
+\b(\d{1,12}\)*) ?\- ?(\(*[A-Za-z_][A-Za-z_0-9]*)\b	\1 moins \2	1	1
+# peut faire bugger des noms de fichier comme 01 - Titre.mp3, mais ça reste compréhensible.
+#ne marche pas: uniquement des variables: pas géré car pourrait perturber du littéraire, sauf si présence de parenthèses)
+#ne marche pas: x - a - b, x - (a - b), (x - a) - b
+# \b([A-Za-z_][A-Za-z_0-9]*\)+) ?\-? ?([A-Za-z_][A-Za-z_0-9]*)\b	\1 moins \2	1	1
+# \b([A-Za-z_][A-Za-z_0-9]*) ?\-? ?(\(+[A-Za-z_][A-Za-z_0-9]*)\b	\1 moins \2	1	1
+
+
 # split word and numbers
-\b([A-Za-z]+)(\d+)\b	\1 \2	1	1
-# word + number + word
-\b([A-Za-z]+)(\d+)([A-Za-z]+)\b	\1 \2 \3	1	1
+# counter download01, download02...
+\b([A-Za-z]+)(\d{1,12})\b	\1 \2	1	1
+# word + number + word: input2stream
+\b([A-Za-z]+)(\d{1,12})([A-Za-z]+)\b	\1 \2 \3	1	1
+
+
+# 3+ zéros répétés en tête ou début décimales en programmation (point décimal), ne marche pas avec virgule décimale:
+# par extension, en début de mot
+# 000, 00012, 1.00012, 2,000025, .000000056, 0000M, 0x000F
+\b(?<!,)(0x)?00000000000000000000000000000000(\w*)\b	\1 trentdeux zéro \2	1	1
+\b(?<!,)(0x)?0000000000000000000000000000000(\w*)\b	\1 trentéun zéro \2	1	1
+\b(?<!,)(0x)?000000000000000000000000000000(\w*)\b	\1 trente zéro \2	1	1
+\b(?<!,)(0x)?00000000000000000000000000000(\w*)\b	\1 vintneuf zéro \2	1	1
+\b(?<!,)(0x)?0000000000000000000000000000(\w*)\b	\1 vintuitt zéro \2	1	1
+\b(?<!,)(0x)?000000000000000000000000000(\w*)\b	\1 vintsètt zéro \2	1	1
+\b(?<!,)(0x)?00000000000000000000000000(\w*)\b	\1 vintsiss zéro \2	1	1
+\b(?<!,)(0x)?0000000000000000000000000(\w*)\b	\1 vintcinq zéro \2	1	1
+\b(?<!,)(0x)?000000000000000000000000(\w*)\b	\1 vintcatre zéro \2	1	1
+\b(?<!,)(0x)?00000000000000000000000(\w*)\b	\1 vintt trois zéro \2	1	1
+\b(?<!,)(0x)?0000000000000000000000(\w*)\b	\1 vintdeux zéro \2	1	1
+\b(?<!,)(0x)?000000000000000000000(\w*)\b	\1 vintéun zéro \2	1	1
+\b(?<!,)(0x)?00000000000000000000(\w*)\b	\1 vingt zéro \2	1	1
+\b(?<!,)(0x)?0000000000000000000(\w*)\b	\1 dizneuf zéro \2	1	1
+\b(?<!,)(0x)?000000000000000000(\w*)\b	\1 dizuitt zéro \2	1	1
+\b(?<!,)(0x)?00000000000000000(\w*)\b	\1 dissètt zéro \2	1	1
+\b(?<!,)(0x)?0000000000000000(\w*)\b	\1 seize zéro \2	1	1
+\b(?<!,)(0x)?000000000000000(\w*)\b	\1 quinze zéro \2	1	1
+\b(?<!,)(0x)?00000000000000(\w*)\b	\1 quatorze zéro \2	1	1
+\b(?<!,)(0x)?0000000000000(\w*)\b	\1 treize zéro \2	1	1
+\b(?<!,)(0x)?000000000000(\w*)\b	\1 douze zéro \2	1	1
+\b(?<!,)(0x)?00000000000(\w*)\b	\1 onze zéro \2	1	1
+\b(?<!,)(0x)?0000000000(\w*)\b	\1 diss zéro \2	1	1
+\b(?<!,)(0x)?000000000(\w*)\b	\1 nonuple zéro \2	1	1
+\b(?<!,)(0x)?00000000(\w*)\b	\1 octuple zéro \2	1	1
+\b(?<!,)(0x)?0000000(\w*)\b	\1 heptuple zéro \2	1	1
+\b(?<!,)(0x)?000000(\w*)\b	\1 sextuple zéro \2	1	1
+\b(?<!,)(0x)?00000(\w*)\b	\1 quintuple zéro \2	1	1
+
+# N° SIRET : 12345678900012
+\b(\d{3})(\d{3})(\d{3})(\d{5})\b	\1, \2, \3, \4	1	1
+
+\b(?<!,)(0x)?0000(\w*)\b	\1 quadruple zéro \2	1	1
+\b(?<!,)(0x)?000(\w*)\b	\1 triple zéro \2	1	1
+
