@@ -1,4 +1,3 @@
-
 #mots composés : add-on, can't, plug-ins, hi-hat, pre-amp, won't
 #Sans un traitement ici, ils seront découpés et mal prononcés : add on, can t, plug ins...
 \badd\-?on\b	addonn	0	1
@@ -10,11 +9,16 @@ e-invoicing	i-innvoïcing	0	2
 e-reporting	i-riporting	0	2
 hi-hat	hail-hatt	0	2
 hi-hats	hail-hatts	0	2
+Jean-Lachalm	Jean Lachan	0	2
 \bplug\-?ins?\b	ploeuguine	0	1
 \bpre\-?amps?\b	pré-ampp	0	1
+Romain-Lachalm	Romain-Lachalme	0	2
 Saint-Cloud	sinclou	0	2
 St-Cloud	sinclou	0	2
+#Saint-Just-Saint-Rambert, St Just Malmont
+\b(st|saint)( |\-)just( |\-)(st|saint|malmont)\b	\1 ju \4	0	1
 won't	wontt	0	2
 #au-dessus prononcé de base comme au-d'ssus -> au dessus
 dessus	de su	0	2
 dessous	de sou	0	2
+  
