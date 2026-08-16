@@ -3,7 +3,10 @@
 # ça marche aussi pour des noms de logiciel comme LiveLoop, LocalSend, MakeMusic
 # inconvénient, ça peut casser des définitions faites plus loin comme WhatsApp.
 # Dans ce cas, il faut donner la prononciation de chaque mot "Whats" et "App", ou les définir ici avant les CamelBumps
+BeIN	bi inn	1	2
 CapTVTy	captivity	0	2
+CCi	c c i	0	2
+ChatGPT	tchatt g p t	0	2
 ffmpeg	èfèfèmpègue	0	2
 IIe	deuxième	1	2
 IIIe	troisième	1	2
@@ -20,7 +23,7 @@ onabort	onn abortt	0	2
 onbeforeprint	onn biforprinntt	0	2
 onbeforeunload	onn biforoenlaudd	0	2
 onblur	onn blour	0	2
-oncanplay	onn cann play	0	2
+oncanplay	onn cann pleil	0	2
 ondblclick	onn double click	0	2
 ondragend	onn dragg èndd	0	2
 ondragenter	onn dragg ènntoer	0	2
@@ -33,6 +36,7 @@ oninvalid	onninvalidd	0	2
 onkeyup	onn key oeup	0	2
 onkeydown	onn key daoun	0	2
 online	onnlaïnn	0	2
+offline	oflaïnn	0	2
 onload	onn laudd	0	2
 onmousedown	onn maouse daouwn	0	2
 onmouseenter	onn maouse ènntoer	0	2
@@ -59,6 +63,7 @@ OVHcloud	o v h claoudd	0	2
 rewire	riwaïoer	0	2
 SQLite	eskuel laïte	0	2
 SynthFont	SynthFontt	1	2
+TAB	tabb	1	2
 TeX	Tex	1	2
 videolan	vidéolann	0	2
 VIe	sizième	1	2
