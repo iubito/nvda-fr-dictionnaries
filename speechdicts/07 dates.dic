@@ -1,4 +1,5 @@
 # dates ISO yyyy-MM-dd, yyyy.MM.dd, yyyy-MM: raccourcis les pauses entre les nombres
+# 2026-08-28
 \b([0-9]{4})[\-\.]([0-9]{2})[\-\.]([0-9]{2})\b	\1, \2, \3	1	1
 \b([0-9]{4})\-([0-9]{2})\b	\1, \2	1	1
 
@@ -15,3 +16,10 @@
 \b([1-9])\/10\/(\d{2,4})\b	\1 octobre \2	1	1
 \b([1-9])\/11\/(\d{2,4})\b	\1 novembre \2	1	1
 \b([1-9])\/12\/(\d{2,4})\b	\1 décembre \2	1	1
+
+# ajoute un blanc à la place des tabulations, lisibilité d'un CSV ou d'un dictionnaire NVDA ;)
+[\t]	 , 	1	1
+
+# fixe le Zero-wide Space que la rédaction dans gmail, et d'autres éditeur WYSIWYG ajoutent.
+# ça casse des mots, et c'est très pénible.
+
