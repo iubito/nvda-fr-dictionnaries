@@ -1,7 +1,10 @@
 #mots composés : add-on, can't, plug-ins, hi-hat, pre-amp, won't
 #Sans un traitement ici, ils seront découpés et mal prononcés : add on, can t, plug ins...
+7-zip	7 zipp	0	2
+\b(8|16|32|64)\-?bits?\b	\1 bitt	0	1
 \badd\-?on\b	addonn	0	1
 \badd\-?ons\b	addonnss	0	1
+Blu-Ray	blourè	0	2
 #Bourg-Argental, Bourg-en-Bresse
 \bBourg-([A-Za-z\-]+)\b	Bourk\1	1	1
 can't	cantt	0	2
@@ -17,8 +20,8 @@ Saint-Cloud	sinclou	0	2
 St-Cloud	sinclou	0	2
 #Saint-Just-Saint-Rambert, St Just Malmont
 \b(st|saint)( |\-)just( |\-)(st|saint|malmont)\b	\1 ju \4	0	1
+\bt\-?shirt\b	tichoertt	0	1
 won't	wontt	0	2
 #au-dessus prononcé de base comme au-d'ssus -> au dessus
 dessus	de su	0	2
 dessous	de sou	0	2
-  
