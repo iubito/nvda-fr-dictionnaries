@@ -1,0 +1,161 @@
+#Terminaisons
+# a i n: Britain, chain, contain, explain, Spain
+\b(brit|br|ch|cont|dom|expl|mount|sp|tw)ain\b	\1èïnn	0	1
+# a i n s: et les pluriels ou 3e personne du présent: brains, contains, mountains
+\b(br|ch|cont|dom|expl|mount)ains\b	\1èïnnzz	0	1
+
+# a n: Amman, belgian, can, Erwan, IBAN, Kylian, man, Oman, San Antonio, scan
+\b(amm|am|belgi|c|chapm|colsp|erw|ev|Eyth?|germ|goldm|gor|h|handp)an\b	\1ann	0	1
+\b(ib|itali|jord|ka|keysc|kyli|logm|m|morg|musici|niss|nol|om|org|oul)an\b	\1ann	0	1
+\b(pacm|r|rowsp|rugbym|s|sc|sham|sof[iy]|sp|st|tap|utilm)an\b	\1ann	0	1
+# a n s: pluriels: Italians, musicians, organs, scans
+\b(belgi|germ|handp|itali|musici|org|sc|sham|sp|tap)ans\b	\1annzz	0	1
+
+# a s: Arkansas, Christmas, Honduras, maracas, Matthias, Polias, Salacias
+\b(afd|alleyr|arkans|carac|christm|hondur|ili|loxi|marac|matt?hi|pall|poli|salaci|therit|valam)as\b	\1ass	0	1
+
+# a t: Achgabat, CAT, cat, concat, ESAT, flat...
+CAT	C A T	1	2
+ESAT	ezatt	1	2
+\b(achgab|c|cars|char|conc|d|es|f|fl|h|p|s)at\b	\1att	0	1
+# a t s, et les pluriels: cats, hats
+\b(c|fl|h)ats\b	\1atss	0	1
+
+# e n: Alien, Ben, gluten, Owen, SIREN, ten
+\b(ali|all|b|coh|g|gl|glut|keyg|koh|l|laur|low|mav|ow|r|rub|sir|t|tolki|warr|yar|y[eé]m)en\b	\1ènn	0	1
+# e n s: pluriels: Aliens
+\b(Ali|keyg|t)ens\b	\1ènnss	0	1
+
+# e n: bidden, bitten, forgotten
+\b(bidd|bitt|brok|flat|forbidd|forgott|froz|gott|happ|hidd|kitch|krak|op)en\b	\1oen	0	1
+\b(ridd|spok|stol|strick|swoll|trodd)en\b	\1oen	0	1
+# e n s: pluriels ou 3e personne présent : happens, opens
+\b(flat|happ|kitch|krak|op)ens\b	\1oenzz	0	1
+
+# e n t, mots anglais: bent, Brent, component, exponent, fluent, Tashkent
+\b(b|br|compon|curr|dec|differ|ev|expon|ext|flu|r|sp|tashk|w)ent\b	\1ènntt	0	1
+# e n t s, et les pluriels et 3e personnes présent: comments, events
+\b(comm|compon|ev|expon|ext|r)ents\b	\1ènntss	0	1
+
+# e r: alter, cyber, dulcimer, Jupiler, Lucifer, pater noster
+\b(ac|alt|ast|cyb|démét|dulcim|equest|fab|hitl|hohn|jok|jupil|khm|klezm|kléb|lib|lucif|luth|mulcib|nost|pat|selm)er\b	\1èrr	0	1
+Mater	matèr	1	2
+# e r s, et les pluriels: dulcimers, khmers
+\b(alt|ast|cyb|dulcim|jok|khm|klezm)ers\b	\1èrr	0	1
+
+# e r: mots anglais, after, another, better, bigger, Jimmy Carter... speaker
+\b(aft|anoth|bett|bigg|bold|brok|build|cart|chapt|consid|convert|count)er\b	\1oer	0	1
+\b(dial|diff|discov|ev|fast|fiddl|filt|flow|fold|follow|foot|found)er\b	\1oer	0	1
+\b(h|hack|hamm|handl|help|hold|hoov|inn|jasp|lay|lett|lock|logg|loop|low)er\b	\1oer	0	1
+\b(mark|mast|octob|old|oliv|ord|ov|par[ks]|partn|pick|play|pott|pow|prop|regist)er\b	\1oer	0	1
+\b(serv|sett|show|silv|slow|socc|speak|spinn|stick|subfold)er\b	\1oer	0	1
+\b(tick|tow|transf|travel|trigg|twitt|wat|webmast|work)er\b	\1oer	0	1
+# e r s: ... et les pluriels ou 3e personnes du présent des mêmes mots anglais
+\b(brok|build|chapt|consid|convert|count)ers\b	\1oerzz	0	1
+\b(dial|diff|discov|fiddl|filt|flow|fold|follow|foot)ers\b	\1oerzz	0	1
+\b(hack|hamm|handl|help|hold|lay|lett|lock|logg|loop)ers\b	\1oerzz	0	1
+\b(mark|mast|ord|pars|partn|pick|play|pow|regist)ers\b	\1oerzz	0	1
+\b(serv|sett|show|speak|spinn|stick|subfold)ers\b	\1oerzz	0	1
+\b(tick|tow|transf|travel|trigg|webmast|work)ers\b	\1oerzz	0	1
+
+# e s: Thales, tres cubano, yes
+\b(e|f|h|j|k|n|p|r|thal|tr|v|w|x|y)es\b	\1èss	0	1
+Bes	Bess	1	2
+Ceres	Céress	1	2
+
+# e s, pluriel ou 3e personne présent anglais, ajoute le son "ze": goes, grooves, halves, pictures
+\b(go|groov|halv|hol|leav|pictur)es\b	\1zz	0	1
+
+# e s prononcé "iss": matches, switches, velocities
+\b(match|switch|velociti)es\b	\1izz	0	1
+
+# è s: Alès, Jules Vallès, Hadès...
+\b(Al|Ar|Cér|Had|Philommed|Thal|Vall|Youn)ès\b	\1èss	1	1
+
+# e t: Bastet, Sekhmet (dieux égyptiens), asset, bullet, market
+\b(ass|b|bast|brack|bull|car|castan|chars|clarin|dotn|dropl|es|extran|intran|l)et\b	\1ètt	0	1
+\b(mall|mark|po|pack|padl|po|pock|quint|r|rénénout)et\b	\1ètt	0	1
+\b(s|saf|sekhm|servl|sir|sock|subs|sups|supers|taour|w|wepwaw|wadj|y)et\b	\1ètt	0	1
+# e t s: les pluriels: assets, bullets, markets, sets
+\b(ass|brack|bull|castan|chars|clarin|dropl|extran|intran|l|mall|mark)ets\b	\1ètss	0	1
+\b(pack|padl|po|pock|quint|s|servl|sock|subs|sups|supers|w)ets\b	\1ètss	0	1
+
+# e u s: Amadeus, Coeus, Morpheus, Orpheus, Zeus
+\b(co|m?orph|prot|sminth)eus\b	\1é uss	0	1
+Amadeus	Amadéouss	0	2
+Zeus	Dzeuss	1	2
+
+# i d: Android, bid, covid, did, Farid, hid, kid, slid, solid, void
+\b(ac|andro|b|c|cov|d|far|forb|gr|h|inval|k|m|r|sl|sol|val|vo)id\b	\1ïdd	0	1
+
+# i n: admin, Austinn, bin, bitcoin, ISIN, login, sin(), skin, thin, win, Wisconsin
+\b(adm|aust|b|bitco|cygw|is|j|kelv|k[eé]v|log|m|not|q|s|sk|sp|t|th|tw|w|wiscons|with|y)in\b	\1ïnn	0	1
+# i n s: pluriels: admins, twins
+\b(adm|sk|sp|tw)ins\b	\1ïnnzz	0	1
+
+# i s: Artémis, Mathis, Osiris, Anubis, his basis, Joris, Tunis
+\b(analys|artém|artem|anub|bas|boop|cliv|ér|er|glaukop|h|is|jor)is\b	\1iss	0	1
+\b(lachés|matt?h?|nemorens|osir|stas|stellant|subpunct|thém|triumphal|tun|ul|wall)is\b	\1iss	0	1
+
+# o n: Amazon, charleston, common, Elon, fashion, icon, logon, polygon, Ron
+\b(amaz|charlest|clippert|comm|dalt|el|epsil|fashi|hexag|ic|ivarepsil)on\b	\1onn	0	1
+\b(lexic|log|nix|nort|oct[ao]g|pentag|perfm|polyg|r|silic|upsil|v|varepsil|wats|w)on\b	\1onn	0	1
+# o n s: pluriels: commons, fashions, hexagons, icons
+\b(comm|fashi|hexag|ic|lexic|log|octog|pentag|polyg|silic)ons\b	\1onnzz	0	1
+
+# o n g: Armstrong, majong, Mékong, song
+\b(armstr|d|g|m|maj|k|mék|mek|p|q|s|str|t|v|w)ong\b	\1ongg	0	1
+
+# o s: Hélios, matos, Naxos, Mykonos, Galapagos, tacos
+\b(al[oó]niss?|amorg|andr|ant[ií]par|arei|atrop|ascl[eé]pi|bacch|chi|chthoni|ch?ron|cri)[oó]s\b	\1ôss	0	1
+\b(d[eé]l|d[eé]im|delphini|dionys|é|e|enyali|ér|er|folegandr|gal[aá]pag|gal[eé]och|gavd)[oó]s\b	\1ôss	0	1
+\b(h[eé]li|h[eé]pha[iï]st|hypn|i|iacch|k|kalymn|karpath|k[aá]ss?|kerb[eé]r|kimol|kriophor)[oó]s\b	\1ôss	0	1
+\b(l[eií]mn|l[eé]r|l[eé]s[bv]|leuk[oô]len|lys|mat|melichi|mil|mykon|nax|nik|n[ií]ss?yr)[oó]s\b	\1ôss	0	1
+\b(ouran|pandem|par|parth[eé]n|p[aá]tm|pax|phaïst|phar|phob|phoib|pont|por|protogon|rh?[oó]d)[oó]s\b	\1ôss	0	1
+\b(sam|s[eé]rif|sifn|s[ií]kin|ski[aá]th|sk[oó]pel|skyr|syrt?)[oó]s\b	\1ôss	0	1
+\b(tac|thanat|thass?|thesmopho|thymi|t[ií]l|tin|x[eé]ni|z[aá]kynth)[oó]s\b	\1ôss	0	1
+
+# o s (o ouvert): acos(), bios, cos(), Laos
+\b(ac|bi|land|la)os\b	\1oss	0	1
+
+# u s: antivirus, Bacchus, focus, Optimus, Maximus, Dragibus
+\b(antivir|bacch|calcul|chalybei|climac|dragib|flex|flixb|foc|gradiv|hor|invict|maxim|mercuri|medic)us\b	\1uss	1	1
+\b(neptun|optim|orc|podat|porrect|quirin|resupin)us\b	\1uss	1	1
+\b(scandictemp|saturn|silvan|somn|strat|tell|temp|torcul|ven)us\b	\1uss	1	1
+
+
+
+# igrec s: dieux égyptiens, Maëlys, sys
+\b(nephth|téth|quantal|matt?h?|s)ys\b	\1yss	0	1
+\bma[eëé]lys\b	Maëlyss	0	2
+
+
+# adverbes en -ment: absolument, brutalement
+\b(absolu|actuelle|aligne|assuré|brillam|calme|claire|couram|douce|énormé|facile)ment\b	\1mant	0	1
+\b(bruyam|brutale|bête|chaotique|chaleureuse|charnelle|chimique|civile|coûteuse|commodé|communé)ment\b	\1mant	0	1
+\b(complète|concrète|confuse|consciencieuse|constam|continuelle|convenable|correcte)ment\b	\1mant	0	1
+\b(courageuse|courtoise|cruelle|curieuse|dangereuse|débile|délicate|délicieuse)ment\b	\1mant	0	1
+\b(drole|durable|éblouissam|efficace|égoïste|élégam|énergique|énormé|entière|enthousiasté|équitable)ment\b	\1mant	0	1
+\b(démocratique|désespéré|difficile|digne|directe|discrète|distincte|divine|douloureuse)ment\b	\1mant	0	1
+\b(essentielle|éternelle|étrange|étroite|éventuelle|exacte|exceptionnelle|excessive)ment\b	\1mant	0	1
+\b(exclusive|expressé|extraordinaire|extrême|fâcheuse|fausse|féroce|fière)ment\b	\1mant	0	1
+\b(finale|franche|générale||heureuse|immédiate|intensé|large|légère|lente|naturelle|normale)ment\b	\1mant	0	1
+\b(fine|firme|folle|formelle|forte|fougueuse|frénétique|froide|furieuse|générale|)ment\b	\1mant	0	1
+\b(généreuse|genti|globale|gracieuse|grande|graveleuse|griève|grossière|habile|harmonieuse|hâtive|honnête)ment\b	\1mant	0	1
+\b(horizontale|horrible|humble|idéale|illégale|illogique|immensé|immodéré|impitoyable|inévitable|infini|initiale)ment\b	\1mant	0	1
+\b(instantané|intensé|intentionnelle|intéressam|intime|intrigam|involontaire|irrémédiable|irrésistible|irrégulière|irrévocable)ment\b	\1mant	0	1
+\b(joyeuse|judicieuse|juste|laborieuse|légale|libre|logique|loyale|lumineuse|magnifique)ment\b	\1mant	0	1
+\b(malencontreuse|malhonnête|maligne|manifeste|matérielle|mathématique|mécham|médiocre|mélancolique|mémorable)ment\b	\1mant	0	1
+\b(méticuleuse|modeste|molle|mo|morale|mortelle|mystérieuse|naïve|nécessaire|négative|nerveuse|noble)ment\b	\1mant	0	1
+\b(notoire|officielle|opportuné|ordinaire|orgueilleuse|originale|outrageuse|paisible|partielle|passionné|parfaite)ment\b	\1mant	0	1
+\b(parfaite|particulière|poli|rapide|réelle|régulière|simple|sincère|soudaine|totale)ment\b	\1mant	0	1
+\b(positive|possible|précisé|présomptueuse|probable|propre|pudique|puissam|pure)ment\b	\1mant	0	1
+\b(pénible|périodique|personnelle|physique|piètre|pittoresque|placide|plaisam|plate)ment\b	\1mant	0	1
+\b(rare|relative|religieuse|résolu|respectueuse|rigoureuse|ronde|royale|rude|sadique|sainte|sale)ment\b	\1mant	0	1
+\b(savam|savoureuse|scrupuleuse|secrète|séduisam|sensible|sérieuse|sévère|singulière|sourde|souveraine|spéciale|spontané)ment\b	\1mant	0	1
+\b(stricte|stupéfiam|subtile|suffisam|sûre|tendre|ténébreuse|terne|timide|tragique|traîtreuse|tranquille)ment\b	\1mant	0	1
+\b(triomphale|triviale|typique|unanime|)ment\b	\1mant	0	1
+\b(vrai|adroite|agréable|ample|amère|amoureuse|approximative|artificielle|aveuglé|badine|bizarre|briève)ment\b	\1mant	0	1
+
+# adverbes en -emment: ardemment, évidemment
+\b(ard|appar|différ|évid|fréqu|impati|imprud|pati|prud|sci)emment\b	\1amant	0	1
