@@ -13,6 +13,8 @@ NVDA speech and symbols dictionnaries, focused on French language, using IBMTTS 
   * diacritics,
   * replacements of Unicode letters and numbers,
   * repeated leading zeros.
+Be careful, the punctuation mode set to all may pronounce extra comma that are not existing. These comma are used for separating groups for IBAN, ISO date format, and tabs.
+
 
 # Dictionnaire de prononciation des mots et symboles pour NVDA
 
@@ -97,7 +99,7 @@ Instructions pour télécharger, installer et utiliser IBMTTS :
 8. Paramétrez à votre guise la voix, le débbit. La voix Glen est la plus couramment utilisée.
 9. Décochez "Activer l'extension des abbréviations"
 10. Décochez "Changement automatique de langue". En effet, si cela s'avère intéressant sur le papier, il faut savoir que beaucoup de sites sont mal codés et indiquent langue anglaise alors que le contenu est en français, et à l'opposé, des logiciels en anglais n'indiqueront jamais qu'ils sont en anglais. On va donc rester en français, des raccourcis permettent de changer de langue, et on va alimenter le dictionnaire pour que les mots les plus fréquents en anglais soient à peu près prononcés correctement, "with a French accent, oeuf corse!"
-11. Niveau de ponctuations et symboles : "quelques uns".
+11. Niveau de ponctuations et symboles : "quelques uns" ou la plupart. Attention, le mode "toutes les ponctuations" pourrait prononcer des virgules inexistantes dans le texte. Ces virgules sont utilisées pour restituer le découpage d'un IBAN, d'un n° de sécurité sociale française, de tabulations, de dates au format ISO.
 
 
 ## Comment utiliser mes fichiers ?
@@ -134,6 +136,7 @@ J'ai découpé mon fichier `default.dic` en plusieurs sections, ainsi vous pouve
 |[08 diacritics.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/08%20diacritics.dic)|Des caractères Latin-1 et -Latin-2 étendus, avec des accents, caron, hatchek, cédille... Lorsqu'ils sont isolés, ils sont prononcés (par exemple S cédille), lorsqu'on se déplace par caractère, il est possible que le mot cédille soit épelé.<br>Lorsqu'ils sont dans un mot, certains caractères sont transformés lorsque leur prononciation est constante. Le ñ (n tilde) espagnol (au détriment du breton), le ã (a tilde) portugais, le č (c hatchek) des langues slaves transformé en tch.|
 |[09 A-Z variantes.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/09%20A-Z%20variantes.dic)|Des outils permettent de formatter du texte en gras, italique, script, en utilisant des caractères mathématiques, pour poster sur les réseaux sociaux.<br />Ces règles les transforment en caractères latins pour être prononcés correctement.|
 |[10 Numbers.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/10%20Numbers.dic)|<ul><li>Variantes Unicode de nombres (0 à 10) stylés ou encerclés,</li><li>prononciation des mots contenant un nombre  : `Download01.pdf`, `input3`,</li><li>Découpage intelligent des n° SIRET et Sécurité Sociale non formatés,</li><li>Zéros initiaux simplifiés : `0000045`, `0x000F100`,</li><li>`-` prononcé moins dans les soustractions simples.</li></ul>|
+|[11 terminaisons.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/11%20terminaisons.dic)|Rationnalisation en expressions régulières, des corrections de prononciations de mots ayant les mêmes terminaisons. Par exemple : alter et Lucifer, better et bigger, adverbes en -ment...|
 |[fr.dic](https://github.com/iubito/nvda-fr-dictionnaries/blob/main/speechdicts/fr.dic)|La liste principale du dictionnaire, trié par ordre alphabétique.|
 
 Faites-en bon usage ! ☺
