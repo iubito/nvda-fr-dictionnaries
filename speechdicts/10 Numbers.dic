@@ -5,17 +5,27 @@
 #❶❷❸ -> 123 -> 1 2 3
 #espace ajouté après la transformation pour séparer chaque chiffre
 #Note the space after the definition, to separate numbers
-[𜳰]	0 	1	1
-[𜳱❶➀➊]	1 	1	1
-[𜳲❷➁➋]	2 	1	1
-[𜳳❸➂➌]	3 	1	1
-[𜳴❹➃➍]	4 	1	1
-[𜳵❺➄➎]	5 	1	1
-[𜳶❻➅➏]	6 	1	1
-[𜳷❼➆➐]	7 	1	1
-[𜳸❽➇➑]	8 	1	1
-[𜳹❾➈➒]	9 	1	1
-[❿➉➓]	10 	1	1
+[𜳰⓿０]	0 	1	1
+[𜳱❶➀➊⓵１]	1 	1	1
+[𜳲❷➁➋⓶２]	2 	1	1
+[𜳳❸➂➌⓷３]	3 	1	1
+[𜳴❹➃➍⓸４]	4 	1	1
+[𜳵❺➄➎⓹５]	5 	1	1
+[𜳶❻➅➏⓺６]	6 	1	1
+[𜳷❼➆➐⓻７]	7 	1	1
+[𜳸❽➇➑⓼８]	8 	1	1
+[𜳹❾➈➒⓽９]	9 	1	1
+[❿➉➓⓾]	10 	1	1
+[⓫]	11 	1	1
+[⓬]	12 	1	1
+[⓭]	13 	1	1
+[⓮]	14 	1	1
+[⓯]	15 	1	1
+[⓰]	16 	1	1
+[⓱]	17 	1	1
+[⓲]	18 	1	1
+[⓳]	19 	1	1
+[⓴]	20 	1	1
 # @todo https://www.fileformat.info/info/unicode/category/Nd/list.htm
 
 
@@ -58,39 +68,41 @@
 # 3+ zéros répétés en tête ou début décimales en programmation (point décimal), ne marche pas avec virgule décimale:
 # par extension, en début de mot
 # 000, 00012, 1.00012, 2,000025, .000000056, 0000M, 0x000F
-\b(?<!,)(0x)?00000000000000000000000000000000(\w*)\b	\1 trentdeux zéro \2	1	1
-\b(?<!,)(0x)?0000000000000000000000000000000(\w*)\b	\1 trentéun zéro \2	1	1
-\b(?<!,)(0x)?000000000000000000000000000000(\w*)\b	\1 trente zéro \2	1	1
-\b(?<!,)(0x)?00000000000000000000000000000(\w*)\b	\1 vintneuf zéro \2	1	1
-\b(?<!,)(0x)?0000000000000000000000000000(\w*)\b	\1 vintuitt zéro \2	1	1
-\b(?<!,)(0x)?000000000000000000000000000(\w*)\b	\1 vintsètt zéro \2	1	1
-\b(?<!,)(0x)?00000000000000000000000000(\w*)\b	\1 vintsiss zéro \2	1	1
-\b(?<!,)(0x)?0000000000000000000000000(\w*)\b	\1 vintcinq zéro \2	1	1
-\b(?<!,)(0x)?000000000000000000000000(\w*)\b	\1 vintcatre zéro \2	1	1
-\b(?<!,)(0x)?00000000000000000000000(\w*)\b	\1 vintt trois zéro \2	1	1
-\b(?<!,)(0x)?0000000000000000000000(\w*)\b	\1 vintdeux zéro \2	1	1
-\b(?<!,)(0x)?000000000000000000000(\w*)\b	\1 vintéun zéro \2	1	1
-\b(?<!,)(0x)?00000000000000000000(\w*)\b	\1 vingt zéro \2	1	1
-\b(?<!,)(0x)?0000000000000000000(\w*)\b	\1 dizneuf zéro \2	1	1
-\b(?<!,)(0x)?000000000000000000(\w*)\b	\1 dizuitt zéro \2	1	1
-\b(?<!,)(0x)?00000000000000000(\w*)\b	\1 dissètt zéro \2	1	1
-\b(?<!,)(0x)?0000000000000000(\w*)\b	\1 seize zéro \2	1	1
-\b(?<!,)(0x)?000000000000000(\w*)\b	\1 quinze zéro \2	1	1
-\b(?<!,)(0x)?00000000000000(\w*)\b	\1 quatorze zéro \2	1	1
-\b(?<!,)(0x)?0000000000000(\w*)\b	\1 treize zéro \2	1	1
-\b(?<!,)(0x)?000000000000(\w*)\b	\1 douze zéro \2	1	1
-\b(?<!,)(0x)?00000000000(\w*)\b	\1 onze zéro \2	1	1
-\b(?<!,)(0x)?0000000000(\w*)\b	\1 diss zéro \2	1	1
-\b(?<!,)(0x)?000000000(\w*)\b	\1 nonuple zéro \2	1	1
-\b(?<!,)(0x)?00000000(\w*)\b	\1 octuple zéro \2	1	1
-\b(?<!,)(0x)?0000000(\w*)\b	\1 heptuple zéro \2	1	1
-\b(?<!,)(0x)?000000(\w*)\b	\1 sextuple zéro \2	1	1
-\b(?<!,)(0x)?00000(\w*)\b	\1 quintuple zéro \2	1	1
+\b(?<!,)(0x)?0{32}(\w*)\b	\1 trentdeux zéro \2	1	1
+\b(?<!,)(0x)?0{31}(\w*)\b	\1 trentéun zéro \2	1	1
+\b(?<!,)(0x)?0{30}(\w*)\b	\1 trente zéro \2	1	1
+\b(?<!,)(0x)?0{29}(\w*)\b	\1 vintneuf zéro \2	1	1
+\b(?<!,)(0x)?0{28}(\w*)\b	\1 vintuitt zéro \2	1	1
+\b(?<!,)(0x)?0{27}(\w*)\b	\1 vintsètt zéro \2	1	1
+\b(?<!,)(0x)?0{26}(\w*)\b	\1 vintsiss zéro \2	1	1
+\b(?<!,)(0x)?0{25}(\w*)\b	\1 vintcinq zéro \2	1	1
+\b(?<!,)(0x)?0{24}(\w*)\b	\1 vintcatre zéro \2	1	1
+\b(?<!,)(0x)?0{23}(\w*)\b	\1 vintt trois zéro \2	1	1
+\b(?<!,)(0x)?0{22}(\w*)\b	\1 vintdeux zéro \2	1	1
+\b(?<!,)(0x)?0{21}(\w*)\b	\1 vintéun zéro \2	1	1
+\b(?<!,)(0x)?0{20}(\w*)\b	\1 vingt zéro \2	1	1
+\b(?<!,)(0x)?0{19}(\w*)\b	\1 dizneuf zéro \2	1	1
+\b(?<!,)(0x)?0{18}(\w*)\b	\1 dizuitt zéro \2	1	1
+\b(?<!,)(0x)?0{17}(\w*)\b	\1 dissètt zéro \2	1	1
+\b(?<!,)(0x)?0{16}(\w*)\b	\1 seize zéro \2	1	1
+\b(?<!,)(0x)?0{15}(\w*)\b	\1 quinze zéro \2	1	1
+\b(?<!,)(0x)?0{14}(\w*)\b	\1 quatorze zéro \2	1	1
+\b(?<!,)(0x)?0{13}(\w*)\b	\1 treize zéro \2	1	1
+\b(?<!,)(0x)?0{12}(\w*)\b	\1 douze zéro \2	1	1
+\b(?<!,)(0x)?0{11}(\w*)\b	\1 onze zéro \2	1	1
+\b(?<!,)(0x)?0{10}(\w*)\b	\1 diss zéro \2	1	1
+\b(?<!,)(0x)?0{9}(\w*)\b	\1 nonuple zéro \2	1	1
+\b(?<!,)(0x)?0{8}(\w*)\b	\1 octuple zéro \2	1	1
+\b(?<!,)(0x)?0{7}(\w*)\b	\1 heptuple zéro \2	1	1
+\b(?<!,)(0x)?0{6}(\w*)\b	\1 sextuple zéro \2	1	1
+\b(?<!,)(0x)?0{5}(\w*)\b	\1 quintuple zéro \2	1	1
 
 # N° SIRET : 12345678900012
 \b(\d{3})(\d{3})(\d{3})(\d{5})\b	\1, \2, \3, \4	1	1
 
-\b(?<!,)(0x)?0000(\w*)\b	\1 quadruple zéro \2	1	1
+\b(?<!,)(0x)?0{4}(\w*)\b	\1 quadruple zéro \2	1	1
 #... sauf devant symbole monétaire
-\b(?<!,)(0x)?000(\w*)(?! ?[%€$£¤¥¢₡₢₣₤₥₦₧₨₩₪₫₭₮₯₰₱₲₳₴₵₶₷₸₹])\b	\1 triple zéro \2	1	1
+# \b(?<!,)(0x)?000(\w*)(?! ?[%€$£¤¥¢₡₢₣₤₥₦₧₨₩₪₫₭₮₯₰₱₲₳₴₵₶₷₸₹])\b	\1 triple zéro \2	1	1
+# triple zéro uniquement si suivi d'un caractère immédiatement, sinon ça met le bazar dans "1 000 m²"
+\b(?<!,)(0x)?0{3}(\w+)\b	\1 triple zéro \2	1	1
 
