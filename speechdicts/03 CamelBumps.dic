@@ -10,10 +10,12 @@ ChatGPT	tchatt g p t	0	2
 ffmpeg	èfèfèmpègue	0	2
 IIe	deuxième	1	2
 IIIe	troisième	1	2
-IVe	quatrième	1	2
+iOS	aïoèss	1	2
 iPad	ail padd	0	2
 iPhone	ail phone	0	2
+IVe	quatrième	1	2
 IXe	neuvième	1	2
+JetBrains	Djetbrèinnzz	0	2
 LaTeX	Latex	1	2
 lilypond	lilypondd	0	2
 McAfee	macafi	0	2
@@ -80,6 +82,37 @@ XIXe	dizneuvième	1	2
 XVIe	seizième	1	2
 XVIIe	dissètième	1	2
 XVIIIe	dizuitième	1	2
+
+# repeat of 4 to 32 letter
+\b([A-Za-z])\1{31}(\w*)\b	32 \1 \2	1	1
+\b([A-Za-z])\1{30}(\w*)\b	31 \1 \2	1	1
+\b([A-Za-z])\1{29}(\w*)\b	30 \1 \2	1	1
+\b([A-Za-z])\1{28}(\w*)\b	29 \1 \2	1	1
+\b([A-Za-z])\1{27}(\w*)\b	28 \1 \2	1	1
+\b([A-Za-z])\1{26}(\w*)\b	27 \1 \2	1	1
+\b([A-Za-z])\1{25}(\w*)\b	26 \1 \2	1	1
+\b([A-Za-z])\1{24}(\w*)\b	25 \1 \2	1	1
+\b([A-Za-z])\1{23}(\w*)\b	24 \1 \2	1	1
+\b([A-Za-z])\1{22}(\w*)\b	23 \1 \2	1	1
+\b([A-Za-z])\1{21}(\w*)\b	22 \1 \2	1	1
+\b([A-Za-z])\1{20}(\w*)\b	21 \1 \2	1	1
+\b([A-Za-z])\1{19}(\w*)\b	20 \1 \2	1	1
+\b([A-Za-z])\1{18}(\w*)\b	19 \1 \2	1	1
+\b([A-Za-z])\1{17}(\w*)\b	18 \1 \2	1	1
+\b([A-Za-z])\1{16}(\w*)\b	17 \1 \2	1	1
+\b([A-Za-z])\1{15}(\w*)\b	16 \1 \2	1	1
+\b([A-Za-z])\1{14}(\w*)\b	15 \1 \2	1	1
+\b([A-Za-z])\1{13}(\w*)\b	14 \1 \2	1	1
+\b([A-Za-z])\1{12}(\w*)\b	13 \1 \2	1	1
+\b([A-Za-z])\1{11}(\w*)\b	12 \1 \2	1	1
+\b([A-Za-z])\1{10}(\w*)\b	11 \1 \2	1	1
+\b([A-Za-z])\1{9}(\w*)\b	10 \1 \2	1	1
+\b([A-Za-z])\1{8}(\w*)\b	nonuple \1 \2	1	1
+\b([A-Za-z])\1{7}(\w*)\b	octuple \1 \2	1	1
+\b([A-Za-z])\1{6}(\w*)\b	heptuple \1 \2	1	1
+\b([A-Za-z])\1{5}(\w*)\b	sextuple \1 \2	1	1
+\b([A-Za-z])\1{4}(\w*)\b	quintuple \1 \2	1	1
+\b([A-Za-z])\1{3}(\w*)\b	quadruple \1 \2	1	1
 
 #Now, the CamelBumps
 #getAbc, getABC, getHTML, getHTMLCode  
