@@ -1,137 +1,137 @@
 symbols:
-==	icoualss	none	never	# ==
-!=	noticoualss	none	never	# !=
+==	icoualss	none	never
+!=	noticoualss	none	never
 ?	-	most
 /	slash
 \\	backslash	most
-//	double slash	none	never	# //
+//	double slash	none	never
 ±	-	none
-♭	bémol	none	never	# ♭
+♭	bémol	none	never
 <	-	none
 >	-	none
 =	-	none
->=	Supérieur ou égal	none	never	# >=
-<=	Inférieur ou égal	none	never	# <=
-()	parenthèses gauche droite	none	never	# ()
-{}	accolades gauche droite	none	never	# {}
-[]	crochets gauche droit	none	never	# []
-""	chaîne vide	none	never	# ""
-||	or	none	never	# ||
-&&	anndd	none	never	# &&
-===	stricticoualss	none	never	# ===
-!==	notstricticoualss	none	never	# !==
-/**	javadoc:	none	never	# /**
-♯	dièse	none	never	# ♯
-♮	bécarre	none	never	# ♮
-"""	chaîne multiligne	none	never	# """
-ɐ	a culbuté	none	never	# ɐ
-ɑ	alpha latin	none	never	# ɑ
-ɒ	alpha latin culbuté	none	never	# ɒ
-ɔ	o ouvert	none	never	# ɔ
-ɘ	e réfléchi	none	never	# ɘ
-ə	schwa	all	never	# ə
-ɛ	èpsilonn latin	none	never	# ɛ
-ɜ	èpsilonn latin réfléchi	none	never	# ɜ
-ɞ	èpsilonn latin fermé	none	never	# ɞ
-ɤ	petit gamma	none	never	# ɤ
-ɨ	i barré	none	never	# ɨ
-ɪ	petite capitale I	none	never	# ɪ
-ɯ	m culbuté	none	never	# ɯ
-ɵ	o barré horizontalement	none	never	# ɵ
-ɶ	petite capitale o e	none	never	# ɶ
-ʉ	u barré	none	never	# ʉ
-ʊ	upsilonnn latin	none	never	# ʊ
-ʌ	v culbuté	none	never	# ʌ
-ʏ	petite capitale igrek	none	never	# ʏ
-ẽ	e tilde	none	never	# ẽ
-ʰ	h en exposant	none	never	# ʰ
-ʲ	j en exposant	none	never	# ʲ
-ʷ	w en exposant	none	never	# ʷ
-ˌ	accent tonique secondaire	none	never	# ˌ
-˞	crochet de rhotacisme	none	never	# ˞
-ˠ	gamma en exposant	none	never	# ˠ
-ˡ	l en exposant	none	never	# ˡ
-ˤ	coup de glotte réfléchi	none	never	# ˤ
-̘	taquet gauche	none	never	# ̘
-̙	taquet droit	none	never	# ̙
-̚	angle gauche en chef	none	never	# ̚
-̜	demi-rond gauche souscrit	none	never	# ̜
-̝	taquet haut	none	never	# ̝
-̞	taquet bas	none	never	# ̞
-̟	pluss souscrit	none	never	# ̟
-̠	moins souscrit	none	never	# ̠
-̤	tréma souscrit	none	never	# ̤
-̥	rond souscrit	none	never	# ̥
-̩	ligne verticale souscrite	none	never	# ̩
-̪	pontet souscrit	none	never	# ̪
-̬	caron	none	never	# ̬
-̯	brève inversée souscrite	none	never	# ̯
-̰	tilde souscrit	none	never	# ̰
-̴	tilde couvrant	none	never	# ̴
-̹	demi-rond droit souscrit	none	never	# ̹
-̺	pontet renversé souscrit	none	never	# ̺
-̼	mouette souscrite	none	never	# ̼
-̽	x en chef	none	never	# ̽
-ħ	h barré	none	never	# ħ
-ŋ	enngg	none	never	# ŋ
-ǁ	double barre verticale	none	never	# ǁ
-ǂ	barre verticale doublement barrée	none	never	# ǂ
-ǃ	point d'exclamation	none	never	# ǃ
-ɓ	b crosse	none	never	# ɓ
-ɕ	cé bouclé	none	never	# ɕ
-ɖ	d hameçon rétroflexe	none	never	# ɖ
-ɗ	d crosse	none	never	# ɗ
-ɟ	f culbuté	none	never	# ɟ
-ʝ	j bouclé	none	never	# ʝ
-ɠ	g crosse	none	never	# ɠ
-ɢ	petite capitale Gé	none	never	# ɢ
-ɣ	gamma latin	none	never	# ɣ
-ɥ	h culbuté	none	never	# ɥ
-ɦ	h crosse	none	never	# ɦ
-ɧ	henngg crosse	none	never	# ɧ
-ɫ	l tilde inscrit	none	never	# ɫ
-ɬ	l sanglé	none	never	# ɬ
-ɭ	l crochet rétroflexe	none	never	# ɭ
-ɮ	lejj	none	never	# ɮ
-ɰ	m culbuté à long fût	none	never	# ɰ
-ɱ	m hameçon	none	never	# ɱ
-̊	rond en chef	none	never	# ̊
-ɲ	n hameçon à gauche	none	never	# ɲ
-ɳ	n crochet rétroflexe	none	never	# ɳ
-ɴ	petite capitale N	none	never	# ɴ
-ɸ	phi latin	none	never	# ɸ
-ɹ	r culbuté	none	never	# ɹ
-ɺ	r prolongé culbuté	none	never	# ɺ
-ɻ	r culbuté rétroflexe	none	never	# ɻ
-ɽ	r hameçon	none	never	# ɽ
-ɾ	r sans obit	none	never	# ɾ
-ʀ	petite capitale R	none	never	# ʀ
-ʁ	petite capitale R renversée	none	never	# ʁ
-ʂ	s crochet rétroflexe	none	never	# ʂ
-ʃ	èche	none	never	# ʃ
-ʄ	f crosse culbuté	none	never	# ʄ
-ʈ	t hameçon	none	never	# ʈ
-ʈ͡	t hameçon rétroflexe	none	never	# ʈ͡
-ʋ	v crosse	none	never	# ʋ
-ʍ	w culbuté	none	never	# ʍ
-ʎ	igrec culbuté	none	never	# ʎ
-ʐ	z crochet rétroflexe	none	never	# ʐ
-ʑ	z bouclé	none	never	# ʑ
-ʒ	èje	none	never	# ʒ
-ʔ	coup de glotte	none	never	# ʔ
-ʕ	coup de glotte réfléchi	none	never	# ʕ
-ʘ	clic bilabial	none	never	# ʘ
-ʙ	petite capitale B	none	never	# ʙ
-ʛ	petite capitale G crosse	none	never	# ʛ
-ʜ	petite capitale H	none	never	# ʜ
-ʟ	petite capitale L	none	never	# ʟ
-ʡ	coup de glotte barré	none	never	# ʡ
-ʢ	coup de glotte barré réfléchi	none	never	# ʢ
-ⱱ	v crosse	none	never	# ⱱ
-ː	chrone	none	never	# ː
-ˑ	demi-chrone	none	never	# ˑ
-ᵿ	upsilonn latin barré	none	never	# ᵿ
-~=	noticoualss	none	never	# ~=
+>=	Supérieur ou égal	none	never
+<=	Inférieur ou égal	none	never
+()	parenthèses gauche droite	none	never
+{}	accolades gauche droite	none	never
+[]	crochets gauche droit	none	never
+""	chaîne vide	none	never
+||	or	none	never
+&&	anndd	none	never
+===	stricticoualss	none	never
+!==	notstricticoualss	none	never
+/**	javadoc:	none	never
+♯	dièse	none	never
+♮	bécarre	none	never
+"""	chaîne multiligne	none	never
+ɐ	a culbuté	none	never
+ɑ	alpha latin	none	never
+ɒ	alpha latin culbuté	none	never
+ɔ	o ouvert	none	never
+ɘ	e réfléchi	none	never
+ə	schwa	all	never
+ɛ	èpsilonn latin	none	never
+ɜ	èpsilonn latin réfléchi	none	never
+ɞ	èpsilonn latin fermé	none	never
+ɤ	petit gamma	none	never
+ɨ	i barré	none	never
+ɪ	petite capitale I	none	never
+ɯ	m culbuté	none	never
+ɵ	o barré horizontalement	none	never
+ɶ	petite capitale o e	none	never
+ʉ	u barré	none	never
+ʊ	upsilonnn latin	none	never
+ʌ	v culbuté	none	never
+ʏ	petite capitale igrek	none	never
+ẽ	e tilde	none	never
+ʰ	h en exposant	none	never
+ʲ	j en exposant	none	never
+ʷ	w en exposant	none	never
+ˌ	accent tonique secondaire	none	never
+˞	crochet de rhotacisme	none	never
+ˠ	gamma en exposant	none	never
+ˡ	l en exposant	none	never
+ˤ	coup de glotte réfléchi	none	never
+̘	taquet gauche	none	never
+̙	taquet droit	none	never
+̚	angle gauche en chef	none	never
+̜	demi-rond gauche souscrit	none	never
+̝	taquet haut	none	never
+̞	taquet bas	none	never
+̟	pluss souscrit	none	never
+̠	moins souscrit	none	never
+̤	tréma souscrit	none	never
+̥	rond souscrit	none	never
+̩	ligne verticale souscrite	none	never
+̪	pontet souscrit	none	never
+̬	caron	none	never
+̯	brève inversée souscrite	none	never
+̰	tilde souscrit	none	never
+̴	tilde couvrant	none	never
+̹	demi-rond droit souscrit	none	never
+̺	pontet renversé souscrit	none	never
+̼	mouette souscrite	none	never
+̽	x en chef	none	never
+ħ	h barré	none	never
+ŋ	enngg	none	never
+ǁ	double barre verticale	none	never
+ǂ	barre verticale doublement barrée	none	never
+ǃ	point d'exclamation	none	never
+ɓ	b crosse	none	never
+ɕ	cé bouclé	none	never
+ɖ	d hameçon rétroflexe	none	never
+ɗ	d crosse	none	never
+ɟ	f culbuté	none	never
+ʝ	j bouclé	none	never
+ɠ	g crosse	none	never
+ɢ	petite capitale Gé	none	never
+ɣ	gamma latin	none	never
+ɥ	h culbuté	none	never
+ɦ	h crosse	none	never
+ɧ	henngg crosse	none	never
+ɫ	l tilde inscrit	none	never
+ɬ	l sanglé	none	never
+ɭ	l crochet rétroflexe	none	never
+ɮ	lejj	none	never
+ɰ	m culbuté à long fût	none	never
+ɱ	m hameçon	none	never
+̊	rond en chef	none	never
+ɲ	n hameçon à gauche	none	never
+ɳ	n crochet rétroflexe	none	never
+ɴ	petite capitale N	none	never
+ɸ	phi latin	none	never
+ɹ	r culbuté	none	never
+ɺ	r prolongé culbuté	none	never
+ɻ	r culbuté rétroflexe	none	never
+ɽ	r hameçon	none	never
+ɾ	r sans obit	none	never
+ʀ	petite capitale R	none	never
+ʁ	petite capitale R renversée	none	never
+ʂ	s crochet rétroflexe	none	never
+ʃ	èche	none	never
+ʄ	f crosse culbuté	none	never
+ʈ	t hameçon	none	never
+ʈ͡	t hameçon rétroflexe	none	never
+ʋ	v crosse	none	never
+ʍ	w culbuté	none	never
+ʎ	igrec culbuté	none	never
+ʐ	z crochet rétroflexe	none	never
+ʑ	z bouclé	none	never
+ʒ	èje	none	never
+ʔ	coup de glotte	none	never
+ʕ	coup de glotte réfléchi	none	never
+ʘ	clic bilabial	none	never
+ʙ	petite capitale B	none	never
+ʛ	petite capitale G crosse	none	never
+ʜ	petite capitale H	none	never
+ʟ	petite capitale L	none	never
+ʡ	coup de glotte barré	none	never
+ʢ	coup de glotte barré réfléchi	none	never
+ⱱ	v crosse	none	never
+ː	chrone	none	never
+ˑ	demi-chrone	none	never
+ᵿ	upsilonn latin barré	none	never
+~=	noticoualss	none	never
 🇦🇽	drapeau Îles Ålandd
 🇧🇭	drapeau Bahraïnn
 🇨🇰	drapeau Îles Couk
@@ -156,135 +156,134 @@ symbols:
 🇼🇫	drapeau Walliss-et-Futuna
 🇾🇪	drapeau Yémènn
 🇿🇼	drapeau Zimmbabwé
-А	A majuscule cyrilik	none	never	# А
-а	a cyrilik	none	never	# а
-Б	Bé majuscule cyrilik	none	never	# Б
-б	bé cyrilik	none	never	# б
-В	Vé majuscule cyrilik	none	never	# В
-в	vé cyrilik	none	never	# в
-Г	Gué majuscule  cyrilik	none	never	# Г
-г	gué cyrilik	none	never	# г
-Ґ	Gué hampé majuscule cyrilik	none	never	# Ґ
-ґ	gué hampé cyrilik	none	never	# ґ
-Д	Dé majuscule cyrilik	none	never	# Д
-д	dé cyrilik	none	never	# д
-Є	Ié majuscule ukrainien	none	never	# Є
-є	ié ukrainien	none	never	# є
-Е	Yé majuscule cyrilik	none	never	# Е
-е	yé cyrilik	none	never	# е
-Ж	Jé majuscule cyrilik	none	never	# Ж
-ж	jé cyrilik	none	never	# ж
-Ѕ	Dzé majuscule cyrilik	none	never	# Ѕ
-ѕ	dzé cyrilik	none	never	# ѕ
-Ꚃ	dzwé majuscule cyrilik	none	never	# Ꚃ
-ꚃ	dzwé cyrilik	none	never	# ꚃ
-Ꙃ	dzélo majuscule  cyrilik	none	never	# Ꙃ
-ꙃ	dzélo cyrilik	none	never	# ꙃ
-З	Zé majuscule cyrilik	none	never	# З
-з	zé cyrilik	none	never	# з
-Ꙁ	zèmlia majuscule cyrilik	none	never	# Ꙁ
-ꙁ	zèmmlia cyrilik	none	never	# ꙁ
-И	I majuscule cyrilik	none	never	# И
-и	i cyrilik	none	never	# и
-І	I majuscule ukrainien	none	never	# І
-і	i ukrainien	none	never	# і
-Ї	I tréma majuscule ukrainien	none	never	# Ї
-ї	i tréma ukrainien	none	never	# ї
-К	Ka majuscule cyrilik	none	never	# К
-к	ka cyrilik	none	never	# к
-Л	El majuscule cyrilik	none	never	# Л
-л	el cyrilik	none	never	# л
-М	èm majuscule cyrilik	none	never	# М
-м	èm cyrilik	none	never	# м
-Н	èn majuscule cyrilik	none	never	# Н
-н	èn cyrilik	none	never	# н
-О	O majuscule cyrilik	none	never	# О
-о	o cyrilik	none	never	# о
-П	Pé majuscule cyrilik	none	never	# П
-п	pé cyrilik	none	never	# п
-Р	erre majuscule cyrilik	none	never	# Р
-р	erre cyrilik	none	never	# р
-С	esse majuscule cyrilik	none	never	# С
-с	esse cyrilik	none	never	# с
-Т	Té majuscule cyrilik	none	never	# Т
-т	té cyrilik	none	never	# т
-Ѹ	ouk majuscule cyrillik	none	never	# Ѹ
-ѹ	ouk cyrilik	none	never	# ѹ
-У	ou majuscule cyrilik	none	never	# У
-у	ou cyrilik	none	never	# у
-Ф	effe majuscule cyrilik	none	never	# Ф
-ф	effe cyrilik	none	never	# ф
-Ѳ	Fita majuscule cyrilik	none	never	# Ѳ
-ѳ	fita cyrilik	none	never	# ѳ
-Х	KH majuscule cyrilik	none	never	# Х
-х	kh cyrilik	none	never	# х
-Ѡ	Oméga majuscule cyrilik	none	never	# Ѡ
-ѡ	oméga cyrilik	none	never	# ѡ
-Ц	Tsé majuscule cyrilik	none	never	# Ц
-ц	tsé cyrilik	none	never	# ц
-Ч	Tché majuscule cyrilik	none	never	# Ч
-ч	tché cyrilik	none	never	# ч
-Ш	Cha majuscule cyrilik	none	never	# Ш
-ш	cha cyrilik	none	never	# ш
-Щ	che tcha  majuscule cyrilik	none	never	# Щ
-щ	che tcha cyrilik	none	never	# щ
-Ъ	yèr majuscule cyrilik	none	never	# Ъ
-ъ	yèr cyrilik	none	never	# ъ
-Ы	yèrou majuscule cyrilik	none	never	# Ы
-ы	yèrou cyrilik	none	never	# ы
-Ь 	Ziak majuscule cyrilik (signe mou)	none	never	# Ь 
-ь	ziak cyrilik (signe mou)	none	never	# ь
-Ѣ	yatt majuscule cyrilik	none	never	# Ѣ
-ѣ	yatt cyrilik	none	never	# ѣ
-ᲇ	yatt haut cyrilik	none	never	# ᲇ
-Ю	You majuscule cyrilik	none	never	# Ю
-ю	you cyrilik	none	never	# ю
-Ꙗ	A yodisé majuscule cyrilik	none	never	# Ꙗ
-ꙗ	a yodisé cyrilik	none	never	# ꙗ
-Ѥ	é yodisé majuscule cyrilik	none	never	# Ѥ
-ѥ	é yodisé cyrilik	none	never	# ѥ
-Ѧ	petit yousse majuscule cyrilik	none	never	# Ѧ
-ѧ	petit yousse cyrilik	none	never	# ѧ
-Ѫ	Grand yousse majuscule cyrilik	none	never	# Ѫ
-ѫ	grand yousse cyrilik	none	never	# ѫ
-Я	Ya majuscule cyrilik	none	never	# Я
-я	ya cyrilik	none	never	# я
-Ѩ	Petit yousse yodisé majuscule cyrilik	none	never	# Ѩ
-ѩ	petit yousse yodisé cyrilik	none	never	# ѩ
-Ѭ	grand yousse yodisé majuscule cyrilik	none	never	# Ѭ
-ѭ	grand yousse yodisé cyrilik	none	never	# ѭ
-Ѯ	Ksi majuscule cyrilik	none	never	# Ѯ
-ѯ	ksi cyrilik	none	never	# ѯ
-Ѱ	Psi majuscule cyrilik	none	never	# Ѱ
-ѱ	psi cyrilik	none	never	# ѱ
-Ѵ	Iyitsa majuscule cyrilik	none	never	# Ѵ
-ѵ	iyitsa cyrilik	none	never	# ѵ
-Ё	Yo majuscule cyrilik	none	never	# Ё
-ё	yo cyrilik	none	never	# ё
-Й	I brève majuscule cyrilik	none	never	# Й
-й	i brève cyrilik	none	never	# й
-Э	é majuscule cyrilik	none	never	# Э
-э	é cyrilik	none	never	# э
-Ђ	Dié majuscule cyrilik	none	never	# Ђ
-ђ	dié cyrilik	none	never	# ђ
-Ј	Yé majuscule cyrilik	none	never	# Ј
-ј	yé cyrilik	none	never	# ј
-Љ	Lié majuscule cyrilik	none	never	# Љ
-љ	lié cyrilik	none	never	# љ
-Њ	Nié majuscule cyrilik	none	never	# Њ
-њ	nié cyrilik	none	never	# њ
-Ћ	Tié majuscule cyrilik	none	never	# Ћ
-ћ	tié cyrilik	none	never	# ћ
-Џ	Djé majuscule cyrilik	none	never	# Џ
-џ	djé cyrilik	none	never	# џ
-Ѓ	Guié majuscule cyrilik	none	never	# Ѓ
-ѓ	guié cyrilik	none	never	# ѓ
-Ќ	Kié majuscule cyrilik	none	never	# Ќ
-ќ	kié cyrilik	none	never	# ќ
-Ѐ	Yé grave majuscule cyrilik	none	never	# Ѐ
-ѐ	yé grave cyrilik	none	never	# ѐ
-Ѝ	I grave majuscule cyrilik	none	never	# Ѝ
-ѝ	i grave cyrilik	none	never	# ѝ
+А	A majuscule cyrilik	none	never
+а	a cyrilik	none	never
+Б	Bé majuscule cyrilik	none	never
+б	bé cyrilik	none	never
+В	Vé majuscule cyrilik	none	never
+в	vé cyrilik	none	never
+Г	Gué majuscule  cyrilik	none	never
+г	gué cyrilik	none	never
+Ґ	Gué hampé majuscule cyrilik	none	never
+ґ	gué hampé cyrilik	none	never
+Д	Dé majuscule cyrilik	none	never
+д	dé cyrilik	none	never
+Є	Ié majuscule ukrainien	none	never
+є	ié ukrainien	none	never
+Е	Yé majuscule cyrilik	none	never
+е	yé cyrilik	none	never
+Ж	Jé majuscule cyrilik	none	never
+ж	jé cyrilik	none	never
+Ѕ	Dzé majuscule cyrilik	none	never
+ѕ	dzé cyrilik	none	never
+Ꚃ	dzwé majuscule cyrilik	none	never
+ꚃ	dzwé cyrilik	none	never
+Ꙃ	dzélo majuscule  cyrilik	none	never
+ꙃ	dzélo cyrilik	none	never
+З	Zé majuscule cyrilik	none	never
+з	zé cyrilik	none	never
+Ꙁ	zèmlia majuscule cyrilik	none	never
+ꙁ	zèmmlia cyrilik	none	never
+И	I majuscule cyrilik	none	never
+и	i cyrilik	none	never
+І	I majuscule ukrainien	none	never
+і	i ukrainien	none	never
+Ї	I tréma majuscule ukrainien	none	never
+ї	i tréma ukrainien	none	never
+К	Ka majuscule cyrilik	none	never
+к	ka cyrilik	none	never
+Л	El majuscule cyrilik	none	never
+л	el cyrilik	none	never
+М	èm majuscule cyrilik	none	never
+м	èm cyrilik	none	never
+Н	èn majuscule cyrilik	none	never
+н	èn cyrilik	none	never
+О	O majuscule cyrilik	none	never
+о	o cyrilik	none	never
+П	Pé majuscule cyrilik	none	never
+п	pé cyrilik	none	never
+Р	erre majuscule cyrilik	none	never
+р	erre cyrilik	none	never
+С	esse majuscule cyrilik	none	never
+с	esse cyrilik	none	never
+Т	Té majuscule cyrilik	none	never
+т	té cyrilik	none	never
+Ѹ	ouk majuscule cyrillik	none	never
+ѹ	ouk cyrilik	none	never
+У	ou majuscule cyrilik	none	never
+у	ou cyrilik	none	never
+Ф	effe majuscule cyrilik	none	never
+ф	effe cyrilik	none	never
+Ѳ	Fita majuscule cyrilik	none	never
+ѳ	fita cyrilik	none	never
+Х	KH majuscule cyrilik	none	never
+х	kh cyrilik	none	never
+Ѡ	Oméga majuscule cyrilik	none	never
+ѡ	oméga cyrilik	none	never
+Ц	Tsé majuscule cyrilik	none	never
+ц	tsé cyrilik	none	never
+Ч	Tché majuscule cyrilik	none	never
+ч	tché cyrilik	none	never
+Ш	Cha majuscule cyrilik	none	never
+ш	cha cyrilik	none	never
+Щ	che tcha  majuscule cyrilik	none	never
+щ	che tcha cyrilik	none	never
+Ъ	yèr majuscule cyrilik	none	never
+ъ	yèr cyrilik	none	never
+Ы	yèrou majuscule cyrilik	none	never
+ы	yèrou cyrilik	none	never
+ь	ziak cyrilik (signe mou)	none	never
+Ѣ	yatt majuscule cyrilik	none	never
+ѣ	yatt cyrilik	none	never
+ᲇ	yatt haut cyrilik	none	never
+Ю	You majuscule cyrilik	none	never
+ю	you cyrilik	none	never
+Ꙗ	A yodisé majuscule cyrilik	none	never
+ꙗ	a yodisé cyrilik	none	never
+Ѥ	é yodisé majuscule cyrilik	none	never
+ѥ	é yodisé cyrilik	none	never
+Ѧ	petit yousse majuscule cyrilik	none	never
+ѧ	petit yousse cyrilik	none	never
+Ѫ	Grand yousse majuscule cyrilik	none	never
+ѫ	grand yousse cyrilik	none	never
+Я	Ya majuscule cyrilik	none	never
+я	ya cyrilik	none	never
+Ѩ	Petit yousse yodisé majuscule cyrilik	none	never
+ѩ	petit yousse yodisé cyrilik	none	never
+Ѭ	grand yousse yodisé majuscule cyrilik	none	never
+ѭ	grand yousse yodisé cyrilik	none	never
+Ѯ	Ksi majuscule cyrilik	none	never
+ѯ	ksi cyrilik	none	never
+Ѱ	Psi majuscule cyrilik	none	never
+ѱ	psi cyrilik	none	never
+Ѵ	Iyitsa majuscule cyrilik	none	never
+ѵ	iyitsa cyrilik	none	never
+Ё	Yo majuscule cyrilik	none	never
+ё	yo cyrilik	none	never
+Й	I brève majuscule cyrilik	none	never
+й	i brève cyrilik	none	never
+Э	é majuscule cyrilik	none	never
+э	é cyrilik	none	never
+Ђ	Dié majuscule cyrilik	none	never
+ђ	dié cyrilik	none	never
+Ј	Yé majuscule cyrilik	none	never
+ј	yé cyrilik	none	never
+Љ	Lié majuscule cyrilik	none	never
+љ	lié cyrilik	none	never
+Њ	Nié majuscule cyrilik	none	never
+њ	nié cyrilik	none	never
+Ћ	Tié majuscule cyrilik	none	never
+ћ	tié cyrilik	none	never
+Џ	Djé majuscule cyrilik	none	never
+џ	djé cyrilik	none	never
+Ѓ	Guié majuscule cyrilik	none	never
+ѓ	guié cyrilik	none	never
+Ќ	Kié majuscule cyrilik	none	never
+ќ	kié cyrilik	none	never
+Ѐ	Yé grave majuscule cyrilik	none	never
+ѐ	yé grave cyrilik	none	never
+Ѝ	I grave majuscule cyrilik	none	never
+ѝ	i grave cyrilik	none	never
 Ә	Schwa majuscule cyrillique	none	never
 ә	schwa cyrillique	none	never
 Ғ	Gué barré majuscule cyrillique	none	never
@@ -301,312 +300,308 @@ symbols:
 ү	ou droit cyrillique	none	never
 Һ	Shha majuscule cyrillique	none	never	# Chha
 һ	Shha cyrillique	none	never
-あ	a	none	never	# あ
-か	ka	none	never	# か
-さ	sa	none	never	# さ
-た	ta	none	never	# た
-な	na	none	never	# な
-は	ha	none	never	# は
-ま	ma	none	never	# ま
-や	ya	none	never	# や
-ら	ra	none	never	# ら
-わ	wa	none	never	# わ
-い	i	none	never	# い
-き	ki	none	never	# き
-し	si	none	never	# し
-ち	chi	none	never	# ち
-に	ni	none	never	# に
-ひ	hi	none	never	# ひ
-み	mi	none	never	# み
-り	ri	none	never	# り
-ゐ	wi	none	never	# ゐ
-う	ou	none	never	# う
-く	kou	none	never	# く
-す	sou	none	never	# す
-つ	tsou	none	never	# つ
-ぬ	nou	none	never	# ぬ
-ふ	fou	none	never	# ふ
-む	mou	none	never	# む
-ゆ	you	none	never	# ゆ
-る	rou	none	never	# る
-え	hé	none	never	# え
-け	ké	none	never	# け
-せ	sé	none	never	# せ
-て	té	none	never	# て
-ね	né	none	never	# ね
-へ	hé	none	never	# へ
-め	mé	none	never	# め
-れ	ré	none	never	# れ
-ゑ	wé	none	never	# ゑ
-お	o	none	never	# お
-こ	ko	none	never	# こ
-そ	so	none	never	# そ
-と	tau	none	never	# と
-の	no	none	never	# の
-ほ	ho	none	never	# ほ
-も	mo	none	never	# も
-よ	yo	none	never	# よ
-ろ	ro	none	never	# ろ
-を	wo	none	never	# を
-ん	n	none	never	# ん
-が	ga	none	never	# が
-ざ	za	none	never	# ざ
-だ	da	none	never	# だ
-ば	ba	none	never	# ば
-ぱ	pa	none	never	# ぱ
-きゃ	kya	none	never	# きゃ
-ぎゃ	guia	none	never	# ぎゃ
-しゃ	cha	none	never	# しゃ
-じゃ	ja	none	never	# じゃ
-ちゃ	kcha	none	never	# ちゃ
-にゃ	nya	none	never	# にゃ
-ひゃ	hya	none	never	# ひゃ
-びゃ	bya	none	never	# びゃ
-ぴゃ	pya	none	never	# ぴゃ
-みゃ	mya	none	never	# みゃ
-りゃ	rya	none	never	# りゃ
-ぎ	gui	none	never	# ぎ
-じ	zi	none	never	# じ
-ぢ	dzi	none	never	# ぢ
-び	bi	none	never	# び
-ぴ	pi	none	never	# ぴ
-ぐ	gou	none	never	# ぐ
-ず	zou	none	never	# ず
-づ	dzou	none	never	# づ
-ぶ	bou	none	never	# ぶ
-ぷ	pou	none	never	# ぷ
-きゅ	kyou	none	never	# きゅ
-ぎゅ	guiou	none	never	# ぎゅ
-しゅ	chou	none	never	# しゅ
-じゅ	jou	none	never	# じゅ
-ちゅ	kchou	none	never	# ちゅ
-にゅ	nyou	none	never	# にゅ
-ひゅ	hyou	none	never	# ひゅ
-びゅ	byou	none	never	# びゅ
-ぴゅ	pyou	none	never	# ぴゅ
-みゅ	myou	none	never	# みゅ
-りゅ	ryou	none	never	# りゅ
-げ	gué	none	never	# げ
-ぜ	zé	none	never	# ぜ
-で	dé	none	never	# で
-べ	bé	none	never	# べ
-ぺ	pé	none	never	# ぺ
-ご	go	none	never	# ご
-ぞ	zo	none	never	# ぞ
-ど	do	none	never	# ど
-ぼ	bo	none	never	# ぼ
-ぽ	po	none	never	# ぽ
-きょ	kyo	none	never	# きょ
-ぎょ	guio	none	never	# ぎょ
-しょ	sho	none	never	# しょ
-じょ	jo	none	never	# じょ
-ちょ	ksho	none	never	# ちょ
-にょ	nyo	none	never	# にょ
-ひょ	hyo	none	never	# ひょ
-びょ	byo	none	never	# びょ
-ぴょ	pyo	none	never	# ぴょ
-みょ	myo	none	never	# みょ
-りょ	ryo	none	never	# りょ
-ア	a	none	never	# ア
-イ	i	none	never	# イ
-ウ	ou	none	never	# ウ
-エ	hé	none	never	# エ
-オ	o	none	never	# オ
-カ	ka	none	never	# カ
-キ	ki	none	never	# キ
-ク	kou	none	never	# ク
-ケ	ké	none	never	# ケ
-コ	ko	none	never	# コ
-キャ	kya	none	never	# キャ
-キュ	kyou	none	never	# キュ
-キョ	kyo	none	never	# キョ
-サ	sa	none	never	# サ
-シ	chi	none	never	# シ
-ス	sou	none	never	# ス
-セ	sé	none	never	# セ
-ソ	so	none	never	# ソ
-シャ	cha	none	never	# シャ
-シュ	chou	none	never	# シュ
-ショ	chau	none	never	# ショ
-タ	ta	none	never	# タ
-チ	tchi	none	never	# チ
-ツ	tsou	none	never	# ツ
-テ	té	none	never	# テ
-ト	tau	none	never	# ト
-チャ	tcha	none	never	# チャ
-チュ	tchou	none	never	# チュ
-チョ	tcho	none	never	# チョ
-ナ	na	none	never	# ナ
-ニ	nyi	none	never	# ニ
-ヌ	nou	none	never	# ヌ
-ネ	né	none	never	# ネ
-ノ	no	none	never	# ノ
-ニャ	gna	none	never	# ニャ
-ニュ	niou	none	never	# ニュ
-ニョ	gno	none	never	# ニョ
-ハ	ha	none	never	# ハ
-ヒ	chi	none	never	# ヒ
-フ	fou	none	never	# フ
-ヘ	hé	none	never	# ヘ
-ホ	ho	none	never	# ホ
-ヒャ	hia	none	never	# ヒャ
-ヒュ	hiou	none	never	# ヒュ
-ヒョ	hyo	none	never	# ヒョ
-マ	ma	none	never	# マ
-ミ	mi	none	never	# ミ
-ム	mou	none	never	# ム
-メ	mé	none	never	# メ
-モ	mo	none	never	# モ
-ミャ	mya	none	never	# ミャ
-ミュ	myou	none	never	# ミュ
-ミョ	myo	none	never	# ミョ
-ヤ	ya	none	never	# ヤ
-ユ	you	none	never	# ユ
-ヨ	yo	none	never	# ヨ
-ラ	ra	none	never	# ラ
-リ	ri	none	never	# リ
-ル	rou	none	never	# ル
-レ	ré	none	never	# レ
-ロ	ro	none	never	# ロ
-リャ	rya	none	never	# リャ
-リュ	ryou	none	never	# リュ
-リョ	ryo	none	never	# リョ
-ワ	wa	none	never	# ワ
-ヰ	wi	none	never	# ヰ
-ヱ	wé	none	never	# ヱ
-ヲ	wo	none	never	# ヲ
-ガ	ga	none	never	# ガ
-ギ	gui	none	never	# ギ
-グ	gou	none	never	# グ
-ゲ	gué	none	never	# ゲ
-ゴ	go	none	never	# ゴ
-ギャ	guia	none	never	# ギャ
-ギュ	guiou	none	never	# ギュ
-ギョ	guio	none	never	# ギョ
-ザ	za	none	never	# ザ
-ジ	dji	none	never	# ジ
-ズ	zou	none	never	# ズ
-ゼ	zé	none	never	# ゼ
-ゾ	zo	none	never	# ゾ
-ジャ	dja	none	never	# ジャ
-ジュ	djou	none	never	# ジュ
-ジョ	djo	none	never	# ジョ
-ダ	da	none	never	# ダ
-ヂ	dji	none	never	# ヂ
-ヅ	zou	none	never	# ヅ
-デ	dé	none	never	# デ
-ド	dau	none	never	# ド
-ヂャ	dja	none	never	# ヂャ
-ヂュ	djou	none	never	# ヂュ
-ヂョ	djo	none	never	# ヂョ
-バ	ba	none	never	# バ
-ビ	bi	none	never	# ビ
-ブ	bou	none	never	# ブ
-ベ	bé	none	never	# ベ
-ボ	bo	none	never	# ボ
-ビャ	bya	none	never	# ビャ
-ビュ	byou	none	never	# ビュ
-ビョ	byo	none	never	# ビョ
-パ	pa	none	never	# パ
-ピ	pi	none	never	# ピ
-プ	pou	none	never	# プ
-ペ	pé	none	never	# ペ
-ポ	po	none	never	# ポ
-ピャ	pya	none	never	# ピャ
-ピュ	pyou	none	never	# ピュ
-ピョ	pyo	none	never	# ピョ
-ウァ	wa	none	never	# ウァ
-ウィ	wi	none	never	# ウィ
-ウゥ	wou	none	never	# ウゥ
-ウェ	wé	none	never	# ウェ
-ウォ	wo	none	never	# ウォ
-ウュ	wyou	none	never	# ウュ
-ヴァ	va	none	never	# ヴァ
-ヴィ	vi	none	never	# ヴィ
-ヴ	vou	none	never	# ヴ
-ヴェ	vé	none	never	# ヴェ
-ヴォ	vo	none	never	# ヴォ
-ヴャ	vya	none	never	# ヴャ
-ヴュ	vyou	none	never	# ヴュ
-ヴィェ	vyé	none	never	# ヴィェ
-ヴョ	vyo	none	never	# ヴョ
-キェ	kié	none	never	# キェ
-ギェ	guié	none	never	# ギェ
-クァ	kwa	none	never	# クァ
-クィ	kwi	none	never	# クィ
-クェ	kwé	none	never	# クェ
-クォ	kwo	none	never	# クォ
-クヮ	kwa	none	never	# クヮ
-グァ	gwa	none	never	# グァ
-グィ	gwi	none	never	# グィ
-グェ	gwé	none	never	# グェ
-グォ	gwo	none	never	# グォ
-グヮ	gwa	none	never	# グヮ
-シェ	ché	none	never	# シェ
-ジェ	jé	none	never	# ジェ
-スィ	si	none	never	# スィ
-ズィ	zi	none	never	# ズィ
-チェ	tché	none	never	# チェ
-ツァ	tsa	none	never	# ツァ
-ツィ	tsi	none	never	# ツィ
-ツェ	tsé	none	never	# ツェ
-ツォ	tso	none	never	# ツォ
-ツュ	tsyou	none	never	# ツュ
-ティ	ti	none	never	# ティ
-トゥ	tou	none	never	# トゥ
-テュ	tyou	none	never	# テュ
-ディ	di	none	never	# ディ
-ドゥ	dou	none	never	# ドゥ
-デュ	dyou	none	never	# デュ
-ニェ	nyé	none	never	# ニェ
-ヒェ	hyé	none	never	# ヒェ
-ビェ	byé	none	never	# ビェ
-ピェ	pyé	none	never	# ピェ
-フェ	fé	none	never	# フェ
-ファ	fa	none	never	# ファ
-フィ	fi	none	never	# フィ
-フォ	fo	none	never	# フォ
-フャ	fya	none	never	# フャ
-フュ	fyou	none	never	# フュ
-ィェ	fyé	none	never	# ィェ
-フョ	fyo	none	never	# フョ
-ホゥ	hou	none	never	# ホゥ
-ミェ	myé	none	never	# ミェ
+あ	a	none	never
+か	ka	none	never
+さ	sa	none	never
+た	ta	none	never
+な	na	none	never
+は	ha	none	never
+ま	ma	none	never
+や	ya	none	never
+ら	ra	none	never
+わ	wa	none	never
+い	i	none	never
+き	ki	none	never
+し	si	none	never
+ち	chi	none	never
+に	ni	none	never
+ひ	hi	none	never
+み	mi	none	never
+り	ri	none	never
+ゐ	wi	none	never
+う	ou	none	never
+く	kou	none	never
+す	sou	none	never
+つ	tsou	none	never
+ぬ	nou	none	never
+ふ	fou	none	never
+む	mou	none	never
+ゆ	you	none	never
+る	rou	none	never
+え	hé	none	never
+け	ké	none	never
+せ	sé	none	never
+て	té	none	never
+ね	né	none	never
+へ	hé	none	never
+め	mé	none	never
+れ	ré	none	never
+ゑ	wé	none	never
+お	o	none	never
+こ	ko	none	never
+そ	so	none	never
+と	tau	none	never
+の	no	none	never
+ほ	ho	none	never
+も	mo	none	never
+よ	yo	none	never
+ろ	ro	none	never
+を	wo	none	never
+ん	n	none	never
+が	ga	none	never
+ざ	za	none	never
+だ	da	none	never
+ば	ba	none	never
+ぱ	pa	none	never
+きゃ	kya	none	never
+ぎゃ	guia	none	never
+しゃ	cha	none	never
+じゃ	ja	none	never
+ちゃ	kcha	none	never
+にゃ	nya	none	never
+ひゃ	hya	none	never
+びゃ	bya	none	never
+ぴゃ	pya	none	never
+みゃ	mya	none	never
+りゃ	rya	none	never
+ぎ	gui	none	never
+じ	zi	none	never
+ぢ	dzi	none	never
+び	bi	none	never
+ぴ	pi	none	never
+ぐ	gou	none	never
+ず	zou	none	never
+づ	dzou	none	never
+ぶ	bou	none	never
+ぷ	pou	none	never
+きゅ	kyou	none	never
+ぎゅ	guiou	none	never
+しゅ	chou	none	never
+じゅ	jou	none	never
+ちゅ	kchou	none	never
+にゅ	nyou	none	never
+ひゅ	hyou	none	never
+びゅ	byou	none	never
+ぴゅ	pyou	none	never
+みゅ	myou	none	never
+りゅ	ryou	none	never
+げ	gué	none	never
+ぜ	zé	none	never
+で	dé	none	never
+べ	bé	none	never
+ぺ	pé	none	never
+ご	go	none	never
+ぞ	zo	none	never
+ど	do	none	never
+ぼ	bo	none	never
+ぽ	po	none	never
+きょ	kyo	none	never
+ぎょ	guio	none	never
+しょ	sho	none	never
+じょ	jo	none	never
+ちょ	ksho	none	never
+にょ	nyo	none	never
+ひょ	hyo	none	never
+びょ	byo	none	never
+ぴょ	pyo	none	never
+みょ	myo	none	never
+りょ	ryo	none	never
+ア	a	none	never
+イ	i	none	never
+ウ	ou	none	never
+エ	hé	none	never
+オ	o	none	never
+カ	ka	none	never
+キ	ki	none	never
+ク	kou	none	never
+ケ	ké	none	never
+コ	ko	none	never
+キャ	kya	none	never
+キュ	kyou	none	never
+キョ	kyo	none	never
+サ	sa	none	never
+シ	chi	none	never
+ス	sou	none	never
+セ	sé	none	never
+ソ	so	none	never
+シャ	cha	none	never
+シュ	chou	none	never
+ショ	chau	none	never
+タ	ta	none	never
+チ	tchi	none	never
+ツ	tsou	none	never
+テ	té	none	never
+ト	tau	none	never
+チャ	tcha	none	never
+チュ	tchou	none	never
+チョ	tcho	none	never
+ナ	na	none	never
+ニ	nyi	none	never
+ヌ	nou	none	never
+ネ	né	none	never
+ノ	no	none	never
+ニャ	gna	none	never
+ニュ	niou	none	never
+ニョ	gno	none	never
+ハ	ha	none	never
+ヒ	chi	none	never
+フ	fou	none	never
+ヘ	hé	none	never
+ホ	ho	none	never
+ヒャ	hia	none	never
+ヒュ	hiou	none	never
+ヒョ	hyo	none	never
+マ	ma	none	never
+ミ	mi	none	never
+ム	mou	none	never
+メ	mé	none	never
+モ	mo	none	never
+ミャ	mya	none	never
+ミュ	myou	none	never
+ミョ	myo	none	never
+ヤ	ya	none	never
+ユ	you	none	never
+ヨ	yo	none	never
+ラ	ra	none	never
+リ	ri	none	never
+ル	rou	none	never
+レ	ré	none	never
+ロ	ro	none	never
+リャ	rya	none	never
+リュ	ryou	none	never
+リョ	ryo	none	never
+ワ	wa	none	never
+ヰ	wi	none	never
+ヱ	wé	none	never
+ヲ	wo	none	never
+ガ	ga	none	never
+ギ	gui	none	never
+グ	gou	none	never
+ゲ	gué	none	never
+ゴ	go	none	never
+ギャ	guia	none	never
+ギュ	guiou	none	never
+ギョ	guio	none	never
+ザ	za	none	never
+ジ	dji	none	never
+ズ	zou	none	never
+ゼ	zé	none	never
+ゾ	zo	none	never
+ジャ	dja	none	never
+ジュ	djou	none	never
+ジョ	djo	none	never
+ダ	da	none	never
+ヂ	dji	none	never
+ヅ	zou	none	never
+デ	dé	none	never
+ド	dau	none	never
+ヂャ	dja	none	never
+ヂュ	djou	none	never
+ヂョ	djo	none	never
+バ	ba	none	never
+ビ	bi	none	never
+ブ	bou	none	never
+ベ	bé	none	never
+ボ	bo	none	never
+ビャ	bya	none	never
+ビュ	byou	none	never
+ビョ	byo	none	never
+パ	pa	none	never
+ピ	pi	none	never
+プ	pou	none	never
+ペ	pé	none	never
+ポ	po	none	never
+ピャ	pya	none	never
+ピュ	pyou	none	never
+ピョ	pyo	none	never
+ウァ	wa	none	never
+ウィ	wi	none	never
+ウゥ	wou	none	never
+ウェ	wé	none	never
+ウォ	wo	none	never
+ウュ	wyou	none	never
+ヴァ	va	none	never
+ヴィ	vi	none	never
+ヴ	vou	none	never
+ヴェ	vé	none	never
+ヴォ	vo	none	never
+ヴャ	vya	none	never
+ヴュ	vyou	none	never
+ヴィェ	vyé	none	never
+ヴョ	vyo	none	never
+キェ	kié	none	never
+ギェ	guié	none	never
+クァ	kwa	none	never
+クィ	kwi	none	never
+クェ	kwé	none	never
+クォ	kwo	none	never
+クヮ	kwa	none	never
+グァ	gwa	none	never
+グィ	gwi	none	never
+グェ	gwé	none	never
+グォ	gwo	none	never
+グヮ	gwa	none	never
+シェ	ché	none	never
+ジェ	jé	none	never
+スィ	si	none	never
+ズィ	zi	none	never
+チェ	tché	none	never
+ツァ	tsa	none	never
+ツィ	tsi	none	never
+ツェ	tsé	none	never
+ツォ	tso	none	never
+ツュ	tsyou	none	never
+ティ	ti	none	never
+トゥ	tou	none	never
+テュ	tyou	none	never
+ディ	di	none	never
+ドゥ	dou	none	never
+デュ	dyou	none	never
+ニェ	nyé	none	never
+ヒェ	hyé	none	never
+ビェ	byé	none	never
+ピェ	pyé	none	never
+フェ	fé	none	never
+ファ	fa	none	never
+フィ	fi	none	never
+フォ	fo	none	never
+フャ	fya	none	never
+フュ	fyou	none	never
+ィェ	fyé	none	never
+フョ	fyo	none	never
+ホゥ	hou	none	never
+ミェ	myé	none	never
 \tリェ	ryé	none	never
-ラ゜	la	none	never	# ラ゜
-リ゜	li	none	never	# リ゜
-ル゜	lou	none	never	# ル゜
-レ゜	lé	none	never	# レ゜
-ロ゜	lo	none	never	# ロ゜
-リ゜ャ	lya	none	never	# リ゜ャ
-リ゜ュ	lyou	none	never	# リ゜ュ
-リ゜ェ	lyé	none	never	# リ゜ェ
-リ゜ョ	lyo	none	never	# リ゜ョ
-ヷ	va	none	never	# ヷ
-ヸ	vi	none	never	# ヸ
-ヹ	vé	none	never	# ヹ
-ヺ	vo	none	never	# ヺ
-／	barre oblique	some	never	# ／
-ー	allongement du son Katakana-Hiragana 	char	never	# ー
+ラ゜	la	none	never
+リ゜	li	none	never
+ル゜	lou	none	never
+レ゜	lé	none	never
+ロ゜	lo	none	never
+リ゜ャ	lya	none	never
+リ゜ュ	lyou	none	never
+リ゜ェ	lyé	none	never
+リ゜ョ	lyo	none	never
+ヷ	va	none	never
+ヸ	vi	none	never
+ヹ	vé	none	never
+ヺ	vo	none	never
+／	barre oblique	some	never
+ー	allongement du son Katakana-Hiragana	char	never
 ‧	-	all
-𝄫	double bémol	none	never	# 𝄫
-𝄪	double dièse	none	never	# 𝄪
 ″	-	none
 ‴	-	none
-⁗	quadruple prime	none	never	# ⁗
---	moinmoins	some	never	# --
-<>	différent de	none	never	# <>
-+-	pluzoumoins	none	never	# +-
--+	moin ou pluss	none	never	# -+
-⩽	inférieur ou égal à
-⩾	supérieur ou égal à	none	never	# ⩾
+⁗	quadruple prime	none	never
+--	moinmoins	some	never
+<>	différent de	none	never
++-	pluzoumoins	none	never
+-+	moin ou pluss	none	never
 ≃	similaire ou égal à
-≼	précède ou égal	none	never	# ≼
-≽	suit ou égal	none	never	# ≽
-≾	précède ou équivaut à	none	never	# ≾
-≿	succède ou équivaut à	none	never	# ≿
-≝	définit	none	never	# ≝
-⊷	image de	none	never	# ⊷
+≼	précède ou égal	none	never
+≽	suit ou égal	none	never
+≾	précède ou équivaut à	none	never
+≿	succède ou équivaut à	none	never
+≝	définit	none	never
+⊷	image de	none	never
 ∈	appartient à
 ∉	n'appartient pas à
 ∋	contient
@@ -626,7 +621,6 @@ symbols:
 ⋰	trois points en diagonal vers le haut
 ⋱	trois points en diagonale vers le bas
 ε	epsilonn
-ϵ	epsilonn lunaire
 Ε	epsilonn
 Ο	omicronn
 ο	omicronn
@@ -650,10 +644,10 @@ symbols:
 ˊ	accent aigu	none
 ´	accent aigu	none
 ฿	bahtt thaïlandais
-->	flèche droite	none	never	# -->
--->	flèche droite	none	never	# -->
-==>	flèche droite	none	never	# -->
-=>	flèche droite	none	never	# -->
+->	flèche droite	none	never
+-->	flèche droite	none	never
+==>	flèche droite	none	never
+=>	flèche droite	none	never
 <-	flèche gauche	none	never
 <--	flèche gauche	none	never
 <==	flèche gauche	none	never
@@ -661,22 +655,22 @@ symbols:
 <-->	flèche gauche-droite	none	never
 <=>	flèche gauche-droite	none	never
 <==>	flèche gauche-droite	none	never
-ά	alpha aigu	none	never	# ά
-έ	epsilonn aigu	none	never	# έ
-ή	ita aigu	none	never	# ή
-ί	iota aigu	none	never	# ί
-ό	omicronn aigu	none	never	# ό
-ύ	upsilonn aigu	none	never	# ύ
-ώ	oméga aigu	none	never	# ώ
-ϊ	iota tréma	none	never	# ϊ
-Ά	alpha aigu	none	never	# Ά
-Έ	epsilonn aigu	none	never	# Έ
-Ή	ita aigu	none	never	# Ή
-Ί	iota aigu	none	never	# Ί
-Ό	omicronn aigu	none	never	# Ό
-Ύ	upsilonn aigu	none	never	# Ύ
-Ώ	oméga aigu	none	never	# Ώ
-Ϊ	iota tréma	none	never	# Ϊ
+ά	alpha aigu	none	never
+έ	epsilonn aigu	none	never
+ή	ita aigu	none	never
+ί	iota aigu	none	never
+ό	omicronn aigu	none	never
+ύ	upsilonn aigu	none	never
+ώ	oméga aigu	none	never
+ϊ	iota tréma	none	never
+Ά	alpha aigu	none	never
+Έ	epsilonn aigu	none	never
+Ή	ita aigu	none	never
+Ί	iota aigu	none	never
+Ό	omicronn aigu	none	never
+Ύ	upsilonn aigu	none	never
+Ώ	oméga aigu	none	never
+Ϊ	iota tréma	none	never
 ★	étoile	none	never
 ☆	étoile blanche	none	never
 ☇	éclair	none	never
@@ -724,14 +718,13 @@ symbols:
 ♣	trèfle	none	never
 ♤	pique blanc	none	never
 ♥	coeur	none	never
-♦	carreau	none	noir
 ♧	trèfle blanc	none	never
 ♩	noire	none	never
 ♫	deux croches	none	never
 ♬	deux double-croches	none	never
 ♰	croix syriaque occidentale	none	never
 ♱	croix syriaque orientale	none	never
-♲	symbol recyclage blanc	none	never
+♲	recyclage	none	never
 ⚀	dé 1	none	never
 ⚁	dé 2	none	never
 ⚂	dé 3	none	never
@@ -864,3 +857,1749 @@ symbols:
 ➼	fléchette droite	none	never
 ➽	flèchette droite	none	never
 ➾	flèche droite	none	never
+�		none	never
+̂	circonflexe normalisé	char	never
+⇫	flèche blanche vers le haut sur socle	none	never	# 0x21eb
+⇬	flèche blanche vers le haut sur socle et trait horizontal	none	never	# 0x21ec
+⇭	flèche blanche vers le haut sur socle et trait vertical	none	never	# 0x21ed
+⇮	double flèche blanche vers le haut	none	never	# 0x21ee
+⇯	double flèche blanche vers le haut sur socle	none	never	# 0x21ef
+⇰	flèche blanche vers la droite sur socle	none	never	# 0x21f0
+⇱	flèche nord-ouest en encoignure	none	never	# 0x21f1
+⇲	flèche sud-est en encoignure	none	never	# 0x21f2
+⇳	flèche blanche vers le haut et le bas	none	never	# 0x21f3
+⇴	flèche droite à petit cercle	none	never	# 0x21f4
+⇶	trois flèches droite	none	never	# 0x21f6
+⇷	flèche gauche avec barre verticale	none	never	# 0x21f7
+⇸	flèche droite avec barre verticale	none	never	# 0x21f8
+⇽	flèche gauche à tête creuse	none	never	# 0x21fd
+⇾	flèche droite à tête creuse	none	never	# 0x21fe
+⇿	flèche gauche à tête creuse	none	never	# 0x21ff
+▀	moitié supérieure de pavé	all	never	# 0x2580
+▁	huitième inférieur de pavé	all	never	# 0x2581
+▃	3 huitième inférieur de pavé	all	never	# 0x2583
+▄	moitié inférieure de pavé	all	never	# 0x2584
+▅	5 huitième inférieur de pavé	all	never	# 0x2585
+▆	3 quart inférieur de pavé	all	never	# 0x2586
+▇	7 huitième inférieur de pavé	all	never	# 0x2587
+█	pavé complet	all	never	# 0x2588
+▉	7 huitième gauche de pavé	all	never	# 0x2589
+▊	3 quart gauche de pavé	all	never	# 0x258b
+▌	moitié gauche de pavé	all	never	# 0x258c
+▍	3 huitième gauche de pavé	all	never	# 0x258d
+▎	quart gauche de pavé	all	never	# 0x258e
+▏	huitième gauche de pavé	all	never	# 0x258f
+▐	moitié droite de pavé	all	never	# 0x2590
+░	pavé gris 25%	all	never	# 0x2591
+▒	pavé gris 50%	all	never	# 0x2592
+▓	pavé gris 75%	all	never	# 0x2593
+▔	huitième haut de pavé	all	never	# 0x2594
+▕	huitième droit de pavé	all	never	# 0x2595
+▖	quart inférieur gauche de pavé	all	never	# 0x2596
+▗	quart supérieur droit de pavé	all	never	# 0x2597
+▘	quart supérieur gauche de pavé	all	never	# 0x2598
+▙	angle inférieur gauche de cadre	all	never	# 0x2599
+▚	quarts supérieur gauche et inférieur droit de pavé	all	never	# 0x259a
+▛	angle supérieur gauche de cadre	all	never	# 0x259b
+▜	angle supérieur droit de cadre	all	never	# 0x259c
+▝	quart supérieur droit de pavé	all	never	# 0x259d
+▞	quarts inférieur gauche et supérieur droit de pavé	all	never	# 0x259e
+▟	angle inférieur droit de cadre	all	never	# 0x259f
+✇	dérouleur de ruban	none	never	# 0x2707
+✕	multiplié par	none	never	# 0x2715
+✖	multiplié par	none	never	# 0x2716
+✘	croix (refus) de bulletin de vote	none	never	# 0x2718
+✛	croix à centre ouvert	none	never	# 0x271b
+✜	croix épaisse à centre ouvert	none	never	# 0x271c
+❡	paragraphe	none	never	# 0x2761
+🞀	triangle rectangle isocèle pointant à gauche	none	never	# 0x1f780
+🞁	triangle rectangle isocèle pointant en haut	none	never	# 0x1f781
+🞂	triangle rectangle isocèle pointant à droite	none	never	# 0x1f782
+🞃	triangle rectangle isocèle pointant en bas	none	never	# 0x1f783
+🞄	petit cercle noir	none	never	# 0x1f784
+🞅	cercle blanc moyennement gras	none	never	# 0x1f785
+🞆	cercle blanc gras	none	never	# 0x1f786
+🞇	cercle blanc épais	none	never	# 0x1f787
+🞈	cercle blanc plus épais	none	never	# 0x1f788
+🞉	cercle blanc très épais	none	never	# 0x1f789
+🞊	cercle blanc contenant un petit cercle noir	none	never	# 0x1f78a
+🞋	cible ronde	none	never	# 0x1f78b
+🞌	petit carré noir	none	never	# 0x1f78c
+🞍	carré noir légèrement petit	none	never	# 0x1f78d
+🞎	carré blanc fin	none	never	# 0x1f78e
+🞏	carré blanc	none	never	# 0x1f78f
+🞐	carré blanc gras	none	never	# 0x1f790
+🞑	carré blanc épais	none	never	# 0x1f791
+🞒	carré blanc plus épais	none	never	# 0x1f792
+🞓	carré blanc très épais	none	never	# 0x1f793
+🞔	carré blanc contenant un petit carré noir	none	never	# 0x1f794
+🞕	carré blanc contenant un carré noir	none	never	# 0x1f795
+🞖	cible carrée	none	never	# 🞖 0x1f796
+🞗	très petit losange noir	none	never	# 0x1f797
+🞘	losange noir assez petit	none	never	# 0x1f798
+🞙	losange noir	none	never	# 0x1f799
+🞚	losange blanc contenant un petit losange noir	none	never	# 0x1f79a
+🞛	losange blanc contenant un losange noir	none	never	# 0x1f79b
+🞜	cible losange	none	never	# 0x1f79c
+🞝	minuscule losange noir	none	never	# 🞝 0x1f79d
+🞞	très petit losange noir	none	never	# 🞞 0x1f79e
+🞟	losange noir légèrement petit	none	never	# 🞟 0x1f79f
+🞠	losange blanc contenant un losange noir	none	never	# 🞠 0x1f7a0
+🞢	croix grecque fine	none	never	# 0x1f7a2
+🞣	croix grecque moyenne	none	never	# 0x1f7a3
+🞤	croix grecque grasse	none	never	# 0x1f7a4
+🞥	croix grecque très grasse	none	never	# 0x1f7a5
+🞦	croix grecque très épaisse	none	never	# 0x1f7a6
+🞧	croix grecque large	none	never	# 0x1f7a7
+🞨	minuscule sautoir	none	never	# 0x1f7a8
+🞩	sautoir fin	none	never	# 0x1f7a9
+🞪	sautoir	none	never	# 0x1f7aa
+🞫	sautoir gras	none	never	# 0x1f7ab
+🞬	sautoir épais	none	never	# 0x1f7ac
+🞭	sautoir très épais	none	never	# 0x1f7ad
+🞮	sautoir large	none	never	# 0x1f7ae
+🞯	astérisque 5 branches fin	none	never	# 0x1f7af
+🞰	astérisque 5 branches	none	never	# 0x1f7b0
+🞱	astérisque 5 branche gras	none	never	# 0x1f7b1
+🞲	astérisque 5 branches épais	none	never	# 0x1f7b2
+🞳	astérisque 5 branches très épais	none	never	# 0x1f7b3
+🞴	astérisque 5 branches large	none	never	# 0x1f7b4
+🞵	astérisque 6 branches fin	none	never	# 0x1f7b5
+🞶	astérisque 6 branches	none	never	# 0x1f7b6
+🞷	astérisque 6 branches gras	none	never	# 0x1f7b7
+🞸	astérisque 6 branches épais	none	never	# 0x1f7b8
+🞹	astérisque 6 branche très épais	none	never	# 0x1f7b9
+🞺	astérisuqe 6 branches large	none	never	# 0x1f7ba
+🞻	astérique 8 branches fin	none	never	# 0x1f7bb
+🞼	astérisque 8 branches	none	never	# 0x1f7bc
+🞽	astérisque 8 branches gras	none	never	# 0x1f7bd
+🞾	astérisque 8 branches épais	none	never	# 0x1f7be
+🞿	astérisque 8 branches très épais	none	never	# 0x1f7bf
+🟀	étoile 3 branches fines	none	never	# 0x1f7c0
+🟁	étoile 3 branches moyenne	none	never	# 0x1f7c1
+🟂	étoile 3 branches	none	never	# 0x1f7c2
+🟃	moulinet 3 branches moyen	none	never	# 0x1f7c3
+🟄	étoile 4 branches fine	none	never	# 0x1f7c4
+🟅	étoile 4 branches moyenne	none	never	# 0x1f7c5
+🟆	étoile 4 branches grasses	none	never	# 0x1f7c6
+🟇	moulinet 4 branches moyen	none	never	# 0x1f7c7
+🟉	étoile 5 branches fines	none	never	# 0x1f7c9
+🟊	étoile 5 branches épaisse	none	never	# 0x1f7ca
+🟋	étoile 6 branches moyenne	none	never	# 0x1f7cb
+🟌	étoile 6 branches épaisse	none	never	# 0x1f7cc
+🟍	moulinet 6 branches	none	never	# 0x1f7cd
+🟎	étoile 8 branches moyenne	none	never	# 0x1f7ce
+🟏	étoile 8 branches épaisse	none	never	# 0x1f7cf
+🟐	étoile 8 branches très épaisse	none	never	# 0x1f7d0
+🟑	moulinet 8 branches épais	none	never	# 0x1f7d1
+🟒	étoile 12 branches fine	none	never	# 0x1f7d2
+🟓	étoile 12 branches épaisse	none	never	# 0x1f7d3
+🟔	moulinet 12 branches épais	none	never	# 0x1f7d4
+▯	rectangle vertical creux	none	never	# 0x25af
+▱	parallèlogramme creux	none	never	# 0x25b1
+▾	petit triangle plein pointant vers le bas	none	never	# 0x25be
+◚	cercle avec moitié supérieure pleine	none	never	# 0x25da
+◛	cercle avec moitié inférieure pleine	none	never	# 0x25db
+◧	carré avec moitié gauche pleine	none	never	# 0x25e7
+◨	carré avec moitié droite pleine	none	never	# 0x25e8
+◩	carré avec moitié supérieure gauche pleine	none	never	# 0x25e9
+◪	carré avec moitié inférieure droite pleine	none	never	# 0x25ea
+◫	carré creux avec ligne bissectrice verticale	none	never	# 0x25eb
+◬	triangle creux pointant vers le haut avec point au centre	none	never	# 0x25ec
+◭	triangle pointant vers le haut avec moitié gauche pleine	none	never	# 0x25ed
+◮	triangle pointant vers le haut avec moitié droite pleine	none	never	# 0x25ee
+◰	carré avec quart supérieure gauche plein	none	never	# 0x25f0
+◱	carré avec quart inférieur gauche plein	none	never	# 0x25f1
+◲	carré avec quart inférieur droit pleine	none	never	# 0x25f2
+◳	carré avec quart supérieur droit plein	none	never	# 0x25f3
+◴	cercle avec quart supérieure gauche plein	none	never	# 0x25f4
+◵	cercle avec quart inférieur gauche plein	none	never	# 0x25f5
+◶	cercle avec quart inférieur droit plein	none	never	# 0x25f6
+◷	cercle avec quart supérieur droit plein	none	never	# 0x25f7
+◹	triangle supérieur droit	none	never	# 0x25f9
+◺	triangle inférieur gauche	none	never	# 0x25fa
+𝛛	différentiel partiel	none	never
+𝜕	différentiel partiel	none	never
+𝝏	différentiel partiel	none	never
+𝞉	différentiel partiel	none	never
+𝟃	différentiel partiel	none	never
+∔	pluss pointé	none	never	# 0x2214
+∸	moins pointé	none	never	# 0x2238
+∻	homothétique	none	never	# 0x223b
+≁	non équivalant à	none	never	# 0x2241
+≂	équivalant ou égal à	none	never	# 0x2242
+≇	ni approximativement ni réellement égale à	none	never	# 0x2247
+≉	non presque égale à	none	never	# 0x2249
+≊	presque égal ou égal à	none	never	# 0x224a
+≋	asymptotiquement  égale à	none	never	# 0x224b
+≓	image de ou approximativement égal à	none	never	# 0x2253
+≗	égal par définition	none	never	# 0x2257
+≚	éqwiängulaire à	none	never	# 0x225a
+≛	égal avec astérisque	none	never	# 0x225b
+≜	égal delta	none	never	# 0x225c
+≞	mesuré par	none	never	# 0x225e
+≨	inférieur mais pas égal à	none	never	# 0x2268
+≩	supérieur mais pas égal à	none	never	# 0x2269
+≰	ni inférieur ni égal à	none	never	# 0x2270
+≱	ni supérieur ni égal à	none	never	# 0x2271
+≴	ni inférieur ni équivalant à	none	never	# 0x2274
+≵	ni supérieur ni équivalant à	none	never	# 0x2275
+≸	ni inférieur ni supérieur	none	never	# 0x2278
+≹	ni supérieur ni inférieur à	none	never	# 0x2279
+⊊	strictement inclus dans	none	never	# 0x228a
+⊋	sur-ensemble strict non égal à	none	never	# 0x228b
+⊎	union de multi-ensemble	none	never	# 0x228e
+⊏	image carrée de	none	never	# 0x228f
+⊐	original carré de	none	never	# 0x2290
+⊑	image carré ou égal à	none	never	# 0x2291
+⊒	original carré ou égal à	none	never	# 0x2292
+⊓	chapeau carré	none	never	# 0x2293 infimum, borne inférieur, intersection
+⊔	coupe carrée	none	never	# 0x2294 réunion disjointe, espace vide, caractère blanc
+⊜	égal cerclé	none	never	# 0x229c
+⊝	tiret cerclé	none	never	# 0x229d
+⊠	multiplié encadré	none	never	# 0x22a0
+⊡	opérateur point encadré	none	never	# 0x22a1
+⊢	taquet droit	none	never	# 0x22a2
+⊣	taquet gauche	none	never	# 0x22a3
+⊤	taquet bas	none	never	# 0x22a4
+⊦	assertion	none	never	# 0x22a6
+⊧	modèle	none	never	# 0x22a7
+⊨	vrai	none	never	# 0x22a8
+⊩	oblige	none	never	# 0x22a9
+⊪	triplebarre verticale avec tourniquet à droite	none	never	# 0x22aa
+⊫	double barre verticale avec double tourniquet à droite	none	never	# 0x22ab
+⊭	pas vrai	none	never	# 0x22ad
+⊯	ne modèle pas	none	never	# 0x22af
+⊲	sous-groupe normal de	none	never	# 0x22b2
+⊳	contient comme sous-groupe distingué	none	never	# 0x22b3
+⊴	sous-groupe normal ou égale à	none	never	# 0x22b4
+⊵	contient comme sous-groupe distingué ou est égal à	none	never	# 0x22b5
+⊸	implication linéaire	none	never	# 0x22b8
+⊺	intercalation	none	never	# 0x22ba
+⊼	non hé	none	never	# 0x22bc
+⊽	non hou	none	never	# 0x22bd
+⊾	angle droit avec un arc	none	never	# 0x22be
+⋄	opérateur losange	none	never	# 0x22c4
+⋇	multiplication de division	none	never	# 0x22c7
+⋉	produit semi-direct à gauche	none	never	# 0x22c9
+⋊	produit semi-direct à droite	none	never	# 0x22ca
+⋋	produit semi-direct à gauche	none	never	# 0x22cb
+⋌	produit semi-direct à droite	none	never	# 0x22cc
+⋍	égal tilde renversé	none	never	# 0x22cd
+⋎	ou logique recourbé	none	never	# 0x22ce
+⋏	et logique recourbé	none	never	# 0x22cf
+⋐	double inclusion	none	never	# 0x22d0
+⋑	sur-ensemble double	none	never	# 0x22d1
+⋔	fourche	none	never	# 0x22d4
+⋕	égale et parallèle à	none	never	# 0x22d5
+⋖	inférieur avec un point	none	never	# 0x22d6
+⋗	supérieur avec un point	none	never	# 0x22d7
+⋚	inférieur ou égale à ou supérieur à	none	never	# 0x22da
+⋛	supérieur ou égale à ou inférieur à	none	never	# 0x22db
+⋜	égal à ou inférieur à	none	never	# 0x22dc
+⋝	égal à ou supérieur à	none	never	# 0x22dd
+⋞	égal à ou précède	none	never	# 0x22de
+⋟	égale à ou suit	none	never	# 0x22df
+⋠	ne précède pas ou égal à	none	never	# 0x22e0
+⋡	ne suit pas ou égal à	none	never	# 0x22e1
+⋣	pas original carré de ou égal à	none	never	# 0x22e3
+⋤	image carrée de ou pas égal à	none	never	# 0x22e4
+⋥	original carr de ou pas égal à	none	never	# 0x22e5
+⋦	inférieur mais pas équivalant à	none	never	# 0x22e6
+⋧	supérieur mais pas équivalant à	none	never	# 0x22e7
+⋨	précède mais pas équivalant à	none	never	# 0x22e8
+⋩	suit mais pas équivalAnt à	none	never	# 0x22e9
+⋪	pas un sous-groupe normal de	none	never	# 0x22ea
+⋫	ne contient pas un sous-groupe normal	none	never	# 0x22eb
+⋬	pas un sous-groupe normal de ou égal à	none	never	# 0x22ec
+⋲	appartient à avec trait horizontal long	none	never	# 0x22f2
+⋳	Appartient à avec barre verticale au bout	none	never	# 0x22f3
+⋴	petit Appartient à avec barre verticale au bout	none	never	# 0x22f4
+⋵	appartient à avec point en chef	none	never	# 0x22f5
+⋶	appartient à avec trait en chef	none	never	# 0x22f6
+⋷	petit appartient à avec trait en chef	none	never	# 0x22f7
+⋸	appartient à avec trait souscrit	none	never	# 0x22f8
+⋹	appartient à avec 2 traits horizontaux	none	never	# 0x22f9
+⋺	contient avec trait horizontal long	none	never	# 0x22fa
+⋻	contient avec trait vertical au bout	none	never	# 0x22fb
+⋼	petit contient avec trait vertical au bout	none	never	# 0x22fc
+⋽	contient avec trait en chef	none	never	# 0x22fd
+⋾	petit contient avec trait en chef	none	never	# 0x22fe
+⋿	appartient à un sac	none	never	# 0x22ff
+⟀	angle tridimensionnel	none	never	# 0x27c0
+⟁	triangle creux contenant un petit triangle	none	never	# 0x27c1
+⟃	sous-ensemble ouvert	none	never	# 0x27c3
+⟄	sur-ensemble ouvert	none	never	# 0x27c4
+⟅	délimiteur de sac en S ouvrant	none	never	# 0x27c5
+⟆	délimiteur de sac en S fermant	none	never	# 0x27c6
+⟇	ou avec un point à l'intérieur	none	never	# 0x27c7
+⟈	sous-ensemble précédé d'une barre oblique inverse	none	never	# 0x27c8
+⟉	sur-ensemble précédé d'une barre oblique	none	never	# 0x27c9
+⟊	barre verticale avec trait horizontal	none	never	# 0x27ca
+⟋	diagonale ascendante	none	never	# 0x27cb
+⟍	diagonale descendante	none	never	# 0x27cd
+⟎	et logique encadré	none	never	# 0x27ce
+⟏	ou logique encadré	none	never	# 0x27cf
+⟐	losange blanc à point centré	none	never	# 0x27d0
+⟑	et avec un point	none	never	# 0x27d1
+⟒	élément ouvert vers le haut	none	never	# 0x27d2
+⟓	coin inférieur droit pointé	none	never	# 0x27d3
+⟔	coin supérieur gauche pointé	none	never	# 0x27d4
+⟕	jointure externe gauche	none	never	# 0x27d5
+⟖	jointure externe droite	none	never	# 0x27d6
+⟗	jointure externe totale	none	never	# 0x27d7
+⟘	grand taquet vers le haut	none	never	# 0x27d8
+⟙	grand taquet vers le bas	none	never	# 0x27d9
+⟚	double tourniquet gauche et droit	none	never	# 0x27da
+⟛	taquet gauche et droit	none	never	# 0x27db
+⟜	multijection gauche	none	never	# 0x27dc
+⟝	long taquet droit	none	never	# 0x27dd
+⟟	taquet vertical surmonté d'un cercle	none	never	# 0x27df
+⟠	losange divisé horizontalement	none	never	# 0x27e0
+⟡	losange concave blanc	none	never	# 0x27e1
+⟢	losange concave blanc avec trait à gauche	none	never	# 0x27e2
+⟣	losange concave blanc avec trait à gauche	none	never	# 0x27e3
+⟤	carré blanc avec trait à gauche	none	never	# 0x27e4
+⟥	carré blanc avec trait à droite	none	never	# 0x27e5
+⟦	crochet gauche blanc	none	never	# 0x27e6
+⟧	crochet droit blanc	none	never	# 0x27e7
+⟨	chevron gauche	none	never	# 0x27e8
+⟩	chevron droit	none	never	# 0x27e9
+⟪	double chevron gauche	none	never	# 0x27ea
+⟫	double chevron droit	none	never	# 0x27eb
+⟬	crochet gauche blanc carapace de tortue	none	never	# 0x27ec
+⟭	crochet droit blanc carapace de tortue	none	never	# 0x27ed
+⟮	parenthèse gauche aplatie	none	never	# 0x27ee
+⟯	parenthèse droite aplatie	none	never	# 0x27ef
+⦀	délimiteur triple barre verticale	none	never	# 0x2980
+⦁	point médian	none	never	# 0x2981
+⦂	deux-points	none	never	# 0x2982
+⦃	accolade gauche	none	never	# 0x2983
+⦄	accolade droite	none	never	# 0x2984
+⦅	parenthèse gauche	none	never	# 0x2985
+⦆	parenthèse droite	none	never	# 0x2986
+⦇	parenthèse image gauche	none	never	# 0x2987
+⦈	parenthèse image droite	none	never	# 0x2988
+⦉	crochet gauche de liaison	none	never	# 0x2989
+⦊	crochet droit de liaison	none	never	# 0x298a
+⦋	crochet gauche avec barre souscrite	none	never	# 0x298b
+⦌	crochet droit avec barre souscrite	none	never	# 0x298c
+⦍	crochet gauche coché en haut	none	never	# 0x298d
+⦎	crochet droit coché en bas	none	never	# 0x298e
+⦏	crochet gauche coché en bas	none	never	# 0x298f
+⦐	crochet droit coché en haut	none	never	# 0x2990
+⦑	chevron gauche pointé	none	never	# 0x2991
+⦒	chevron droit pointé	none	never	# 0x2992
+⦓	crochet gauche en arc inférieur à	none	never	# 0x2993
+⦔	crochet droit en arc supérieur à	none	never	# 0x2994
+⦕	double crochet gauche en arc supérieur à	none	never	# 0x2995
+⦖	double crochet droit en arc inférieur à	none	never	# 0x2996
+⦗	crochet gauche carapace de tortue	none	never	# 0x2997
+⦘	crochet droit carapace de tortue	none	never	# 0x2998
+⦙	clôture pointillée	none	never	# 0x2999
+⦚	zigzag vertical	none	never	# 0x299a
+⦛	mesure d'angle ouvrant à gauche	none	never	# 0x299b
+⦜	angle droit avec un carré	none	never	# 0x299c
+⦝	mesure d'angle droit avec un point	none	never	# 0x299d
+⦞	S dans un angle	none	never	# 0x299e
+⦟	angle aigu	none	never	# 0x299f
+⦠	angle sphérique ouvrant à gauche	none	never	# 0x29a0
+⦡	angle sphérique ouvrant en haut	none	never	# 0x29a1
+⦢	angle culbuté	none	never	# 0x29a2
+⦣	angle réfléchi	none	never	# 0x29a3
+⦤	angle avec barre souscrite	none	never	# 0x29a4
+⦥	angle réfléchi avec barre souscrite	none	never	# 0x29a5
+⦦	angle obtus ouvrant en haut	none	never	# 0x29a6
+⦧	angle obtus ouvrant en bas	none	never	# 0x29a7
+⦨	mesure d'angle ouvrant à droite avec flèche en haut	none	never	# 0x29a8
+⦩	mesure d'angle ouvrant à gauche avec flèche en haut	none	never	# 0x29a9
+⦪	mesure d'angle ouvrant à droite avec flèche en bas	none	never	# 0x29aa
+⦫	mesure d'angle ouvrant à gauche avec flèche en bas	none	never	# 0x29ab
+⦬	mesure d'angle ouvrant en haut avec flèche à droite	none	never	# 0x29ac
+⦭	mesure d'angle ouvrant en haut avec flèche à gauche	none	never	# 0x29ad
+⦮	mesure d'angle ouvrant en bas avec flèche à droite	none	never	# 0x29ae
+⦯	mesure d'angle ouvrant en bas avec flèche à gauche	none	never	# 0x29af
+⦰	ensemble vide réfléchi	none	never	# 0x29b0
+⦱	ensemble vide avec barre en chef	none	never	# 0x29b1
+⦲	ensemble vide avec petit cercle en chef	none	never	# 0x29b2
+⦳	ensemble vide avec flèche droite en chef	none	never	# 0x29b3
+⦴	ensemble vide avec flèche gauche en chef	none	never	# 0x29b4
+⦵	cercle avec barre horizontale	none	never	# 0x29b5
+⦶	barre verticale cerclée	none	never	# 0x29b6
+⦷	parallèle cerclée	none	never	# 0x29b7
+⦸	barre oblique inversée cerclée	none	never	# 0x29b8
+⦹	perpendiculaire cerclée	none	never	# 0x29b9
+⦺	cercle avec diamètre horizontal et rayon pointant en haut	none	never	# 0x29ba
+⦻	cercle avec 2 diamètres en X	none	never	# 0x29bb
+⦽	flèche haute à travers un cercle	none	never	# 0x29bd
+⦾	puce blanche cerclée	none	never	# 0x29be
+⦿	puce cerclée	none	never	# 0x29bf
+⧀	inférieur à cerclé	none	never	# 0x29c0
+⧁	supérieur à cerclé	none	never	# 0x29c1
+⧂	cercle avec petit cercle à droite	none	never	# 0x29c2
+⧃	cercle avec 2 traits horizontaux à droite	none	never	# 0x29c3
+⧄	carré avec diagonale montante	none	never	# 0x29c4
+⧅	carré avec diagonale descendante	none	never	# 0x29c5
+⧆	astérisque dans un carré	none	never	# 0x29c6
+⧇	petit cercle dans un carré	none	never	# 0x29c7
+⧈	carré dans un carré	none	never	# 0x29c8
+⧉	2 carrés se chevauchant	none	never	# 0x29c9
+⧊	triangle avec point en chef	none	never	# 0x29ca
+⧋	triangle avec barre souscrite	none	never	# 0x29cb
+⧌	S dans un triangle	none	never	# 0x29cc
+⧍	triangle posé sur une droite	none	never	# 0x29cd
+⧎	triangle pointant à droite au-dessus d'un triangle pointant à gauche	none	never	# 0x29ce
+⧏	triangle pointant à gauche et barre verticale	none	never	# 0x29cf
+⧐	barre verticale et triangle pointant à droite	none	never	# 0x29d0
+⧑	papillon à aile droite pleine	none	never	# 0x29d1
+⧒	papillon à aile gauche pleine	none	never	# 0x29d2
+⧓	papillon plein	none	never	# 0x29d3
+⧔	X avec moitié gauche pleine	none	never	# 0x29d4
+⧕	X avec moitié droite pleine	none	never	# 0x29d5
+⧖	sablier vide	none	never	# 0x29d6
+⧗	sablier plein	none	never	# 0x29d7
+⧘	clôture dentelée gauche	none	never	# 0x29d8
+⧙	clôture dentelée droite	none	never	# 0x29d9
+⧚	double clôture dentelée gauche	none	never	# 0x29da
+⧛	double clôture dentelée droite	none	never	# 0x29db
+⧜	infini incomplet	none	never	# 0x29dc
+⧝	boucle sur infini	none	never	# 0x29dd
+⧞	infini nié par une barre verticale	none	never	# 0x29de
+⧟	multijection à 2 têtes	none	never	# 0x29df
+⧠	carré ombré	none	never	# 0x29e0
+⧡	augmente comme	none	never	# 0x29e1
+⧢	produit de mélange	none	never	# 0x29e2
+⧣	signe égal et parallèles obliguqes	none	never	# 0x29e3
+⧤	signe égal et parallèles obliques avec tilde en chef	none	never	# 0x29e4
+⧥	identique à et parallèles obliques	none	never	# 0x29e5
+⧦	équivalence tautologique	none	never	# 0x29e6
+⧧	thermodynamique	none	never	# 0x29e7
+⧨	triangle pointant en bas avec moitié gauche pleine	none	never	# 0x29e8
+⧩	triangle pointant en bas avec moitié droite pleine	none	never	# 0x29e9
+⧪	losange plein avec flèche bas	none	never	# 0x29ea
+⧫	losange plein	none	never	# 0x29eb
+⧬	cercle creux avec flèche bas	none	never	# 0x29ec
+⧭	cercle plein avec flèche bas	none	never	# 0x29ed
+⧮	carré creux avec barre d'erreur	none	never	# 0x29ee
+⧯	carré plein avec barre d'erreur	none	never	# 0x29ef
+⧰	losange creux avec barre d'erreur	none	never	# 0x29f0
+⧱	losange plein avec barre d'erreur	none	never	# 0x29f1
+⧲	cercle creux avec barre d'erreur	none	never	# 0x29f2
+⧳	cercle plein avec barre d'erreur	none	never	# 0x29f3
+⧴	règle différée	none	never	# 0x29f4
+⧵	barre oblique inversée	none	never	# 0x29f5
+⧶	barre oblique avec barre en chef	none	never	# 0x29f6
+⧷	barre oblique inversée avec trait horizontal	none	never	# 0x29f7
+⧸	grande barre oblique	none	never	# 0x29f8
+⧹	grande barre oblique inversée	none	never	# ⧹ 0x29f9
+⧺	double plus	none	never	# 0x29fa
+⧻	triple plus	none	never	# 0x29fb
+⧼	chevron incurvé gauche	none	never	# 0x29fc
+⧽	chevron incurvé droit	none	never	# 0x29fd
+⧾	taïny	none	never	# 0x29fe
+⧿	miny	none	never	# 0x29ff
+⬀	flèche nord-est	none	never	# 0x2b00
+⬁	flèche nord-ouest	none	never	# 0x2b01
+⬂	flèche sud-ouest	none	never	# 0x2b02
+⬃	flèche sud-ouest	none	never	# 0x2b03
+⬄	flèche gauche-droite	none	never	# 0x2b04
+⬈	flèche nord-est	none	never	# 0x2b08
+⬉	flèche nord-ouest	none	never	# ⬉0x2b09
+⬊	flèche sud-est	none	never	# 0x2b0a
+⬋	flèche sud-ouest	none	never	# 0x2b0b
+⬌	flèche gauche-droite	none	never	# 0x2b0c
+⬍	flèche haut-bas	none	never	# 0x2b0d
+⬎	flèche vers la droite puis le bas	none	never	# 0x2b0e
+⬏	flèche vers la droite puis le haut	none	never	# 0x2b0f
+⬐	flèche vers la gauche puis le bas	none	never	# 0x2b10
+⬑	flèche vers la gauche puis le haut	none	never	# 0x2b11
+⬒	carré avec moitié supérieure pleine	none	never	# 0x2b12
+⬓	carré avec moitié inférieure pleine	none	never	# 0x2b13
+⬔	carré avec moitié supérieure droite pleine	none	never	# 0x2b14
+⬕	carré avec moitié inférieure gauche pleine	none	never	# 0x2b15
+⬖	losange avec moitié gauche pleine	none	never	# 0x2b16
+⬗	losange avec moitié droite pleine	none	never	# 0x2b17
+⬘	losange avec moitié supériere pleine	none	never	# 0x2b18
+⬙	losange avec moitié inférieure pleine	none	never	# 0x2b19
+⬚	carré en pointillé	none	never	# 0x2b1a
+⬝	petit carré plein	none	never	# 0x2b1d
+⬞	petit carré	none	never	# 0x2b1e
+⬟	pentagone plein	none	never	# 0x2b1f
+⬠	pentagone	none	never	# 0x2b20
+⬡	hexagone	none	never	# 0x2b21
+⬢	hexagone plein	none	never	# 0x2b22
+⬣	hexagone plein	none	never	# 0x2b23
+⬤	grand cercle plein	none	never	# 0x2b24
+⬥	losange plein	none	never	# 0x2b25
+⬦	losange	none	never	# 0x2b26
+⬧	lozenge plein	none	never	# 0x2b27
+⬨	lozenge	none	never	# 0x2b28
+⬩	petit losange plein	none	never	# 0x2b29
+⬪	petit lozenge plein	none	never	# 0x2b2a
+⬫	petit lozenge	none	never	# 0x2b2b
+⬬	ellipse horizontale pleine	none	never	# 0x2b2c
+⬭	ellipse horizontale	none	never	# 0x2b2d
+⬮	ellipse verticale pleine	none	never	# 0x2b2e
+⬯	ellipse verticale	none	never	# 0x2b2f
+⬰	flèche gauche avec petit cercle	none	never	# 0x2b30
+⬱	3 flèches gauche	none	never	# 0x2b31
+⬲	flèche gauche avec + cerclé	none	never	# 0x2b32
+⬳	longue flèche gauche ondulée	none	never	# 0x2b33
+⬴	flèche gauche barrée à 2 pointes	none	never	# 0x2b34
+⬵	flèche gauche doublement barrée à 2 pointes	none	never	# 0x2b35
+⬶	flèche gauche à 2 pointes d'un taquet	none	never	# 0x2b36
+⬷	flèche gauche à 3 traits et 2 pointes	none	never	# 0x2b37
+⬸	flèche gauche pointillée	none	never	# 0x2b38
+⬹	flèche gauche empennée et barrée verticalement	none	never	# 0x2b39
+⬺	flèche gauche empennée et doublement barrée verticalement	none	never	# 0x2b3a
+⬻	flèche gauche empennée à 2 têtes	none	never	# 0x2b3b
+⬼	flèche gauche empennée à 2 têtes barrée verticalement	none	never	# 0x2b3c
+⬽	flèche gauche empennée à 2 têtes doublement barrée verticalement	none	never	# 0x2b3d
+⬾	flèche gauche à travers un X	none	never	# 0x2b3e
+⬿	flèche gauche ondulée	none	never	# 0x2b3f
+⭀	signe égal sur flèche gauche	none	never	# 0x2b40
+⭁	tilde réfléchi sur flèche gauche	none	never	# 0x2b41
+⭂	approximativement égal à sous flèche gauche	none	never	# 0x2b42
+⭃	supérieur à traversé par flèche droite	none	never	# 0x2b43
+⭄	sur-ensemble traversé par flèche droite	none	never	# 0x2b44
+⭅	quadruple flèche gauche	none	never	# 0x2b45
+⭆	quadruple flèche droite	none	never	# 0x2b46
+⭇	tilde réfléchi sur flèche droite	none	never	# 0x2b47
+⭈	approximativement égal à sous flèche droite	none	never	# 0x2b48
+⭉	tilde sur flèche gauche	none	never	# 0x2b49
+⭊	approximativement égal à sous flèche gauche	none	never	# 0x2b4a
+⭋	tilde réfléchi sous flèche gauche	none	never	# 0x2b4b
+⭌	tilde réfléchi sous flèche droite	none	never	# 0x2b4c
+⭍	flèche bas en zigzag	none	never	# 0x2b4d
+⭎	flèche courte nord inclinée	none	never	# 0x2b4e
+⭏	flèche courte sud inclinée	none	never	# 0x2b4f
+⭑	petite étoile pleine	none	never	# 0x2b51
+⭒	petite étoile	none	never	# 0x2b52
+⭓	pentagone plein pointant à droite	none	never	# 0x2b53
+⭔	pentagone pointant à droite	none	never	# 0x2b54
+⭖	ovale contenant un ovale	none	never	# 0x2b56
+⭗	cercle contenant un cercle	none	never	# 0x2b57
+⭘	cercle épais	none	never	# 0x2b58
+⭙	sautoir cerclé	none	never	# 0x2b59
+⭚	flèche nord inclinée à tête en crosse	none	never	# 0x2b5a
+⭛	flèche sud inclinée avec queue en crosse	none	never	# 0x2b5b
+⭜	flèche nord inclinée avec queue horizontale	none	never	# 0x2b5c
+⭝	flèche sud inclinée avec queue horizontale	none	never	# 0x2b5d
+⭞	flèche vers le bas puis nord-est	none	never	# 0x2b5e
+⭟	flèche courte vers le bas puis nord-est	none	never	# 0x2b5f
+⭠	flèche gauche	none	never	# 0x2b60
+⭡	flèche haut	none	never	# 0x2b61
+⭢	flèche droite	none	never	# 0x2b62
+⭣	flèche bas	none	never	# 0x2b63
+⭤	flèche gauche-droite à têtes triangle	none	never	# 0x2b64
+⭥	flèche haut-bas à têtes triangle	none	never	# 0x2b65
+⭦	flèche nord-ouest	none	never	# 0x2b66
+⭧	flèche nord-est	none	never	# 0x2b67
+⭨	flèche sud-est	none	never	# 0x2b68
+⭩	flèche sud-ouest	none	never	# 0x2b69
+⭪	flèche gauche en tirets	none	never	# 0x2b6a
+⭫	flèche haut en tirets	none	never	# 0x2b6b
+⭬	flèche droite en tirets	none	never	# 0x2b6c
+⭭	flèche bas en tirets	none	never	# 0x2b6d
+⭮	flèche dans le sens horaire	none	never	# 0x2b6e
+⭯	flèche dans le sens anti-horaire	none	never	# 0x2b6f
+⭰	flèche gauche vers barre verticale	none	never	# 0x2b70
+⭱	flèche haut vers barre horizontale	none	never	# 0x2b71
+⭲	flèche droite vers barre verticale	none	never	# 0x2b72
+⭳	flèche bas vers barre horizontale	none	never	# 0x2b73
+⭶	flèche nord-ouest vers barre oblique	none	never	# 0x2b76
+⭷	flèche nord-est vers barre oblique	none	never	# 0x2b77
+⭸	flèche sud-est vers barre oblique	none	never	# 0x2b78
+⭹	flèche sud-ouest vers barre oblique	none	never	# 0x2b79
+⭺	flèche gauche avec 2 traits verticaux	none	never	# 0x2b7a
+⭻	flèche haut avec 2 traits horizontaux	none	never	# 0x2b7b
+⭼	flèche droit avec 2 traits verticaux	none	never	# 0x2b7c
+⭽	flèche bas avec 2 traits horizontaux	none	never	# 0x2b7d
+⭾	tabulation horizontale	none	never	# 0x2b7e
+⭿	tabulation verticale	none	never	# 0x2b7f
+⮀	flèche gauche sur flèche droite	none	never	# 0x2b80
+⮁	flèche haut et flèche bas	none	never	# 0x2b81
+⮂	flèche droite sur flèche gauche	none	never	# 0x2b82
+⮃	flèche bas et flèche haut	none	never	# 0x2b83
+⮄	2 flèches gauche	none	never	# 0x2b84
+⮅	2 flèches haut	none	never	# 0x2b85
+⮆	2 flèches droite	none	never	# 0x2b86
+⮇	2 flèches bas	none	never	# 0x2b87
+⮈	flèche gauche dans un cercle	none	never	# 0x2b88
+⮉	flèche haut dans un cercle	none	never	# 0x2b89
+⮊	flèche droite dans un cercle	none	never	# 0x2b8a
+⮋	flèche bas dans un cercle	none	never	# 0x2b8b
+⮌	flèche anti-horaire enh U ouvert à gauche	none	never	# 0x2b8c
+⮍	flèche anti-horaire enh U ouvert en haut	none	never	# 0x2b8d
+⮎	flèche anti-horaire enh U ouvert à droite	none	never	# 0x2b8e
+⮏	flèche anti-horaire enh U ouvert en bas	none	never	# 0x2b8f
+⮐	retour-chariot à gauche	none	never	# 0x2b90
+⮑	retour-chariot à droite	none	never	# 0x2b91
+⮒	nouvelle ligne à gauche	none	never	# 0x2b92
+⮓	nouvelle ligne à droite	none	never	# 0x2b93
+⮔	rectangle avec flèche anti-horaire	none	never	# 0x2b94
+⮕	flèche droite	none	never	# 0x2b95
+⮘	pointe flèche gauche 3D	none	never	# 0x2b98
+⮙	pointe flèche haut 3D	none	never	# 0x2b99
+⮚	pointe flèche droite 3D	none	never	# 0x2b9a
+⮛	pointe flèche bas 3D	none	never	# 0x2b9b
+⮜	pointe flèche gauche	none	never	# 0x2b9c
+⮝	pointe flèche haut	none	never	# 0x2b9d
+⮞	pointe flèche droite	none	never	# 0x2b9e
+⮟	pointe flèche gauche	none	never	# 0x2b9f
+⮠	flèche bas puis gauche	none	never	# 0x2ba0
+⮡	flèche bas puis droite	none	never	# 0x2ba1
+⮢	flèche haut puis gauche	none	never	# 0x2ba2
+⮣	flèche haut puis droite	none	never	# 0x2ba3
+⮤	flèche gauche puis haut	none	never	# 0x2ba4
+⮥	flèche droite puis haut	none	never	# 0x2ba5
+⮦	flèche gauche puis bas	none	never	# 0x2ba6
+⮧	flèche droite puis bas	none	never	# 0x2ba7
+⮨	flèche bas puis gauche	none	never	# 0x2ba8
+⮩	flèche bas puis droite	none	never	# 0x2ba9
+⮪	flèche haut puis gauche	none	never	# 0x2baa
+⮫	flèche haut puis droite	none	never	# 0x2bab
+⮬	flèche gauche puis haut	none	never	# 0x2bac
+⮭	flèche droite puis haut	none	never	# 0x2bad
+⮮	flèche gauche puis bas	none	never	# 0x2bae
+⮯	flèche droite puis bas	none	never	# 0x2baf
+⮰	flèche bas puis gauche	none	never	# 0x2bb0
+⮱	flèche bas puis droite	none	never	# 0x2bb1
+⮲	flèche haut puis gauche	none	never	# 0x2bb2
+⮳	flèche haut puis droite	none	never	# 0x2bb3
+⮴	flèche gauche puis haut	none	never	# 0x2bb4
+⮵	flèche droite puis haut	none	never	# 0x2bb5
+⮶	flèche gauche puis bas	none	never	# 0x2bb6
+⮷	flèche droite puis bas	none	never	# 0x2bb7
+⮸	flèche haut depuis barre horizontale	none	never	# 0x2bb8
+⮹	pointe flèche haut dans un rectangle	none	never	# 0x2bb9
+⮽	case cochée par un X	none	never	# 0x2bbd
+⮿	X gras cerclé	none	never	# ⮿ 0x2bbf
+⯀	carré plein	none	never	# 0x2bc0
+⯁	losange plein	none	never	# 0x2bc1
+⯂	pentagone plein pivoté	none	never	# 0x2bc2
+⯃	octogone plein	none	never	# 0x2bc3
+⯄	octogone plein	none	never	# 0x2bc4
+⯅	triangle plein vers le haut	none	never	# 0x2bc5
+⯆	triangle plein vers le bas	none	never	# 0x2bc6
+⯇	triangle plein vers la gauche	none	never	# 0x2bc7
+⯈	triangle plein vers la droite	none	never	# 0x2bc8
+⯊	demi-cercle haut plein	none	never	# 0x2bca
+⯋	demi-cercle bas plein	none	never	# 0x2bcb
+⯌	cupside pleine 4 branches	none	never	# 0x2bcc
+⯍	cupside pivotée pleine à 4 branches	none	never	# 0x2bcd
+⯎	cupside à 4 branches	none	never	# 0x2bce
+⯏	cupside pivotée à 4 branches	none	never	# 0x2bcf
+⯐	indicateur de position carré	none	never	# 0x2bd0
+⯑	signe d'incertitude	none	never	# 0x2bd1
+⯬	flèche gauche à 2 têtes	none	never	# 0x2bec
+⯭	flèche haut à 2 têtes	none	never	# 0x2bed
+⯮	flèche droite à 2 têtes	none	never	# 0x2bee
+⯯	flèche bas à 2 têtes	none	never	# 0x2bef
+🌢	goutte	none	never	# 0x1f322
+🌣	soleil	none	never	# 0x1f323
+🎔	coeur avec pointe à gauche	none	never	# 0x1f394
+🎕	bouquet de fleurs	none	never	# 0x1f395
+🎘	clavier musical avec câbles	none	never	# 0x1f398
+🎜	notes de musique ascendantes	none	never	# 0x1f39c
+🎝	notes de musique descendantes	none	never	# 0x1f39d
+📾	stéréo portable	none	never	# 0x1f4fe
+🔾	cerclé ombré en bas à droite	none	never	# 0x1f53e
+🔿	cercle ombré en haut à droite	none	never	# 0x1f53f
+🕀	croix à pommes cerclée	none	never	# 0x1f540
+🕁	croix à pommes demi-cerclé en bas	none	never	# 0x1f541
+🕂	croix à pommes	none	never	# 0x1f542
+🕃	demi-cercle gauche entaillé avec 3 points	none	never	# 0x1f543
+🕄	demi-cercle droit entaillé avec 3 points	none	never	# 0x1f544
+🕅	marque de chapitre	none	never	# 0x1f545
+🕆	croix latine blanche	none	never	# 0x1f546
+🕇	croix latine épaisse	none	never	# 0x1f547
+🕈	croix celtique	none	never	# 0x1f548
+🕏	coupe d'hygie	none	never	# 0x1f54f
+🕨	haut-parleur vers la gauche	none	never	# 0x1f568
+🕩	haut-parleur vers la gauche volume faible	none	never	# 0x1f569
+🕪	haut-parleur vers la gauche volume élevé	none	never	# 0x1f56a
+🕫	porte-voix	none	never	# 0x1f56b
+🕬	porte-voix avec onde sonore	none	never	# 0x1f56c
+🕭	sonnerie de cloche	none	never	# 0x1f56d
+🕮	livre	none	never	# 0x1f56e
+🕱	tête de mort	none	never	# 0x1f571
+🕲	piratage interdit	none	never	# 0x1f572
+🕻	combiné téléphonique à gauche	none	never	# 0x1f57b
+🕼	combiné téléphonique et page	none	never	# 0x1f57c
+🕽	combiné téléphonique à droite	none	never	# 0x1f57d
+🕾	téléphone fixe blanc	none	never	# 0x1f57e
+🕿	téléphone fixe	none	never	# 0x1f57f
+🖀	téléphone et modem	none	never	# 0x1f580
+🖁	téléphone à clapet	none	never	# 0x1f581
+🖂	dos de l'enveloppe	none	never	# 0x1f582
+🖃	enveloppe affranchie	none	never	# 0x1f583
+🖄	enveloppe avec éclair	none	never	# 0x1f584
+🖅	enveloppe expédiée	none	never	# 0x1f585
+🖆	enveloppe avec stylo	none	never	# 0x1f586
+🖇	2 trombones attachés	none	never	# 0x1f587
+🖈	punaise	none	never	# 0x1f588
+🖉	stylo	none	never	# 0x1f589
+🖎	écriture de la main gauche	none	never	# 0x1f58e
+🖏	OK avec les doigts	none	never	# 0x1f58f
+🖑	main levée doigts écartés	none	never	# 0x1f591
+🖒	pouce levé	none	never	# 0x1f592
+🖓	pouce vers le bas	none	never	# 0x1f593
+🖔	V de la victoire	none	never	# 0x1f594
+🖗	index pointant en bas	none	never	# 0x1f597
+🖘	index pointant à gauche	none	never	# 0x1f598
+🖙	index pointant à droite	none	never	# 0x1f599
+🖚	index pointant à gauche	none	never	# 0x1f59a
+🖛	index pointant à droite	none	never	# 0x1f59b
+🖜	index pointant à gauche	none	never	# 0x1f59c
+🖝	index pointant à droite	none	never	# 0x1f59d
+🖞	index pointant en haut	none	never	# 0x1f59e
+🖟	index pointant en bas	none	never	# 0x1f59f
+🖠	index pointant en haut	none	never	# 0x1f5a0
+🖡	index pointant en bas	none	never	# 0x1f5a1
+🖢	index pointant en haut	none	never	# 0x1f5a2
+🖣	index pointant en bas	none	never	# 0x1f5a3
+🖦	souris et clavier	none	never	# 0x1f5a6
+🖧	3 ordinateurs en réseau	none	never	# 0x1f5a7
+🖩	calculatrice de poche	none	never	# 0x1f5a9
+🖪	disquette noire	none	never	# 0x1f5aa
+🖫	disquette blanche	none	never	# 0x1f5ab
+🖬	vieille disquette	none	never	# 0x1f5ac
+🖭	cartouche à bande	none	never	# 0x1f5ad
+🖮	clavier branché	none	never	# 0x1f5ae
+🖯	souris à 1 bouton	none	never	# 0x1f5af
+🖰	souris à 2 boutons	none	never	# 0x1f5b0
+🖳	vieil ordinateur	none	never	# 0x1f5b3
+🖴	disque dur	none	never	# 0x1f5b4
+🖵	écran	none	never	# 0x1f5b5
+🖶	imprimante	none	never	# 0x1f5b6
+🖷	fax	none	never	# 0x1f5b7
+🖸	cd rom	none	never	# 0x1f5b8
+🖹	document avec texte	none	never	# 0x1f5b9
+🖺	document avec texte et image	none	never	# 0x1f5ba
+🖻	document avec image	none	never	# 0x1f5bb
+🖽	cadre avec tuiles	none	never	# 0x1f5bd
+🖾	cadre avec un X	none	never	# 0x1f5be
+🖿	dossier	none	never	# 0x1f5bf
+🗀	dossier blanc	none	never	# 0x1f5c0
+🗁	dossier blanc ouvert	none	never	# 0x1f5c1
+🗅	note vierge	none	never	# 0x1f5c5
+🗆	page vierge	none	never	# 0x1f5c6
+🗇	bloc-notes vide	none	never	# 0x1f5c7
+🗈	note écrite	none	never	# 0x1f5c8
+🗉	page écrite	none	never	# 0x1f5c9
+🗊	bloc-notes	none	never	# 0x1f5ca
+🗋	document vierge	none	never	# 0x1f5cb
+🗌	page vierge	none	never	# 0x1f5cc
+🗍	pages vierges	none	never	# 0x1f5cd
+🗎	document	none	never	# 0x1f5ce
+🗏	page	none	never	# 0x1f5cf
+🗐	pages	none	never	# 0x1f5d0
+🗔	fenêtre du bureau	none	never	# 0x1f5d4
+🗕	réduire la fenêtre	none	never	# 0x1f5d5
+🗖	agrandir la fenêtre	none	never	# 0x1f5d6
+🗗	superposer	none	never	# 0x1f5d7
+🗘	2 flèches demi-cercles dans le sens horaire	none	never	# 0x1f5d8
+🗙	annuler	none	never	# 0x1f5d9
+🗚	agrandir la police	none	never	# 0x1f5da
+🗛	diminuer la police	none	never	# 0x1f5db
+🗜	compression	none	never	# 0x1f5dc serre-joint
+🗟	page avec texte entouré	none	never	# 0x1f5df
+🗠	graphique boursier	none	never	# 0x1f5e0
+🗢	lèvres	none	never	# 0x1f5e2
+🗤	3 rayons vers le haut	none	never	# 0x1f5e4
+🗥	3 rayons vers le bas	none	never	# 0x1f5e5
+🗦	3 rayons vers la gauche	none	never	# 0x1f5e6
+🗧	3 rayons vers la droite	none	never	# 0x1f5e7
+🗩	bulle de parole droite noire	none	never	# 0x1f5e9
+🗪	2 bulles de paroles noires	none	never	# 0x1f5ea
+🗫	3 bulles de paroles noires	none	never	# 0x1f5eb
+🗬	bulle de pensée gauche noire	none	never	# 0x1f5ec
+🗭	bulle de pensée droite noire	none	never	# 0x1f5ed
+🗮	bulle de colère droite noire	none	never	# 0x1f5ee
+🗰	bulle noire d'humeur	none	never	# 0x1f5f0
+🗱	bulle d'humeur avec éclair	none	never	# 0x1f5f1
+🗲	foudre	none	never	# 0x1f5f2
+🗴	croix sur un bulletin	none	never	# 0x1f5f4
+🗵	case d'un bulletin avec croix	none	never	# 🗵 0x1f5f5
+🗶	croix grasse sur un bulletin	none	never	# 0x1f5f6
+🗷	case d'un bulletin avec croix	none	never	# 0x1f5f7
+🗸	coche	none	never	# 0x1f5f8
+🗹	case cochée d'un bulletin	none	never	# 0x1f5f9
+🗿	moaï	none	never	# 0x1f5ff
+☖	pièce blanche du shogi	none	never	# 0x2616
+☗	pièce noire du shogi	none	never	# 0x2617
+☙	coeur floral couché à droite	all	never	# 0x2619
+☡	attention!	none	never	# 0x2621
+☥	ankh	none	never	# 0x2625
+☰	trigramme  paradis	none	never	# 0x2630
+☱	trigramme lac	none	never	# 0x2631
+☲	trigramme feu	none	never	# 0x2632
+☳	trigramme foudre	none	never	# 0x2633
+☴	trigramme vent	none	never	# 0x2634
+☵	trigramme eau	none	never	# 0x2635
+☶	trigramme montagne	none	never	# 0x2636
+☷	trigramme Terre	none	never	# 0x2637
+☿	mercure	none	never	# 0x263f
+♁	Terre	none	never	# 0x2641
+♃	Jupiter	none	never	# 0x2643
+♄	Saturne	none	never	# 0x2644
+♅	Uranus	none	never	# 0x2645
+♆	Neptune	none	never	# 0x2646
+♇	Pluton	none	never	# 0x2647
+♳	recyclage plastiques de type 1	none	never	# 0x2673
+♴	recyclage plastiques de type 2	none	never	# 0x2674
+♵	recyclage plastiques de type 3	none	never	# 0x2675
+♶	recyclage plastiques de type 4	none	never	# 0x2676
+♷	recyclage plastiques de type 5	none	never	# 0x2677
+♸	recyclage plastiques de type 6	none	never	# 0x2678
+♹	recyclage plastiques de type 7	none	never	# 0x2679
+♺	recyclage matériaux génériques	none	never	# 0x267a
+♻	recyclage	none	never	# 0x267b
+♼	papier recyclé	none	never	# 0x267c
+♽	papier partiellement recyclé	none	never	# 0x267d
+♾	papier permanent	none	never	# 0x267e
+♿	accès handicapé	none	never	# 0x267f
+⚆	cercle avec un point à droite	none	never	# 0x2686
+⚇	cercle avec 2 points	none	never	# 0x2687
+⚈	cercle plein avec un point blanc à droite	none	never	# 0x2688
+⚉	cercle plein avec 2 points blancs	none	never	# 0x2689
+⚊	monogramme yangg	none	never	# 0x268a
+⚋	monogramme yinn	none	never	# 0x268b
+⚌	digramme grand yangg	none	never	# 0x268c
+⚍	digramme petit yinn	none	never	# 0x268d
+⚎	digramme petit yangg	none	never	# 0x268e
+⚏	digramme grand yinn	none	never	# 0x268f
+⚚	caducée d'Hermèss	none	never	# 0x269a
+⚛	atome	none	never	# 0x269b
+⚢	double symbole de la femme	none	never	# 0x26a2
+⚣	double symbole de l'homme	none	never	# 0x26a3
+⚤	symboles homme et femme enlacés	none	never	# 0x26a4
+⚥	symboles combinés de l'homme et de la femme	none	never	# 0x26a5
+⚦	symbole mâle barré	none	never	# 0x26a6
+⚨	symbole d'androgynie	none	never	# 0x26a8
+⚩	symbole mâle horizontal avec trait	none	never	# 0x26a9
+⚬	petit cercle blanc	none	never	# 0x26ac
+⚭	mariage	none	never	# 0x26ad
+⚮	divorce	none	never	# 0x26ae
+⚯	partenaires non mariés	none	never	# 0x26af
+⚲	symbole stérile ou asexué	none	never	# 0x26b2
+⚳	Cérèss	none	never	# 0x26b3
+⚴	Pallass	none	never	# 0x26b4
+⚵	Juno	none	never	# 0x26b5
+⚶	Vesta	none	never	# 0x26b6
+⚷	Chiron	none	never	# 0x26b7
+⚸	lune noire Lilith	none	never	# 0x26b8
+⚹	sextile	none	never	# 0x26b9
+⚺	demi sextile	none	never	# 0x26ba
+⚻	quinconce	none	never	# 0x26bb
+⚼	sesquicarré	none	never	# 0x26bc
+⚿	clé encadrée	none	never	# 0x26bf
+⛀	pion blanc du jeu de dames	none	never	# 0x26c0
+⛁	dame blanche du jeu de dames	none	never	# 0x26c1
+⛂	pion noir du jeu de dames	none	never	# 0x26c2
+⛃	dame noire du jeu de dames	none	never	# 0x26c3
+⛉	pièce blanche retournée du shogi	none	never	# 0x26c9
+⛊	pièce noir retournée du shogi	none	never	# 0x26ca
+⛋	losange dans un carré	none	never	# 0x26cb
+⛌	croisement	none	never	# 0x26cc
+⛍	voiture en panne	none	never	# 0x26cd
+⛐	chaussée glissante	none	never	# 0x26d0
+⛒	croisement encerclé	none	never	# 0x26d2
+⛕	circulation alternée sur la voix de gauche	none	never	# 0x26d5
+⛖	circulation à gauche	none	never	# 0x26d6
+⛗	circulation à gauche	none	never	# 0x26d7
+⛘	fusion de voix vers la droite	none	never	# 0x26d8
+⛙	fusion de voix vers la droite	none	never	# 0x26d9
+⛚	panneau ralentir	none	never	# 0x26da
+⛛	gros triangle pointant vers le bas	none	never	# 0x26db
+⛜	fin de bretelle d'entrée à gauche	none	never	# 0x26dc
+⛝	sautoir encadré	none	never	# 0x26dd
+⛞	diagonale descendante d'un cercle blanc dans un carré plein	none	never	# 0x26de
+⛟	camion	none	never	# 0x26df
+⛠	entrée gauche restreinte	none	never	# 0x26e0
+⛡	entrée gauche restreinte	none	never	# 0x26e1
+⛢	Uranus	none	never	# ⛢ 0x26e2
+⛣	cercle épais avec 2 points et barre verticale en chef	none	never	# 0x26e3
+⛤	pentagramme	none	never	# 0x26e4
+⛥	pentagramme	none	never	# 0x26e5
+⛦	pentagramme	none	never	# 0x26e6
+⛧	pentagramme retourné	none	never	# 0x26e7
+⛨	croix sur un bouclier	none	never	# 0x26e8
+⛫	château	none	never	# 0x26eb
+⛬	site historique	none	never	# 0x26ec
+⛭	engrenage sans moyeu	none	never	# 0x26ed
+⛮	engrenage avec poignées	none	never	# 0x26ee
+⛯	carte de phare	none	never	# 0x26ef
+⛶	4 coins en carré	none	never	# 0x26f6
+⛻	banque japonaise	none	never	# 0x26fb
+⛼	cimetière	none	never	# ⛼ 0x26fc
+⛾	tasse blanche dans un carré plein	none	never	# 0x26fe
+⛿	drapeau blanc à ligne médiane horizontale	none	never	# 0x26ff
+⌀	diamètre	none	never	# 0x2300
+⌁	flèche électrique	none	never	# 0x2301
+⌂	maison	none	never	# 0x2302
+⌄	pointe de flèche bas	none	never	# 0x2304
+⌅	projective	none	never	# 0x2305
+⌆	perspective	none	never	# 0x2306
+⌇	ligne verticale ondulée	none	never	# 0x2307
+⌈	arrondi supérieur gauche	all	never	# 0x2308
+⌉	arrondi supérieur droit	all	never	# 0x2309
+⌊	arrondi inférieur gauche	all	never	# 0x230a
+⌋	arrondi inférieur droit	all	never	# 0x230b
+⌌	repère découpage bas droit	none	never	# 0x230c
+⌍	repère découpage bas gauche	none	never	# 0x230d
+⌎	repère découpage haut droit	none	never	# 0x230e
+⌏	repère découpage haut gauche	none	never	# 0x230f
+⌑	pastille carrée	none	never	# 0x2311
+⌒	arc	none	never	# 0x2312
+⌓	segment	none	never	# 0x2313
+⌔	secteur	none	never	# 0x2314
+⌕	enregistreur téléphonique	none	never	# 0x2315 # loupe recherche
+⌖	repère de calage	none	never	# 0x2316
+⌗	visualisation	none	never	# 0x2317
+⌙	signe négation retourné	none	never	# 0x2319
+⌜	coin supérieur gauche	none	never	# 0x231c
+⌝	coin supérieur droit	none	never	# 0x231d
+⌞	coin inférieur gauche	none	never	# 0x231e
+⌟	coin inférieur droit	none	never	# 0x231f
+⌠	haut d'intégrale	all	never	# 0x2320
+⌡	bas d'intégrale	all	never	# 0x2321
+⌢	bouche triste	none	never	# 0x2322
+⌣	sourire	none	never	# 0x2323
+⌤	pointe flèche haut entre 2 traits horizontaux	none	never	# 0x2324
+⌦	effacer vers la droite	none	never	# 0x2326
+⌧	X dans un rectangle	none	never	# 0x2327
+〈	chevron angulaire ouvrant	none	never	# 0x2329
+〉	chevron angulaire fermant	none	never	# 0x232a
+⌫	effacer à gauche	none	never	# 0x232b
+⌬	anneau binzène	none	never	# 0x232c benzène
+⌭	cylindricité	none	never	# 0x232d
+⌮	profil hors-tout	none	never	# 0x232e
+⌯	simétrie	none	never	# 0x232f
+⌰	battement total	none	never	# 0x2330
+⌱	origine de cotation	none	never	# 0x2331
+⌲	rétrécissement conique	none	never	# 0x2332
+⌳	pente	none	never	# 0x2333
+⌴	lamage	none	never	# 0x2334
+⌵	fraisage	none	never	# 0x2335
+⍻	non vérifié	none	never	# 0x237b
+⍼	angle droit et flèche bas zigzag	none	never	# 0x237c
+⍽	symbole espace insécable	none	never	# 0x237d
+⍾	cloche	none	never	# 0x237e
+⍿	ligne verticale avec point médian	none	never	# 0x237f
+⎀	insertion	none	never	# 0x2380
+⎁	soulignement continu	none	never	# 0x2381
+⎂	soulignement discontinu	none	never	# 0x2382
+⎃	emphase	none	never	# 0x2383
+⎄	symbole de composition	none	never	# 0x2384
+⎅	carré blanc avec ligne verticale au centre	none	never	# 0x2385
+⎆	entrée	none	never	# 0x2386
+⎇	touche Alt	none	never	# 0x2387
+⎈	barre de navire	none	never	# 0x2388
+⎉	barre horizontale cerclé avec une encoche	none	never	# 0x2389
+⎊	triangle bas cerclé	none	never	# 0x238a
+⎋	touche échape	none	never	# 0x238b
+⎌	annuler	none	never	# 0x238c
+⎍	circuit monostable	none	never	# 0x238d
+⎎	hystérésis	none	never	# 0x238e
+⎏	sortie circuit ouvert type H	none	never	# 0x238f
+⎐	sortie circuit ouvert type L	none	never	# 0x238f
+⎑	sortie à rappel passif vers le bas	none	never	# 0x2391
+⎒	sortie à rappel passif vers le haut	none	never	# 0x2392
+⎓	courant continu	none	never	# 0x2393
+⎔	fonction logicielle	none	never	# 0x2394
+⎖	touche séparateur décimal	none	never	# 0x2396
+⎗	page précédente	none	never	# 0x2397
+⎘	page suivante	none	never	# 0x2398
+⎙	imprime écran	none	never	# 0x2399
+⎚	effacer l'écran	none	never	# 0x239a
+⎛	haut de parenthèse ouvrante	all	never	# 0x239b
+⎜	milieu de parenthèse ouvrante	all	never	# 0x239c
+⎝	bas de parenthèse ouvrante	all	never	# 0x239d
+⎞	haut de parenthèse fermante	all	never	# 0x239e
+⎟	milieu de parenthèse fermante	all	never	# 0x239f
+⎠	bas de parenthèse fermante	all	never	# 0x23a0
+⎡	haut de crochet ouvrant	all	never	# 0x23a1
+⎢	milieu de crochet ouvrant	all	never	# 0x23a2
+⎣	bas de crochet ouvrant	all	never	# 0x23a3
+⎤	haut de crochet fermant	all	never	# 0x23a4
+⎥	milieu de crochet fermant	all	never	# 0x23a5
+⎦	bas de crochet fermant	all	never	# 0x23a6
+⎧	haut d'accolade ouvrante	all	never	# 0x23a7
+⎨	milieu d'accolade ouvrante	all	never	# 0x23a8
+⎩	bas d'accolade ouvrante	all	never	# 0x23a9
+⎪	extension d'accolade	all	never	# 0x23aa
+⎫	haut d'accolade fermante	all	never	# 0x23ab
+⎬	milieu d'accolade fermante	all	never	# 0x23ac
+⎭	bas d'accolade fermante	all	never	# 0x23ad
+⎮	milieu d'intégrale	all	never	# 0x23ae
+⎯	extension de ligne horizontale	all	never	# 0x23af
+⎰	moitié d'accolade	all	never	# 0x23b0
+⎱	moitié d'accolade	all	never	# 0x23b1
+⎲	haut de somme	all	never	# 0x23b2
+⎴	crochet supérieur	none	never	# 0x23b4
+⎵	crochet inférieur	none	never	# 0x23b5
+⎶	crochets inférieur et supérieur	none	never	# 0x23b6
+⎷	bas de racine	all	never	# 0x23b7 racine carrée
+⏍	pied carré	none	never	# 0x23cd unité de mesure
+⏎	touche entrée	none	never	# 0x23ce
+⏐	extension de ligne verticale	all	never	# 0x23d0 valeur absolue, double barre de norme
+⏑	brève métrique	all	never	# 0x23d1 métrique de poésie, prosodie
+⏒	longue métrique sur brève	all	never	# 0x23d2
+⏓	brève métrique sur longue	all	never	# 0x23d3
+⏔	longue métrique sur 2 brèves	all	never	# 0x23d4
+⏕	2 brèves métriques sur longue	all	never	# 0x23d5
+⏖	2 brèves métriques	all	never	# 0x23d6
+⏗	tri-sème longue-brève métrique	all	never	# 0x23d7
+⏘	tétra-sème métrique	all	never	# 0x23d8
+⏙	penta-sème métrique	all	never	# 0x23d9
+⏚	mise à la terre	none	never	# 0x23da
+⏛	fusible	none	never	# 0x23db
+⏜	parenthèse supérieure	none	never	# 0x23dc
+⏝	parenthèse inférieure	none	never	# 0x23dd
+⏞	accolade supérieure	none	never	# 0x23de
+⏟	accolade inférieure	none	never	# 0x23df
+⏠	parenthèse tortue supérieure	none	never	# 0x23e0
+⏡	parenthèse tortue inférieure	none	never	# 0x23e1
+⏢	trapèze	none	never	# 0x23e2
+⏣	anneau binzène cerclé	none	never	# 0x23e3
+⏤	rectitude	none	never	# 0x23e4
+⏥	planéité	none	never	# 0x23e5
+⏦	courant alternatif	none	never	# 0x23e6
+⏧	intersection électrique	none	never	# 0x23e7
+⏨	exposant décimal	none	never	# 0x23e8
+⏴	triangle plein vers la gauche	none	never	# 0x23f4
+⏵	triangle plein vers la droite	none	never	# 0x23f5
+⏶	triangle plein vers le haut	none	never	# 0x23f6
+⏷	triangle plein vers le bas	none	never	# 0x23f7
+⏻	mise sous tension	none	never	# 0x23fb
+⏼	marche-arrêt	none	never	# 0x23fc
+⏽	powoer onn	none	never	# 0x23fd
+⏾	mise en veille	none	never	# 0x23fe
+𝄀	barre de mesure	none	never	# 0x1d100
+𝄁	double barre de mesure	none	never	# 0x1d101
+𝄂	barre de fin de partition	none	never	# 0x1d102
+𝄃	barre de début de partition	none	never	# 0x1d103
+𝄄	barre de mesure pointillée	none	never	# 0x1d104
+𝄅	barre de mesure courte	none	never	# 0x1d105
+𝄆	début de répétition	none	never	# 0x1d106
+𝄇	fin de répétition	none	never	# 0x1d107
+𝄈	deux-points de répétition	none	never	# 0x1d108
+𝄉	dal seghno	none	never	# 0x1d109 segno
+𝄊	da capo	none	never	# 0x1d10a
+𝄋	seghno	none	never	# 0x1d10b segno
+𝄌	coda	none	never	# 0x1d10c
+𝄍	répétition 1	none	never	# 0x1d10d
+𝄎	répétition 2	none	never	# 0x1d10e
+𝄏	répétition 3	none	never	# 0x1d10f
+𝄐	point d'orgue	none	never	# 0x1d110
+𝄑	point d'orgue bas	none	never	# 0x1d111
+𝄒	respiration	none	never	# 0x1d112
+𝄓	césure	none	never	# 0x1d113
+𝄔	accolade	none	never	# 0x1d114
+𝄕	crochet	none	never	# 0x1d115
+𝄖	portée une ligne	none	never	# 0x1d116
+𝄗	portée 2 lignes	none	never	# 0x1d117
+𝄘	portée 3 lignes	none	never	# 0x1d118
+𝄙	portée 4 lignes	none	never	# 0x1d119
+𝄚	portée	none	never	# 0x1d11a
+𝄛	portée 6 lignes	none	never	# 0x1d11b
+𝄜	touche à 6 cordes	none	never	# 0x1d11c
+𝄝	touche à 4 cordes	none	never	# 0x1d11d
+𝄞	clé de sol	none	never	# 0x1d11e
+𝄟	clé de sol ottava alta	none	never	# 0x1d11f
+𝄠	clé de sol ottava bassa	none	never	# 0x1d120
+𝄡	clé d'utt	none	never	# 0x1d121
+𝄢	clé de fa	none	never	# 0x1d122
+𝄣	clé de fa ottava alta	none	never	# 0x1d123
+𝄤	clé de fa ottava bassa	none	never	# 0x1d124
+𝄥	clé de percussion	none	never	# 0x1d125
+𝄦	clé de percussion	none	never	# 0x1d126
+𝄩	silence multi-mesure	none	never	# 0x1d129
+𝄪	double dièse	none	never
+𝄫	double bémol	none	never
+𝄬	bémol haut	none	never	# 0x1d12c
+𝄭	bémol bas	none	never	# 0x1d12d
+𝄮	bécarre haut	none	never	# 0x1d12e
+𝄯	bécarre bas	none	never	# 0x1d12f
+𝄰	dièse haut	none	never	# 0x1d130
+𝄱	dièse bas	none	never	# 0x1d131
+𝄲	dièse quart-de-ton	none	never	# 0x1d132
+𝄳	bémol quart-de-ton	none	never	# 0x1d133
+𝄴	C	none	never	# 0x1d134
+𝄵	C barré	none	never	# 0x1d135
+𝄶	ottava alta	none	never	# 0x1d136
+𝄷	ottava bassa	none	never	# 0x1d137
+𝄸	quindicesima alta	none	never	# 0x1d138
+𝄹	quindicesima bassa	none	never	# 0x1d139
+𝄺	bâton de pause	none	never	# 0x1d13a
+𝄻	pause	none	never	# 0x1d13b
+𝄼	demi-pause	none	never	# 0x1d13c
+𝄽	soupir	none	never	# 0x1d13d
+𝄾	demi-soupir	none	never	# 0x1d13e
+𝄿	quart-de-soupir	none	never	# 0x1d13f
+𝅀	huitième-de-soupir	none	never	# 0x1d140
+𝅁	seizième-de-soupir	none	never	# 0x1d141
+𝅂	trente-deuxième-de-soupir	none	never	# 0x1d142
+𝅃	corps de note croix	none	never	# 0x1d143
+𝅄	corps de note +	none	never	# 0x1d144
+𝅅	corps de note x cerclé	none	never	# 0x1d145
+𝅆	corps de note carré creux	none	never	# 0x1d146
+𝅇	corps de note carrée	none	never	# 0x1d147
+𝅈	corps de note triangle creux haut	none	never	# 0x1d148
+𝅉	corps de note triangle haut	none	never	# 0x1d149
+𝅊	corps de note triangle creux gauche	none	never	# 0x1d14a
+𝅋	corps de note triangle gauche	none	never	# 0x1d14b
+𝅌	corps de note triangle creux droite	none	never	# 0x1d14c
+𝅍	corps de note triangle droite	none	never	# 0x1d14d
+𝅎	corps de note triangle creux bas	none	never	# 0x1d14e
+𝅏	corps de note triangle bas	none	never	# 0x1d14f
+𝅐	corps de note triangle creux haut droite	none	never	# 0x1d150
+𝅑	corps de note triangle haut droite	none	never	# 0x1d151
+𝅒	corps de note lune creuse	none	never	# 0x1d152
+𝅓	corps de note lune	none	never	# 0x1d153
+𝅔	corps de note triangle creux arrondi bas	none	never	# 0x1d154
+𝅕	corps de note triangle arrondi bas	none	never	# 0x1d155
+𝅖	corps de note entre parenthèses	none	never	# 0x1d156
+𝅗	corps de note creuse	none	never	# 0x1d157
+𝅘	corps de note	none	never	# 0x1d158
+𝅙	pas de corps de note	none	never	# 0x1d159
+𝅚	cleustoer blanc	none	never	# 0x1d15a cluster
+𝅛	cleustoer	none	never	# 0x1d15b cluster
+𝅜	brève	none	never	# 0x1d15c
+𝅝	ronde	none	never	# 0x1d15d
+𝅗𝅥	blanche	none	never	# 0x1d15e
+𝅘𝅥	noire	none	never	# 0x1d15f
+𝅘𝅥𝅮	croche	none	never	# 0x1d160
+𝅘𝅥𝅯	double croche	none	never	# 0x1d161
+𝅘𝅥𝅰	triple croche	none	never	# 0x1d162
+𝅘𝅥𝅱	quadruple croche	none	never	# 0x1d163
+𝅘𝅥𝅲	quintuple croche	none	never	# 0x1d164
+𝅥	hampe de note	all	never	# 0x1d165
+𝅦	hampe de Sprechgesang	all	never	# 0x1d166
+𝅧	trémolo de croches	none	never	# 0x1d167
+𝅨	trémolo de doubles	none	never	# 0x1d168
+𝅩	trémolo de triples	none	never	# 0x1d169
+𝅪	trémolo de croches	none	never	# 0x1d16a
+𝅫	trémolo de doubles	none	never	# 0x1d16b
+𝅬	trémolo de triples	none	never	# 0x1d16c
+𝅭	pointé	none	never	# 0x1d16d
+𝅮	croche	none	never	# 0x1d16e
+𝅯	double croche	none	never	# 0x1d16f
+𝅰	triple croche	none	never	# 0x1d170
+𝅱	quadruple croche	none	never	# 0x1d171
+𝅲	quintuple croche	none	never	# 0x1d172
+𝅳	début de ligature	all	never	# 𝅳 0x1d173 invisible
+𝅴	fin de ligature	all	never	# 𝅴 0x1d174 invisible
+𝅵	début de liaison	all	never	# 𝅵 0x1d175 invisible
+𝅶	fin de liaison	all	never	# 𝅶 0x1d176 invisible
+𝅷𝅷	début de coulé	all	never	# 𝅷 0x1d177
+𝅸	fin de coulé	all	never	# 𝅸 0x1d178
+𝅹	début de phrasé	all	never	# 𝅹 0x1d179
+𝅺	fin de phrasé	all	never	# 0x1d17a
+𝅻	accent	none	never	# 0x1d17b
+𝅼	staccato	none	never	# 0x1d17c
+𝅽	ténouto	none	never	# 0x1d17d tenuto
+𝅾	staccatissimo	none	never	# 0x1d17e
+𝅿	marcato	none	never	# 0x1d17f
+𝆀	marcato-staccato	none	never	# 0x1d180
+𝆁	accent-staccato	none	never	# 0x1d181
+𝆂	louré	none	never	# 0x1d182
+𝆃	arpeggio	none	never	# 0x1d183
+𝆄	arpeggio descendant	none	never	# 0x1d184
+𝆅	glissé ascendant	none	never	# 0x1d185
+𝆇	flip	none	never	# 0x1d187
+𝆈	smear	none	never	# 0x1d188
+𝆉	bend	none	never	# 0x1d189
+𝆊	double coup de langue	none	never	# 0x1d18a
+𝆋	triple coup de langue	none	never	# 0x1d18b
+𝆌	rinnforzando	none	never	# 0x1d18c
+𝆍	soubito	none	never	# 0x1d18d subito
+𝆎	Z	none	never	# 0x1d18e
+𝆏	piano	none	never	# 0x1d18f
+𝆐	mezzo	none	never	# 0x1d190
+𝆑	forté	none	never	# 0x1d191 forte
+𝆒	créchenndo	none	never	# 0x1d192 crescendo
+𝆓	décréchenndo	none	never	# 0x1d193 decrescendo
+𝆔	appoggiature barrée	none	never	# 0x1d194
+𝆕	appoggiature	none	never	# 0x1d195
+𝆖	trille	none	never	# 0x1d196
+𝆗	groupetto	none	never
+𝆘	groupetto inversé	none	never	# 0x1d198 grupetto inversé
+𝆙	groupetto	none	never	# 0x1d199 grupetto barré
+𝆚	groupetto	none	never	# 0x1d19a grupetto vertical?
+𝆛	ornement 1	all	never	# 0x1d19b
+𝆜	ornement 2	all	never	# 0x1d19c
+𝆝	ornement 3	all	never	# 0x1d19d
+𝆞	ornement 4	all	never	# 0x1d19e
+𝆟	ornement 5	all	never	# 0x1d19f
+𝆠	ornement 6	all	never	# 0x1d1a0
+𝆡	ornement 7	all	never	# 0x1d1a1
+𝆢	ornement 8	all	never	# 0x1d1a2
+𝆣	ornement 9	all	never	# 0x1d1a3
+𝆤	ornement 10	all	never	# 0x1d1a4
+𝆥	ornement 11	all	never	# 0x1d1a5
+𝆦	voix principale	none	never	# 0x1d1a6
+𝆧	voix secondaire	none	never	# 0x1d1a7
+𝆨	fin de voix	none	never	# 0x1d1a8
+𝆩	septième diminuée	none	never	# 0x1d1a9 degré barré, m7b5
+𝆪	archet tiré	none	never	# 0x1d1aa
+𝆫	archet poussé	none	never	# 0x1d1ab
+𝆬	harmonique	none	never	# 0x1d1ac
+𝆭	pizzicato Bartók	none	never	# 0x1d1ad
+𝆮	pédale	none	never	# 0x1d1ae
+𝆰	demi-pédale	none	never	# 0x1d1b0
+𝆱	glissando ascendant	none	never	# 0x1d1b1
+𝆲	glissando descendant	none	never	# 0x1d1b2
+𝆳	avec les ongles	none	never	# 0x1d1b3
+𝆴	étouffer	none	never	# 0x1d1b4
+𝆵	tout étouffer	none	never	# 0x1d1b5
+𝆶	maxima	none	never	# 0x1d1b6
+𝆷	longa	none	never	# 0x1d1b7
+𝆸	brève	none	never	# 0x1d1b8
+𝆹	semibrève blanche	none	never	# 0x1d1b9
+𝆺	semibrève noire	none	never	# 0x1d1ba
+𝆹𝅥	minima	none	never	# 0x1d1bb
+𝆺𝅥	minima noire	none	never	# 0x1d1bc
+𝆹𝅥𝅮	semi-minima blanche	none	never	# 0x1d1bd
+𝆺𝅥𝅮	semi-minima noire	none	never	# 0x1d1be
+𝆹𝅥𝅯	fusa blanche	none	never	# 0x1d1bf
+𝆺𝅥𝅯	fusa noire	none	never	# 0x1d1c0
+𝇁	silence de longue parfaite	none	never	# 0x1d1c1
+𝇂	silence de longue imparfaite	none	never	# 0x1d1c2
+𝇃	silence de brève	none	never	# 0x1d1c3
+𝇄	silence de semibrève	none	never	# 0x1d1c4
+𝇅	silence de minima	none	never	# 0x1d1c5
+𝇆	silence de semiminima	none	never	# 0x1d1c6
+𝇇	tempus perfectum cum prolatione perfecta	none	never	# 0x1d1c7
+𝇈	tempus perfectum cum prolatione imperfecta	none	never	# 0x1d1c8
+𝇉	tempus perfectum cum prolatione perfecta diminution 1	none	never	# 0x1d1c9
+𝇊	tempus imperfectum cum prolatione perfecta	none	never	# 0x1d1ca
+𝇋	tempus imperfectum cum prolatione imperfecta	none	never	# 0x1d1cb
+𝇌	tempus imperfectum cum prolatione imperfecta diminution 1	none	never	# 0x1d1cc
+𝇍	tempus imperfectum cum prolatione imperfecta diminution 2	none	never	# 0x1d1cd
+𝇎	tempus imperfectum cum prolatione imperfecta diminution 3	none	never	# 0x1d1ce
+𝇏	croix	none	never	# 0x1d1cf
+𝇐	clé d'utt grégorienne	none	never	# 0x1d1d0
+𝇑	clé de fa grégorienne	none	never	# 0x1d1d1
+𝇒	B carré	none	never	# 0x1d1d2
+𝇓	virga	none	never	# 0x1d1d3
+𝇔	podatuss	none	never	# 0x1d1d4 podatus
+𝇕	cliviss	none	never	# 0x1d1d5 clivis
+𝇖	scandicuss	none	never	# 0x1d1d6 scandicus
+𝇗	climacuss	none	never	# 0x1d1d7 climacus
+𝇘	torculuss	none	never	# 0x1d1d8 torculus
+𝇙	porrectuss	none	never	# 0x1d1d9 porrectus
+𝇚	porrectuss flexuss	none	never	# 0x1d1da porrectus flexus
+𝇛	scandicuss flexuss	none	never	# 0x1d1db scandicus flexus
+𝇜	torculuss resupinuss	none	never	# 0x1d1dc torculus resupinus
+𝇝	pess subpunctiss	none	never	# 0x1d1dd pes subpunctis
+𝇞	clé d'ut kiévienne	none	never	# 0x1d1de
+𝇟	fin de musique kiévienne	none	never	# 0x1d1df
+𝇠	dernière note kiévienne	none	never	# 0x1d1e0
+𝇡	récitatif kiévien	none	never	# 0x1d1e1
+𝇢	ronde kiévienne	none	never	# 0x1d1e2
+𝇣	blanche kiévienne	none	never	# 0x1d1e3
+𝇤	noire hampe basse kiévienne stem down	none	never	# 0x1d1e4
+𝇥	noire hampe haute kiévienne	none	never	# 0x1d1e5
+𝇦	croche hampe basse kiévienne	none	never	# 0x1d1e6
+𝇧	croche hampe haute kiévienne	none	never	# 0x1d1e7
+𝇨	bémol kiévien	none	never	# 0x1d1e8
+🂠	carte non retournée	none	never	# 0x1f0a0
+🂡	ass de pique	none	never	# 0x1f0a1 as de pique
+🂢	2 de pique	none	never	# 0x1f0a2
+🂣	3 de pique	none	never	# 0x1f0a3
+🂤	4 de pique	none	never	# 0x1f0a4
+🂥	5 de pique	none	never	# 0x1f0a5
+🂦	6 de pique	none	never	# 0x1f0a6
+🂧	7 de pique	none	never	# 0x1f0a7
+🂨	8 de pique	none	never	# 0x1f0a8
+🂩	9 de pique	none	never	# 0x1f0a9
+🂪	10 de pique	none	never	# 0x1f0aa
+🂫	vallet de pique	none	never	# 0x1f0ab
+🂬	cavalier de pique	none	never	# 0x1f0ac
+🂭	dame de pique	none	never	# 0x1f0ad
+🂮	roi de pique	none	never	# 0x1f0ae
+🂱	ass de coeur	none	never	# 0x1f0b1 as de coeur
+🂲	2 de coeur	none	never	# 0x1f0b2
+🂳	3 de coeur	none	never	# 0x1f0b3
+🂴	4 de coeur	none	never	# 0x1f0b4
+🂵	5 de coeur	none	never	# 0x1f0b5
+🂶	6 de coeur	none	never	# 0x1f0b6
+🂷	7 de coeur	none	never	# 0x1f0b7
+🂸	8 de coeur	none	never	# 0x1f0b8
+🂹	9 de coeur	none	never	# 0x1f0b9
+🂺	10 de coeur	none	never	# 0x1f0ba
+🂻	vallet de coeur	none	never	# 0x1f0bb
+🂼	cavalier de coeur	none	never	# 0x1f0bc
+🂽	dame de coeur	none	never	# 0x1f0bd
+🂾	roi de coeur	none	never	# 0x1f0be
+🂿	jokerr rouge	none	never	# 0x1f0bf joker
+🃁	ass de carreau	none	never	# 0x1f0c1 as de carreau
+🃂	2 de carreau	none	never	# 0x1f0c2
+🃃	3 de carreau	none	never	# 0x1f0c3
+🃄	4 de carreau	none	never	# 0x1f0c4
+🃅	5 de carreau	none	never	# 0x1f0c5
+🃆	6 de carreau	none	never	# 0x1f0c6
+🃇	7 de carreau	none	never	# 0x1f0c7
+🃈	8 de carreau	none	never	# 0x1f0c8
+🃉	9 de carreau	none	never	# 0x1f0c9
+🃊	10 de carreau	none	never	# 0x1f0ca
+🃋	vallet de carreau	none	never	# 0x1f0cb
+🃌	cavalier de carreau	none	never	# 0x1f0cc
+🃍	dame de carreau	none	never	# 0x1f0cd
+🃎	roi de carreau	none	never	# 0x1f0ce
+🃏	jokerr noir	none	never	# 0x1f0cf joker
+🃑	ass de trèfle	none	never	# 0x1f0d1 as de trèfle
+🃒	2 de trèfle	none	never	# 0x1f0d2
+🃓	3 de trèfle	none	never	# 0x1f0d3
+🃔	4 de trèfle	none	never	# 0x1f0d4
+🃕	5 de trèfle	none	never	# 0x1f0d5
+🃖	6 de trèfle	none	never	# 0x1f0d6
+🃗	7 de trèfle	none	never	# 0x1f0d7
+🃘	8 de trèfle	none	never	# 0x1f0d8
+🃙	9 de trèfle	none	never	# 0x1f0d9
+🃚	10 de trèfle	none	never	# 0x1f0da
+🃛	vallet de trèfle	none	never	# 0x1f0db
+🃜	cavalier de trèfle	none	never	# 0x1f0dc
+🃝	dame de trèfle	none	never	# 0x1f0dd
+🃞	roi de trèfle	none	never	# 0x1f0de
+🃟	jokerr blanc	none	never	# 0x1f0df joker
+🃠	le fou (l'excuse)	none	never	# 0x1f0e0
+🃡	atout 1	none	never	# 0x1f0e1
+🃢	atout 2	none	never	# 0x1f0e2
+🃣	atout 3	none	never	# 0x1f0e3
+🃤	atout 4	none	never	# 0x1f0e4
+🃥	atout 5	none	never	# 0x1f0e5
+🃦	atout 6	none	never	# 0x1f0e6
+🃧	atout 7	none	never	# 0x1f0e7
+🃨	atout 8	none	never	# 0x1f0e8
+🃩	atout 9	none	never	# 0x1f0e9
+🃪	atout 10	none	never	# 0x1f0ea
+🃫	atout 11	none	never	# 0x1f0eb
+🃬	atout 12	none	never	# 0x1f0ec
+🃭	atout 13	none	never	# 0x1f0ed
+🃮	atout 14	none	never	# 0x1f0ee
+🃯	atout 15	none	never	# 0x1f0ef
+🃰	atout 16	none	never	# 0x1f0f0
+🃱	atout 17	none	never	# 0x1f0f1
+🃲	atout 18	none	never	# 0x1f0f2
+🃳	atout 19	none	never	# 0x1f0f3
+🃴	atout 20	none	never	# 0x1f0f4
+🃵	atout 21	none	never	# 0x1f0f5
+⨀	point cerclé	none	never	# 0x2a00
+⨁	addition cerclé	none	never	# 0x2a01
+⨂	multiplication cerclé	none	never	# 0x2a02
+⨃	union pointé	none	never	# 0x2a03
+⨄	union avec +	none	never	# 0x2a04
+⨅	intersection carrée	none	never	# 0x2a05
+⨆	union carrée	none	never	# 0x2a06
+⨇	double et logique	none	never	# 0x2a07
+⨈	double ou logique	none	never	# 0x2a08
+⨉	multiplication	none	never	# 0x2a09
+⨊	somme modulo deux	none	never	# 0x2a0a
+⨋	sommation avec intégrale	none	never	# 0x2a0b
+⨌	quadruple intégrale	none	never	# 0x2a0c
+⨍	intégrale à partie finie	none	never	# 0x2a0d
+⨎	intégrale avec double trait	none	never	# 0x2a0e
+⨏	intégrale moyenne avec barre oblique	none	never	# 0x2a0f
+⨐	fonction de circulation	none	never	# 0x2a10
+⨑	intégrale en sens positif	none	never	# 0x2a11
+⨒	intégrale rectiligne autour d'un pôle	none	never	# 0x2a12
+⨓	intégrale curviligne autour d'un pole	none	never	# 0x2a13
+⨔	intégrale curviligne évitant un pôle	none	never	# 0x2a14
+⨕	intégrale autour d'un point	none	never	# 0x2a15
+⨖	intégrale quaternion	none	never	# 0x2a16
+⨗	intégrale avec flèche vers la gauche et crochet	none	never	# 0x2a17
+⨘	intégrale avec multiplié	none	never	# 0x2a18
+⨙	intégrale avec intersection	none	never	# 0x2a19
+⨚	intégrale avec union	none	never	# 0x2a1a
+⨛	intégrale de Darboux supérieure	none	never	# 0x2a1b
+⨜	intégrale de Darboux inférieure	none	never	# 0x2a1c
+∱	intégrale en sens négatif	none	never
+∲	intégrale de contour en sens négatif	none	never
+∳	intégrale de contour en sens positif	none	never
+⨝	jointure	none	never	# 0x2a1d
+⨞	triangle gauche	none	never	# 0x2a1e
+⨟	composition de scéemas	none	never	# 0x2a1f
+⨠	tubage de schéma	none	never	# 0x2a20
+⨡	projection de scéemas	none	never	# 0x2a21
+⨢	+ avec rond en chef	none	never	# 0x2a22
+⨣	+ circonflexe	none	never	# 0x2a23
+⨤	différence positive ou somme	none	never	# 0x2a24 + tilde en chef
+⨥	+ point souscrit	none	never	# 0x2a25
+⨦	somme ou différence positive	none	never	# 0x2a26 + tilde souscrit
+⨧	addition nim	none	never	# 0x2a27 + indice 2
+⨨	+ triangle	none	never	# 0x2a28
+⨩	moins virgule en chef	none	never	# 0x2a29
+⨪	moins point souscrit	none	never	# 0x2a2a
+⨫	moins avec points descendants	none	never	# 0x2a2b
+⨬	moins avec points ascendants	none	never	# 0x2a2c
+⨭	+ dans demi-cercle gauche	none	never	# 0x2a2d
+⨮	+ dans demi-cercle droit	none	never	# 0x2a2e
+⨰	multiplication point en chef	none	never	# 0x2a30
+⨱	multiplication barre souscrite	none	never	# 0x2a31
+⨲	produit semi-direct avec barre souscrite	none	never	# 0x2a32
+⨳	produit écrasé	none	never	# 0x2a33
+⨴	multiplié dans demi-cercle à gauche	none	never	# 0x2a34
+⨵	multiplié dans demi-cercle à droite	none	never	# 0x2a35
+⨶	multiplié cerclé avec accent circonflexe	none	never	# 0x2a36
+⨷	multiplié dans double cercle	none	never	# 0x2a37
+⨸	division cerclée	none	never	# 0x2a38
+⨹	+ dans un triangle	none	never	# 0x2a39
+⨺	moins dans un triangle	none	never	# 0x2a3a
+⨻	multiplié dans un triangle	none	never	# 0x2a3b
+⨼	produit intérieur	none	never	# 0x2a3c
+⨽	produit intérieur droit	none	never	# 0x2a3d
+⨾	composition relationnelle	none	never	# 0x2a3e
+⨿	amalgamation ou coproduit	none	never	# 0x2a3f
+⩀	intersection pointée	none	never	# 0x2a40
+⩁	union avec moins	none	never	# 0x2a41
+⩂	union avec barre en chef	none	never	# 0x2a42
+⩃	intersection avec barre en chef	none	never	# 0x2a43
+⩄	intersection avec "et" logique	none	never	# 0x2a44
+⩅	union avec "ou" logique	none	never	# 0x2a45
+⩆	union sur intersection	none	never	# 0x2a46
+⩇	intersection sur union	none	never	# 0x2a47
+⩈	union sur trait sur intersection	none	never	# 0x2a48
+⩉	intersection sur trait sur union	none	never	# 0x2a49
+⩊	2 unions	none	never	# 0x2a4a
+⩋	2 intersections	none	never	# 0x2a4b
+⩌	union fermée	none	never	# 0x2a4c
+⩍	intersection fermée	none	never	# 0x2a4d
+⩎	double interction carrée	none	never	# 0x2a4e
+⩏	double union carrée	none	never	# 0x2a4f
+⩐	union fermée et produit fusionné	none	never	# 0x2a50
+⩑	"et" logical à point en chef	none	never	# 0x2a51
+⩒	"ou" logique à point en chef	none	never	# 0x2a52
+⩓	double "et" logique	none	never	# 0x2a53
+⩔	double "ou" logique	none	never	# 0x2a54
+⩕	2 "et" logique entrecroisés	none	never	# 0x2a55
+⩖	2 "ou" logique entrecroisés	none	never	# 0x2a56
+⩗	grand "ou" incliné	none	never	# 0x2a57
+⩘	grand "et" incliné	none	never	# 0x2a58
+⩙	"et" et "ou" logiques entrecroisés	none	never	# 0x2a59
+⩚	"et" logique à hampe médiane	none	never	# 0x2a5a
+⩛	"ou" logique à hampe médiane	none	never	# 0x2a5b
+⩜	"et" logique à tiret horizontal	none	never	# 0x2a5c
+⩝	"ou" logique à tiret horizontal	none	never	# 0x2a5d
+⩞	"et" logique à 2 barres en chef	none	never	# 0x2a5e
+⩟	"et" logique à barre souscrite	none	never	# 0x2a5f
+⩠	"et" logique à 2 barres souscrites	none	never	# 0x2a60
+⩡	petit "ou" logique à barre souscrite	none	never	# 0x2a61
+⩢	"ou" logique à 2 barres en chef	none	never	# 0x2a62
+⩣	"ou" logique à 2 barres souscrites	none	never	# 0x2a63
+⩤	anti-restriction de domaine	none	never	# 0x2a64
+⩥	anti-restriction de co-domaine	none	never	# 0x2a65
+⩦	égal avec point souscrit	none	never	# 0x2a66
+⩧	identique avec point en chef	none	never	# 0x2a67
+⩨	identique et parallèle à	none	never	# 0x2a68
+⩩	3 barres verticales à 3 traverses	none	never	# 0x2a69
+⩪	tilde avec point en chef	none	never	# 0x2a6a
+⩫	tilde avec points ascendants	none	never	# 0x2a6b
+⩬	similaire moins similaire	none	never	# 0x2a6c
+⩭	congruent avec point en chef	none	never	# 0x2a6d
+⩮	égal avec astérisque	none	never	# 0x2a6e
+⩯	presque égal avec accent circonflexe	none	never	# 0x2a6f
+⩰	approximativement égal ou égal à	none	never	# 0x2a70
+⩱	léger avantage aux noirs	none	never	# 0x2a71 échecs, égal sur +
+⩲	léger avantage aux blancs	none	never	# 0x2a72 échecs, + sur égal
+⩳	égal sur tilde	none	never	# 0x2a73
+⩴	deux point deux point égal	none	never	# 0x2a74
+⩵	==	none	never	# 0x2a75
+⩶	===	none	never	# 0x2a76
+⩷	égal avec 2 points en chefs et 2 points souscrits	none	never	# 0x2a77
+⩸	équivalent avec 4 points en chef	none	never	# 0x2a78
+⩹	inférieur à avec cercle inscrit	none	never	# 0x2a79
+⩺	supérieur à avec cercle inscrit	none	never	# 0x2a7a
+⩻	inférieur à avec point d'interrogation	none	never	# 0x2a7b
+⩼	supérieur à avec point d'interrogation	none	never	# 0x2a7c
+⩽	inférieur ou égal à	none	never	# 0x2a7d
+⩾	supérieur ou égal à	none	never	# 0x2a7e
+⩿	inférieur ou égal à avec point inscrit	none	never	# 0x2a7f
+⪀	supérieur ou égal à avec point inscrit	none	never	# 0x2a80
+⪁	inférieur ou égal à avec point en chef	none	never	# 0x2a81
+⪂	supérieur ou égal à avec point en chef	none	never	# 0x2a82
+⪃	inférieur ou égal à avec point en chef à droite	none	never	# 0x2a83
+⪄	supérieur ou égal à avec point en chef à gauche	none	never	# 0x2a84
+⪅	inférieur ou proche de	none	never	# 0x2a85
+⪆	supérieur ou proche de	none	never	# 0x2a86
+⪇	inférieur à et pas égal à	none	never	# 0x2a87
+⪈	supérieur à et pas égal à	none	never	# 0x2a88
+⪉	inférieur à et non proche de	none	never	# 0x2a89
+⪊	supérieur à et non proche de	none	never	# 0x2a8a
+⪋	inférieur à sur égal sur supérieur à	none	never	# 0x2a8b
+⪌	supérieur à sur égal sur inférieur à	none	never	# 0x2a8c
+⪍	inférieur à sur similaire ou égal	none	never	# 0x2a8d
+⪎	supérieur à sur similaire ou égal	none	never	# 0x2a8e
+⪏	inférieur à sur similaire sur supérieur à	none	never	# 0x2a8f
+⪐	supérieur à sur similaire sur inférieur à	none	never	# 0x2a90
+⪑	inférieur à sur supérieur à sur égal	none	never	# 0x2a91
+⪒	supérieur à sur inférieur à sur égal	none	never	# 0x2a92
+⪓	inférieur ou égal à sur supérieur ou égal à	none	never	# 0x2a93
+⪔	supérieur ou égal à sur inférieur ou égal à	none	never	# 0x2a94
+⪕	égal ou inférieur à	none	never	# 0x2a95
+⪖	égal ou supérieur à	none	never	# 0x2a96
+⪗	égal ou inférieur à avec point inscrit	none	never	# 0x2a97
+⪘	égal ou supérieur à avec point inscrit	none	never	# 0x2a98
+⪙	égal ou inférieur à	none	never	# 0x2a99
+⪚	égal ou supérieur à	none	never	# 0x2a9a
+⪛	égal ou inférieur à	none	never	# 0x2a9b
+⪜	égal ou supérieur à	none	never	# 0x2a9c
+⪝	similaire ou inférieur à	none	never	# 0x2a9d
+⪞	similaire ou supérieur à	none	never	# 0x2a9e
+⪟	similaire sur inférieur sur égal	none	never	# 0x2a9f
+⪠	similaire sur supérieur sur égal	none	never	# 0x2aa0
+⪡	2 inférieur à emboîtés	none	never	# 0x2aa1
+⪢	2 supérieur à emboîté	none	never	# 0x2aa2
+⪣	2 inférieur à avec barre souscrite	none	never	# 0x2aa3
+⪤	supérieur à et inférieur à entrecroisés	none	never	# 0x2aa4
+⪥	supérieur à puis inférieur à	none	never	# 0x2aa5
+⪦	inférieur à fermé d'un arc	none	never	# 0x2aa6
+⪧	supérieur à fermé d'un arc	none	never	# 0x2aa7
+⪨	inférieur ou égal à fermé d'un arc	none	never	# 0x2aa8
+⪩	supérieur ou égal à fermé d'un arc	none	never	# 0x2aa9
+⪪	plus petit que	none	never	# 0x2aaa
+⪫	plus grand que	none	never	# 0x2aab
+⪬	plus petit que ou égal à	none	never	# 0x2aac
+⪭	plus grand que ou égal à	none	never	# 0x2aad
+⪮	égal avec dos-d'âne en chef	none	never	# 0x2aae
+⪯	précède ou égal à	none	never	# 0x2aaf
+⪰	suit ou égal à	none	never	# 0x2ab0
+⪱	précède et pas égal à	none	never	# 0x2ab1
+⪲	suit et pas égal à	none	never	# 0x2ab2
+⪳	précède ou égal à	none	never	# 0x2ab3
+⪴	suit ou égal à	none	never	# 0x2ab4
+⪵	précède et pas égal à	none	never	# 0x2ab5
+⪶	suit et pas égal à	none	never	# 0x2ab6
+⪷	précède et presque égal à	none	never	# 0x2ab7
+⪸	suit et presque égal à	none	never	# 0x2ab8
+⪹	précède et non presque égal à	none	never	# 0x2ab9
+⪺	suit et non presque égal à	none	never	# 0x2aba
+⪻	double précède	none	never	# 0x2abb
+⪼	double suit	none	never	# 0x2abc
+⪽	sous-ensemble pointé	none	never	# 0x2abd
+⪾	sur-ensemble pointé	none	never	# 0x2abe
+⪿	sous-ensemble avec + souscrit	none	never	# 0x2abf
+⫀	sur-ensemble avec + souscrit	none	never	# 0x2ac0
+⫁	sous-ensemble avec multiplication souscrite	none	never	# 0x2ac1
+⫂	sur-ensemble avec multiplication souscrite	none	never	# 0x2ac2
+⫃	sous-ensemble de ou égal à avec point en chef	none	never	# 0x2ac3
+⫄	sur-ensemble de ou égal à avec point en chef	none	never	# 0x2ac4
+⫅	sous-ensemble de ou égale à	none	never	# 0x2ac5
+⫆	sur-ensemble de ou égal à	none	never	# 0x2ac6
+⫇	sous-ensemble de sur tilde	none	never	# 0x2ac7
+⫈	sur-ensemble de sur tilde	none	never	# 0x2ac8
+⫉	sous-ensemble de ou presque égal à	none	never	# 0x2ac9
+⫊	sur-ensemble de ou presque égal à	none	never	# 0x2aca
+⫋	sous-ensemble de et non égal à	none	never	# 0x2acb
+⫌	sur-ensemble de et non égal à	none	never	# 0x2acc
+⫍	boîte carrée ouverte gauche	none	never	# 0x2acd
+⫎	boîte carrée ouverte droite	none	never	# 0x2ace
+⫏	sous-ensemble clos	none	never	# 0x2acf
+⫐	sur-ensemble clos	none	never	# 0x2ad0
+⫑	sous-ensemble clos ou égal à	none	never	# 0x2ad1
+⫒	sur-ensemble clos ou égal à	none	never	# 0x2ad2
+⫓	sous-ensemble sur sur-ensemble	none	never	# 0x2ad3
+⫔	sur-ensemble sur sous-ensemble	none	never	# 0x2ad4
+⫕	sous-ensemble sur sous-ensemble	none	never	# 0x2ad5
+⫖	sur-ensemble sur sur-ensemble	none	never	# 0x2ad6
+⫗	sur-ensemble et sous-ensemble	none	never	# 0x2ad7
+⫘	sur-ensemble chaîné à sous-ensemble	none	never	# 0x2ad8
+⫙	appartient à ouvert vers le bas	none	never	# 0x2ad9
+⫚	fourche surmontée d'un T	none	never	# 0x2ada
+⫛	intersection transversale	none	never	# 0x2adb
+⫝̸	bifurcation	none	never	# 0x2adc
+⫝	non bifurcation	none	never	# 0x2add
+⫞	taquet à gauche court	none	never	# 0x2ade
+⫟	taquet en bas court	none	never	# 0x2adf
+⫠	taquet en haut court	none	never	# 0x2ae0
+⫡	perpendiculaire à S	none	never	# 0x2ae1
+⫢	triple tourniquet droit à barre vertical	none	never	# 0x2ae2
+⫣	tourniquet gauche à double barre verticales	none	never	# 0x2ae3
+⫤	double tourniquet gauche à barre verticale	none	never	# 0x2ae4
+⫥	double tourniquet gauche à double barre verticales	none	never	# 0x2ae5
+⫦	double barre verticale gauche à traverse	none	never	# 0x2ae6
+⫧	taquet bas court avec barre en chef	none	never	# 0x2ae7
+⫨	taquet haut court avec barre souscrite	none	never	# 0x2ae8
+⫩	taquet haut cours sur taquet bas court	none	never	# 0x2ae9
+⫪	double taquet bas	none	never	# 0x2aea
+⫫	indépendance	none	never	# 0x2aeb double taquet haut
+⫬	négation à 2 traits	none	never	# 0x2aec
+⫭	négation à 2 traits réfléchie	none	never	# 0x2aed
+⫮	n'est pas un diviseur avec négation réfléchie	none	never	# 0x2aee
+⫯	ligne verticale cercle en chef	none	never	# 0x2aef
+⫰	ligne verticale cercle souscrit	none	never	# 0x2af0
+⫱	satisfait nécessairement	none	never	# 0x2af1 taquet bas avec cercle souscrit
+⫲	parallèle à une traverse	none	never	# 0x2af2
+⫳	parallèle avec tilde	none	never	# 0x2af3
+⫴	implique	none	never	# 0x2af4 relation binaire triple barre verticales
+⫵	triple barre verticales à une traverse	none	never	# 0x2af5
+⫶	trois-points	none	never	# 0x2af6 opérateur logique
+⫷	3 inférieur à emboîtés	none	never	# 0x2af7
+⫸	3 supérieur à emboîtés	none	never	# 0x2af8
+⫹	inférieur ou égal à	none	never	# 0x2af9
+⫺	supérieur ou égal à	none	never	# 0x2afa
+⫻	triple oblique	none	never	# 0x2afb relation binaire
+⫼	3 barres verticales	none	never	# 0x2afc
+⫽	double oblique	none	never	# 0x2afd
+⫾	choix de Dijkstra	none	never	# 0x2afe barre verticale blanche
+⫿	choix de Dijkstra	none	never	# 0x2afe barre verticale blanche n'aire
+Ϗ	kai	none	never	# 0x3cf
+ϓ	upsilonn aigu et crochet	none	never	# 0x3d3
+ϔ	upsilonn tréma et crochet	none	never	# 0x3d4
+ϗ	kai	none	never	# 0x3d7
+ͺ	iota souscrit	none	never	# 0x37a
+ͻ	sigma lunaire réfléchi	none	never	# 0x37b
+ͼ	sigma lunaire pointé	none	never	# 0x37c
+ͽ	sigma lunaire pointé réfléchi	none	never	# 0x37d
+;	point d'interrogation grec	none	never	# 0x37e erotimatiko
+Ϳ	Yott	none	never	# 0x37f
+΄	tonôss	none	never	# 0x384 tonos = accent aigu grec
+΅	dialytika tonôss	none	never	# 0x385 dialytika tonôss tréma aigu grec
+·	ano téleia	none	never	# 0x387 ano teleia = point en chef grec
+ΐ	iota dialytika tonôss	none	never	# 0x390 iota tréma aigu
+Ϋ	upsilonn trëma	none	never	# 0x3ab upsilon dialytika
+ΰ	upsilonn dialytika tonôss	none	never	# 0x3b0 upsilon trëma aigu
+ϋ	upsilonn trêma	none	never	# 0x3cb upsilon dialytika
+ϴ	thêta	none	never	# 0x3f4
+ϵ	epsilonn lunaire	none	never	# 0x3f5
+϶	epsilonn lunaire réfléchi	none	never	# 0x3f6
+Ϲ	sigma lunaire	none	never	# 0x3f9
+Ϥ	faï	none	never	# 0x3e4
+ϥ	faï	none	never	# 0x3e5
+Ϧ	khaï	none	never	# 0x3e6
+ϧ	khaï	none	never	# 0x3e7
+Ϩ	hori	none	never	# 0x3e8
+ϩ	hori	none	never	# 0x3e9
+Ϫ	djandja	none	never	# 0x3ea
+ϫ	djandja	none	never	# 0x3eb
+Ϭ	tchima	none	never	# 0x3ec
+ϭ	tchima	none	never	# 0x3ed
+Ϯ	ti	none	never	# 0x3ee
+ϯ	ti	none	never	# 0x3ef
+ϳ	yot	none	never	# 0x3f3
+Ϻ	sann	none	never	# 0x3fa
+ϻ	sann	none	never	# 0x3fb
+ϼ	rho barré	none	never	# 0x3fc
+Ͻ	sigma lunaire réfléchi	none	never	# 0x3fd
+Ͼ	sigma lunaire pointé	none	never	# 0x3fe
+Ͽ	sigma lunaire pointé réfléchi	none	never	# 0x3ff
+	espace demi-cadratin	all	never	# 0x2000
+	espace cadratin	all	never	# 0x2001
+	espace demi-cadratin	all	never	# 0x2002
+	espace cadratin	all	never	# 0x2003
+	espace tiers de cadratin	all	never	# 0x2004
+	espace quart de cadratin	all	never	# 0x2005
+	espace sixième de cadratin	all	never	# 0x2005
+	espace nombre	all	never	# 0x2007
+	espace ponctuation	all	never	# 0x2008
+	espace fine	all	never	# 0x2009
+	espace ultra fine	all	never	# 0x200a
+	espace à chasse nulle	all	never	# 0x200b ZWSP
+	anti-liant à chasse nulle	all	never	# 0x200c ZWNJ
+	liant à chasse nulle	all	never	# 0x20d
+	marque gauche-à-droite	all	never	# 0x200e
+	marque droite-à-gauche	all	never	# 0x200f
+‐	trait d'union	all	always	# 0x2010
+‒	tiret	none	never	# 0x2012 tiret numérique (occupe même espace qu'un nombre)
+‗	double tiret bas	none	never	# 0x2017
+‘	guillemet simple ouvert	most	never	# 0x2018 guillemet apostrophe culbuté
+’	apostrophe	most	never	# 0x2019 guillemet apostrophe = apostrophe typographique
+‚	guillemet simple ouvert bas	most	never	# 0x201a guillemet virgule inférieur
+‛	guillemet simple ouvert	most	never	# 0x201b guillemet virgule supérieur culbuté
+“	guillemets ouverts	most	never	# 0x201c guillemet apostrophe double culbuté
+”	guillemets fermés	most	never	# 0x201d guillemet apostrophe double
+„	guillemets ouverts	most	never	# 0x201e guillemet virgule double inférieur
+‟	guillemets ouverts	most	never	# 0x201f guillemet virgule double supérieur
+	séparateur de ligne	all	never	# 0x2028
+	séparateur de paragraphe	all	never	# 0x2029
+	enchassement gauche à droite	all	never	# 0x202a LRE (left right embedding)
+	enchassement droit à gauche	all	never	# 0x202b RLE (right left embedding)
+	défilement formatage directionnel	all	never	# 0x202c PDF (pop directionnal formatting)
+	forçage gauche-à-droite	all	never	# 0x202d LRO (left right override)
+	forçage droite-à-gauche	all	never	# 0x202e RLO (right left override)
+ 	espace fine insécable	all	never	# 0x202f
+‱	pour dix mille	none	never	# 0x2031
+‵	prime réfléchi	none	never	# 0x2035
+‶	double prime réfléchi	none	never	# 0x2036
+‷	triple prime réfléchi	none	never	# 0x2037
+‸	point d'insertion	none	never	# 0x2038 caret
+‹	guillemet simple vers la gauche	most	never	# 0x2039 ouvrant ou fermant selon la langue
+›	guillemet simple vers la droite	most	never	# 0x203a fermant ou ouvrant selon la langue
+	marque de référence	none	never	# 0x203b komé japonais, séparateur paragraphe ourdou
+‾	tirait haut	none	never	# 0x203e trait suscrit à chasse
+‿	tirant bas	none	never	# 0x203f emotikon grec
+⁀	tirant haut	none	never	# 0x2040 dos d'âne souscrit
+⁁	lambda point d'insertion	none	never	# 0x2041
+⁅	crochet gauche avec pique	none	never	# 0x2045
+⁆	crochet droit avec pique	none	never	# 0x2046
+⁇	double point d'interrogation	most	always	# 0x2047
+⁈	point d'interrogation et d'exclamation	most	always	# 0x2048
+⁉	point d'exclamation et d'interrogation	most	always	# 0x2049
+⁊	note tironienne ett	all	never	# 0x204a
+⁋	pied de mouche réfléchi	all	never	# 0x204b
+⁌	puce noire tronquée à droite	all	never	# 0x204c
+⁍	puce noire tronquée à gauche	all	never	# 0x204d
+⁎	astérisque bas	most	never	# 0x204e
+⁏	point-virgule réfléchi	most	never	# 0x204f
+⁐	correction: diminuer ou supprimer le blanc	none	never	# 0x2050 resserrer
+⁑	2 astérisques verticalement	most	never	# 0x2051
+⁒	signe moins commercial	most	never	# 0x2052
+⁓	tiret ondulé	none	most	# 0x2053
+⁔	tirant bas renversé	most	never	# 0x2054
+⁕	point-fleur	most	never	# 0x2055 phoul, pouspika
+⁖	3 points	most	never	# 0x2056
+⁗	quadruple prime	none	most	# 0x2057
+⁘	4 points en losange	most	never	# 0x2058
+⁙	5 points	most	never	# 0x2059 pentonkion grec
+⁚	2 points en capital	most	never	# 0x205a
+⁛	4 points en croix	most	never	# 0x205b
+⁜	dotted cross	most	never	# 0x205c
+⁝	3 points verticaux	none	never	# 0x205d tricolon, trois acrophonique 
+⁞	4 points verticaux	none	never	# 0x205e
+ 	espace moyenne mathématique	all	never	# 0x205f MMSP (medium mathematical space)
+⁠	liant de mots	all	never	# 0x2060 WJ (word joiner), gluon de mots
+⁡	function de	all	never	# 0x2061 entre fonction et argument
+⁢	multiplication invisible	all	never	# 0x2062
+⁣	virgule invisible	all	never	# 0x2063 séparateur invisible
+⁤	+ invisible	all	never	# 0x2064
+⁦	isolat gauche-à-droite	all	never	# 0x2066 LRI (left right isolate)
+⁧	isolat droite-à-gauche	all	never	# 0x2067 RLI (right-to-left isolate)
+⁨	isolat foerst strongg	all	never	# 0x2068 FSI (first strong isolate)
+⁩	défilement d'isolats directionnels	all	never	# 0x2069 PDI (pop directional isolate)
+⁪	inhibiteur de sens symétrique (obsolète)	all	never	# 0x206a
+⁫	activateur de sens symétrique (obsolète)	all	never	# 0x206b
+⁬	inhibiteur format arabe (obsolète)	all	never	# 0x206c
+⁭	activateur format arabe (obsolète)	all	never	# 0x206d
+⁮	forme nationale des nombres (obsolète)	all	never	# 0x206e
+⁯	forme nominale des nombres	(obsolète)	all	never	# 0x206f
+！	point d'exclamation	all	always	# 0xff01
+＂	guillemets	all	always	# 0xff02
+＃	dièse	none	never	# 0xff03
+（	parenthèse gauche	most	always	# 0xff08
+）	parenthèse droite	most	always	# 0xff09
+，	virgule	all	always	# 0xff0c
+－	tiret	all	always	# 0xff0d
+．	point	all	always	# 0xff0e
+／	slash	some	never	# 0xff0f
+：	deux-points	most	always	# 0xff1a
+；	point-virgule	most	always	# 0xff1b
+＜	inférieur	none	never	# 0xff1c
+＝	égal	none	never	# 0xff1d
+＞	supérieur	none	never	# 0xff1e
+？	point d'interrogation	most	allways	# 0xff1f
+＠	arobase	none	never	# 0xff20
+［	crochet gauche	some	never	# 0xff3b
+＼	backslash	none	never	# 0xff3c
+］	crochet droit	some	never	# 0xff3d
+＾	accent circonflexe	most	never	# 0xff3e
+＿	souligné	all	never	# 0xff3f
+｀	accent grave	most	never	# 0xff40
+｛	accolade gauche	none	never	# 0xff5b
+｜	barre verticale	none	never	# 0xff5c
+｝	accolade droite	none	never	# 0xff5d
+～	tilde	none	never	# 0xff5e
+｟	parenthèse gauche blanche	none	never	# 0xff5f
+｠	parenthèse droite blanche	none	never	# 0xff60
