@@ -5,11 +5,14 @@
 # je l'ai fait pour le japonais (approximatif) car un caractère = une syllabe
 # Amélioration prononciation: une ligne pour le caractère isolé, et une ligne pour caractère au milieu d'un mot
 # Mais avant, correction de mots complets comportant un des diacrituqes.
-cümbüş	djummbuch	0	2
+cümbüş	djummbuche	0	2
 
 #ñ (n tilde) español, mais ça peut casser le ñ breton
 \bñ\b	n ~	0	1
 ñ	gn	0	0
+# finales en -ón en espagnol
+\b([A-Za-z]+)jón\b	\1ronn	1	1
+\b([A-Za-z]+)ón\b	\1onn	1	1
 #ã (a tilde) portuguais, comme dans le prénom João
 \bã\b	a ~	0	1
 ã	an 	0	0
@@ -52,6 +55,12 @@ cümbüş	djummbuch	0	2
 ð	th	0	0
 \b[Þþ]\b	thorn	0	1
 þ	th	0	0
+#accent circonflexe "normalisé", j'ignore ce que c'est:
+â	â	0	0
+ê	ê	0	0
+î	î	0	0
+ô	ô	0	0
+û	û	0	0
 #Autres diacritiques, sans transformation, juste la prononciation de la diacritique quand la lettre est seule, dans un article wikipedia, un alphabet, ou épellation
 \bă\b	a ˘	0	1
 \bą\b	a ˛	0	1
